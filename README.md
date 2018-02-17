@@ -1,4 +1,6 @@
 # Capstone
 Capstone project
 
-# Apply Data wranggling to your capstone project
+  1. Apply data wranggling to your capstone project
+
+
