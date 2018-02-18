@@ -1,0 +1,1260 @@
+"","Age","Gender","Country","state","self_employed","family_history","treatment","work_interfere","no_employees","remote_work","tech_company","benefits","care_options","wellness_program","seek_help","anonymity","leave","mental_health_consequence","phys_health_consequence","coworkers","supervisor","mental_health_interview","phys_health_interview","mental_vs_physical","obs_consequence","comments"
+"1",37,"Female","United States","IL",NA,0,1,"Often",4,0,1,NA,2,1,3,3,"Somewhat easy",1,1,2,3,1,2,3,0,NA
+"2",44,"M","United States","IN",NA,0,0,"Rarely",6,0,0,2,1,2,2,2,"Don't know",2,1,1,1,1,1,2,0,NA
+"3",32,"Male","Canada",NA,NA,0,0,"Rarely",4,0,1,1,1,1,1,2,"Somewhat difficult",1,1,3,3,3,3,1,0,NA
+"4",31,"Male","United Kingdom",NA,NA,1,1,"Often",3,0,1,1,3,1,1,1,"Somewhat difficult",3,3,2,1,2,2,1,1,NA
+"5",31,"Male","United States","TX",NA,0,0,"Never",4,1,1,NA,1,2,2,2,"Don't know",1,1,2,3,3,3,2,0,NA
+"6",33,"Male","United States","TN",NA,1,0,"Sometimes",4,0,1,NA,2,1,2,2,"Don't know",1,1,3,3,1,2,2,0,NA
+"7",35,"Female","United States","MI",NA,1,1,"Sometimes",4,1,1,1,1,1,1,1,"Somewhat difficult",2,2,2,1,1,1,2,0,NA
+"8",39,"M","Canada",NA,NA,0,0,"Never",4,1,1,1,3,1,1,3,"Don't know",1,1,1,1,1,1,1,0,NA
+"9",42,"Female","United States","IL",NA,1,1,"Sometimes",4,0,1,NA,3,1,1,1,"Very difficult",2,1,3,3,1,2,1,0,NA
+"10",23,"Male","Canada",NA,NA,0,0,"Never",3,0,1,2,1,2,2,2,"Don't know",1,1,3,3,2,2,3,0,NA
+"11",31,"Male","United States","OH",NA,0,1,"Sometimes",4,1,1,2,1,1,1,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"12",29,"male","Bulgaria",NA,NA,0,0,"Never",4,1,1,2,2,1,1,2,"Don't know",1,1,3,3,3,3,2,0,NA
+"13",42,"female","United States","CA",NA,1,1,"Sometimes",3,0,0,NA,3,1,1,2,"Somewhat difficult",3,3,3,3,2,2,1,1,NA
+"14",36,"Male","United States","CT",NA,1,0,"Never",5,0,1,2,2,1,2,2,"Don't know",1,1,3,3,1,1,2,0,"I'm not on my company's health insurance which could be part of the reason I answered Don't know to so many questions."
+"15",27,"Male","Canada",NA,NA,0,0,"Never",4,0,1,2,2,2,2,2,"Somewhat easy",1,1,2,2,2,3,3,0,NA
+"16",29,"female","United States","IL",NA,1,1,"Rarely",3,0,1,NA,2,1,1,2,"Somewhat easy",1,1,3,2,2,2,2,0,"I have chronic low-level neurological issues that have mental health side effects. One of my supervisors has also experienced similar neurological problems so I feel more comfortable being open about my issues than I would with someone without that experience."
+"17",23,"Male","United Kingdom",NA,NA,0,1,"Sometimes",3,1,1,2,1,2,2,2,"Very easy",2,1,2,1,2,2,1,0,"My company does provide healthcare but not to me as I'm on a fixed-term contract. The mental healthcare I use is provided entirely outside of my work."
+"18",32,"Male","United States","TN",NA,0,1,"Sometimes",4,0,1,NA,3,1,2,2,"Don't know",2,1,2,3,1,1,1,0,NA
+"19",46,"male","United States","MD","Yes",1,0,"Sometimes",4,1,1,NA,2,3,2,3,"Very easy",1,1,3,3,1,3,3,1,NA
+"20",36,"Male","France",NA,"Yes",1,0,NA,4,1,1,1,1,3,1,3,"Somewhat easy",1,1,2,2,2,2,2,0,NA
+"21",29,"Male","United States","NY","No",1,1,"Sometimes",4,0,1,NA,3,1,1,1,"Somewhat difficult",2,1,2,2,1,1,1,0,NA
+"22",31,"male","United States","NC","Yes",0,0,"Never",4,1,1,1,1,1,1,3,"Somewhat difficult",1,1,2,2,1,2,3,0,NA
+"23",46,"Male","United States","MA","No",0,1,"Often",3,1,1,NA,3,1,1,2,"Don't know",2,1,2,3,1,2,1,0,NA
+"24",41,"Male","United States","IA","No",0,1,"Never",6,0,0,2,1,1,2,2,"Don't know",2,1,1,1,1,3,2,0,NA
+"25",33,"male","United States","CA","No",1,1,"Rarely",3,0,1,NA,2,2,3,3,"Don't know",1,1,3,3,1,3,2,0,"Relatively new job. Ask again later"
+"26",35,"male","United States","TN","No",1,1,"Sometimes",6,0,0,NA,3,1,2,1,"Very easy",3,1,2,3,1,3,1,0,"Sometimes I think  about using drugs for my mental health issues. If i use drugs I feel better"
+"27",33,"male","United States","TN","No",0,0,NA,4,0,1,2,2,1,2,2,"Don't know",2,2,2,1,1,1,2,0,NA
+"28",35,"Female","United States","CA","No",1,1,"Rarely",4,1,1,NA,3,2,2,2,"Don't know",1,1,3,3,2,2,3,0,NA
+"29",34,"male","United States","OH","No",0,1,"Sometimes",3,1,1,2,2,1,2,2,"Somewhat difficult",1,1,2,1,1,1,1,0,NA
+"30",37,"Male","United Kingdom",NA,"No",0,0,"Sometimes",4,0,1,1,1,1,1,2,"Very difficult",3,2,2,1,1,2,1,0,NA
+"31",32,"Male","United Kingdom",NA,"No",0,0,"Never",4,1,1,1,1,1,1,2,"Don't know",3,3,2,2,1,2,1,0,NA
+"32",31,"Male","United States","PA","Yes",1,0,"Rarely",4,1,1,1,3,1,1,2,"Somewhat difficult",3,1,1,1,1,1,1,1,NA
+"33",30,"male","United Kingdom",NA,"No",1,1,"Sometimes",5,1,1,2,1,1,1,3,"Somewhat easy",2,1,2,3,1,3,2,0,NA
+"34",42,"Male","United States","WA","No",1,1,"Sometimes",3,1,1,NA,3,3,3,3,"Very easy",2,1,2,2,2,3,2,0,"I selected my current employer based on its policies about self care and the quality of their overall health and wellness benefits. I still have residual caution from previous employers who ranged from ambivalent to indifferent to actively hostile regarding mental health concerns."
+"35",40,"female","United States","WI","No",0,1,"Sometimes",4,0,1,NA,3,1,1,2,"Don't know",2,1,2,1,1,2,3,0,NA
+"36",27,"Male","United States","NY","No",0,1,"Rarely",4,0,1,1,3,1,1,2,"Very easy",1,1,3,3,2,2,2,0,NA
+"37",29,"Male","Canada",NA,"No",0,0,"Rarely",4,0,1,1,1,1,1,2,"Very easy",3,2,2,1,1,1,2,0,NA
+"38",38,"Male","Portugal",NA,"No",0,0,NA,4,0,1,1,3,1,1,2,"Somewhat easy",2,1,2,2,1,2,1,0,NA
+"39",50,"M","United States","IN","No",0,0,NA,4,0,1,NA,3,1,2,2,"Don't know",1,1,2,3,1,2,2,0,NA
+"40",35,"M","United States","TX","No",0,1,"Rarely",6,1,1,NA,3,1,3,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"41",24,"Male","United Kingdom",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Don't know",2,2,2,1,1,3,1,1,NA
+"42",35,"Male","United States","MI","No",0,0,NA,6,1,1,NA,2,2,3,2,"Somewhat difficult",3,3,2,1,1,2,2,0,NA
+"43",27,"Male","Canada",NA,"No",1,1,"Sometimes",4,0,1,1,3,1,1,3,"Very difficult",2,1,2,1,1,1,3,0,NA
+"44",18,"Male","Netherlands",NA,"No",0,0,"Often",4,0,1,1,2,1,1,2,"Somewhat difficult",3,2,1,2,1,1,1,0,NA
+"45",30,"Male","United States","IN","No",0,1,"Sometimes",3,0,1,2,1,1,1,2,"Don't know",1,1,1,1,1,2,2,0,NA
+"46",38,"Female","United States","TX","No",1,1,"Sometimes",3,0,1,NA,3,1,3,3,"Somewhat easy",1,1,2,3,1,1,3,0,"Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery but y'know I wasn't delivering."
+"47",28,"Male","United Kingdom",NA,"No",0,0,NA,3,0,1,2,2,1,1,2,"Don't know",1,2,2,3,2,3,2,0,NA
+"48",34,"Male","United States","TN","No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",1,1,3,3,2,3,2,0,NA
+"49",26,"m","Canada",NA,"Yes",0,0,"Sometimes",4,0,1,1,3,3,1,2,"Don't know",1,1,3,3,1,1,3,0,NA
+"50",30,"male","United States","IL","No",1,1,"Rarely",3,0,1,NA,1,1,2,2,"Don't know",2,1,2,3,1,1,2,0,"I just started a new job last week hence a lot of don't know's"
+"51",22,"M","United States","TX","No",1,1,"Often",4,0,1,1,3,1,1,3,"Very difficult",2,1,1,1,1,2,2,0,NA
+"52",33,"Male","United States","UT","No",0,0,NA,4,1,1,2,2,2,2,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"53",31,"M","United States",NA,"No",0,0,NA,4,1,1,2,1,2,2,2,"Don't know",2,2,2,2,2,2,2,0,NA
+"54",32,"Male","United States","TN","No",0,0,"Never",4,1,1,2,2,1,1,2,"Don't know",2,1,2,3,1,1,2,0,NA
+"55",28,"M","Switzerland",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",1,1,1,1,1,2,2,0,NA
+"56",27,"Male-ish","United States","NY","No",1,1,"Rarely",3,0,1,NA,3,1,1,3,"Don't know",2,1,1,1,1,1,2,0,NA
+"57",32,"maile","United States","TN","No",1,0,NA,4,1,1,2,1,1,1,2,"Somewhat easy",1,1,3,3,1,1,3,0,NA
+"58",24,"Male","United States","NY","No",1,1,"Sometimes",3,1,1,2,1,1,1,2,"Don't know",1,2,2,3,3,3,1,0,NA
+"59",26,"Male","United States","TN","No",0,0,NA,3,0,0,1,1,1,1,3,"Somewhat easy",1,1,2,3,2,3,2,0,NA
+"60",33,"male","Canada",NA,"No",1,1,"Often",4,1,1,2,1,1,1,1,"Somewhat difficult",3,1,1,1,1,2,2,0,"In addition to my own mental health issues I've known several coworkers that may be suffering and I don't know how to tell them I empathize and that I want to help."
+"61",44,"Male","United States","IA","No",1,1,"Sometimes",6,0,0,NA,1,1,2,2,"Don't know",3,2,2,1,1,2,2,1,NA
+"62",26,"Female","Poland",NA,"No",0,1,"Sometimes",3,1,1,2,2,3,3,3,"Very easy",1,1,3,3,2,3,3,0,NA
+"63",27,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,NA,2,1,3,2,"Somewhat easy",1,1,3,3,2,2,3,0,NA
+"64",26,"Male","France",NA,"No",0,0,NA,3,0,1,1,1,1,1,2,"Very easy",3,1,1,1,1,1,1,1,NA
+"65",35,"male","Canada",NA,"No",0,0,"Sometimes",4,0,1,2,1,1,1,2,"Somewhat easy",1,1,2,3,1,2,2,0,NA
+"66",40,"Male","United States","CA","No",1,0,"Sometimes",6,1,1,NA,3,3,3,2,"Don't know",3,2,2,1,1,1,1,1,NA
+"67",23,"Female","Australia",NA,"No",1,1,"Often",4,1,1,1,2,1,1,2,"Very easy",1,1,2,3,1,2,3,0,"Thanks for doing this research."
+"68",36,"M","United States","TX","No",0,0,"Sometimes",4,1,1,NA,1,2,3,2,"Don't know",2,1,2,2,2,3,3,0,NA
+"69",31,"Female","United States","NM","No",0,0,NA,3,1,0,2,1,2,2,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"70",34,"Male","United States","NY","Yes",0,0,"Rarely",4,1,1,1,1,1,1,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"71",28,"m","France",NA,"No",0,0,"Never",3,0,1,1,1,1,1,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"72",34,"male","Canada",NA,"No",0,0,"Never",4,0,1,2,2,2,2,2,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"73",23,"Trans-female","United States","MA","No",0,0,"Rarely",6,0,1,NA,3,1,1,3,"Somewhat difficult",2,1,3,3,1,1,1,0,NA
+"74",38,"Male","United Kingdom",NA,"No",0,0,NA,3,0,1,1,1,1,2,3,"Somewhat easy",1,1,2,3,2,3,3,0,NA
+"75",33,"Male","United States","CA","No",0,0,"Never",6,0,1,2,2,3,2,2,"Don't know",2,1,2,2,1,2,3,0,NA
+"76",19,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,3,1,1,1,"Somewhat difficult",3,1,1,1,1,2,1,0,NA
+"77",25,"Male","United States","WA","No",0,0,NA,6,1,1,NA,3,3,3,2,"Don't know",1,1,3,3,2,3,3,0,NA
+"78",31,"Male","United States","WA","Yes",1,0,"Sometimes",4,1,1,1,1,1,1,3,"Somewhat difficult",1,1,3,3,2,2,3,0,NA
+"79",32,"Male","United States","UT","No",1,1,"Sometimes",3,1,1,1,1,1,1,2,"Somewhat difficult",3,1,2,1,1,3,1,0,NA
+"80",28,"m","Germany",NA,"No",0,0,"Never",4,1,1,2,1,2,2,2,"Very easy",1,1,2,2,2,3,3,0,NA
+"81",38,"Male","United States","NY","No",1,0,"Sometimes",4,1,1,NA,3,1,3,2,"Don't know",1,1,3,2,2,2,3,0,NA
+"82",23,"Male","United Kingdom",NA,"No",0,0,"Never",3,0,1,NA,2,3,2,2,"Very easy",1,1,2,3,2,2,3,0,NA
+"83",30,"male","Canada",NA,"No",0,0,"Never",3,0,0,1,1,1,1,2,"Don't know",1,1,2,3,1,1,1,0,NA
+"84",27,"Cis Female","United States","NY","Yes",0,1,"Often",4,1,1,NA,3,3,3,3,"Very easy",2,2,2,3,1,2,3,0,NA
+"85",33,"Male","United States","CA","No",1,0,"Never",6,0,1,1,1,1,1,2,"Don't know",3,1,1,1,1,2,1,0,NA
+"86",31,"Male","United States","TX","No",0,0,NA,3,0,1,2,2,1,1,2,"Don't know",1,1,2,3,2,2,1,0,NA
+"87",39,"Male","United Kingdom",NA,"Yes",0,1,"Often",4,0,1,1,1,1,1,2,"Very difficult",2,1,2,1,1,2,1,1,NA
+"88",34,"female","United States","OR","No",1,1,"Rarely",5,1,1,NA,2,1,2,2,"Don't know",3,2,2,2,1,1,2,0,NA
+"89",29,"F","United States","FL","No",0,1,"Sometimes",3,0,1,NA,3,1,1,2,"Don't know",2,1,2,2,1,2,1,1,NA
+"90",32,"M","United States","IL","No",0,0,NA,5,0,1,2,1,1,2,2,"Don't know",1,1,2,2,1,1,2,0,NA
+"91",31,"Male","United States","NY","No",0,0,"Never",5,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,3,1,1,3,0,NA
+"92",40,"male","United States","TX","No",0,1,"Sometimes",3,0,1,1,3,1,1,3,"Very difficult",1,1,3,3,3,3,1,0,NA
+"93",34,"Male","United States","OH","No",0,0,NA,3,0,1,2,1,1,1,2,"Somewhat easy",2,1,2,1,1,2,2,0,NA
+"94",18,"something kinda male?","Russia",NA,"No",0,0,NA,3,1,1,NA,3,1,1,3,"Somewhat easy",1,1,3,3,3,3,2,0,"In Russia we have mandatory medical insurance. Every employer must pay 3.6% of every employee's salary to the insurance fund like a tax. Everyone gets free healthcare at public clinics and hospitals. Some types of healthcare including mental health are still funded from the government budget but that doesn't matter it's still FREE!However this is Russia :D I don't know much about what actually happens in mental hospitals here except that a lot of young people with male in their passports use these to avoid military draft and doctors seem to help them."
+"95",25,"F","Canada",NA,"No",0,1,"Sometimes",3,0,1,NA,3,1,2,2,"Don't know",2,1,2,3,1,2,2,0,NA
+"96",29,"male","United States","MN","No",0,0,"Never",3,0,1,2,1,1,2,2,"Don't know",1,1,3,3,2,2,1,0,NA
+"97",24,"Male","United States","MO","No",1,0,"Rarely",3,0,1,2,2,1,2,2,"Somewhat easy",2,2,2,1,1,2,2,0,NA
+"98",31,"male","Mexico",NA,"No",1,1,"Sometimes",4,0,1,2,1,1,1,2,"Don't know",1,1,2,3,2,3,1,0,NA
+"99",33,"Cis Male","United States","AZ","No",0,1,"Sometimes",4,0,1,1,3,1,1,2,"Somewhat easy",2,1,2,1,1,2,1,0,NA
+"100",30,"M","United States","IN","No",0,1,"Often",4,0,1,1,3,1,1,3,"Somewhat easy",1,1,3,3,2,2,3,0,NA
+"101",26,"female","Canada",NA,"No",1,1,"Sometimes",3,0,0,1,3,1,1,1,"Very difficult",3,1,1,1,1,2,1,1,"In my previous workplace which had mental health protections policies and access to counsellors my Director went so far as to say to me in somewhat casual conversation A woman was murdered across the street. At best though she was bipolar and at worst - who knowsI have bipolar disorder. I have zero faith that an organization with policies in place could appropriately handle mental health. I have even less faith that a workplace without the policies in place could appropriately handle mental health. I can only imagine it's worse in full tech environments."
+"102",44,"Female","United States","MA","No",0,0,"Never",4,0,1,NA,2,2,2,2,"Don't know",2,2,1,2,1,1,2,0,NA
+"103",25,"Male","United States","NY","No",1,0,NA,3,0,1,2,1,2,2,2,"Very easy",1,1,2,3,1,1,2,0,NA
+"104",33,"Male","United States","WI","No",1,1,"Sometimes",3,1,1,NA,3,3,3,3,"Somewhat easy",1,1,2,3,2,2,3,0,NA
+"105",29,"Male","United States","NY","No",0,0,"Never",6,0,1,NA,2,3,2,2,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"106",35,"Male","United States","MO","No",1,0,"Rarely",4,0,1,NA,2,1,1,3,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"107",35,"M","United States","OR","No",1,1,"Sometimes",3,1,1,2,2,1,1,2,"Somewhat easy",1,1,2,3,1,2,1,0,"I've seen negative consequences towards mental health conditions in previous workplaces.Working remote is empowering in this way."
+"108",28,"Male","Brazil",NA,"No",1,1,"Rarely",4,0,1,1,1,1,1,1,"Don't know",2,1,3,3,1,1,2,1,NA
+"109",34,"m","United States","TN","No",1,0,"Never",4,1,1,NA,1,1,1,2,"Don't know",2,1,1,1,1,1,2,0,NA
+"110",32,"Male","United States","WA","No",0,1,"Sometimes",3,0,1,NA,1,3,3,3,"Somewhat difficult",2,1,2,3,1,2,3,0,NA
+"111",22,"Male","United States","NY","No",0,1,"Sometimes",5,0,1,NA,3,1,2,3,"Don't know",3,1,1,1,1,3,1,0,NA
+"112",28,"Male","United States","CA","No",0,1,"Sometimes",3,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,2,1,2,3,0,NA
+"113",45,"male","United States","MO","No",1,1,"Rarely",4,1,1,NA,3,1,3,3,"Very easy",1,1,3,3,3,3,3,0,NA
+"114",32,"Male","United States","NY","No",0,0,"Never",4,0,1,NA,3,1,2,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"115",28,"male","United States","TX","No",0,0,NA,6,0,1,2,1,1,2,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"116",26,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,2,1,1,2,2,"Very easy",1,1,2,2,1,1,2,1,NA
+"117",21,"Male","United Kingdom",NA,"Yes",0,0,"Often",4,1,0,1,3,1,1,3,"Very difficult",3,1,2,3,1,2,1,0,NA
+"118",27,"Male","Canada",NA,"No",0,0,"Rarely",4,0,0,NA,3,3,3,3,"Very easy",2,1,2,3,1,1,2,0,NA
+"119",18,"Male","United States","CT","No",0,1,"Rarely",4,1,1,1,1,1,1,3,"Very easy",1,1,2,1,1,1,2,0,NA
+"120",35,"Male","United States","CO","No",0,0,NA,3,1,1,2,2,1,2,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"121",29,"Male","United States","GA","No",0,0,"Never",6,0,1,NA,3,1,3,2,"Don't know",3,3,1,1,1,1,2,0,NA
+"122",25,"Male","United States","DC","No",0,0,NA,3,1,1,2,1,1,1,2,"Very easy",1,1,2,3,1,1,2,0,NA
+"123",33,"Male","United States","MN","No",1,1,"Sometimes",4,1,1,2,1,2,2,3,"Very easy",1,1,3,3,1,2,3,0,NA
+"124",36,"Male","United States","WA","No",0,0,"Often",4,0,1,NA,1,1,1,3,"Don't know",2,1,1,1,1,1,2,0,NA
+"125",27,"Male","Canada",NA,"No",0,1,"Never",4,0,0,NA,2,1,1,2,"Very difficult",2,1,2,3,1,2,1,1,NA
+"126",27,"Male","United States","WA","No",1,0,"Never",5,0,1,NA,1,3,3,3,"Don't know",3,1,2,1,1,3,2,0,NA
+"127",27,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",1,1,2,2,1,1,2,0,NA
+"128",32,"M","United States","OR","No",0,1,"Rarely",4,0,1,NA,3,1,3,3,"Don't know",3,1,1,3,1,1,2,0,NA
+"129",31,"Male","United Kingdom",NA,"No",1,0,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat easy",2,2,1,1,1,1,3,0,NA
+"130",19,"male","Slovenia",NA,"No",0,1,"Sometimes",4,0,1,2,1,1,1,2,"Somewhat easy",3,3,2,1,1,1,2,0,NA
+"131",33,"Male","United States","IL","No",1,1,"Sometimes",6,0,1,NA,3,1,1,2,"Very easy",2,1,3,2,1,3,1,0,NA
+"132",32,"male","United States","CA","No",0,0,"Rarely",4,1,1,1,3,1,1,2,"Very difficult",2,1,3,2,1,3,2,0,NA
+"133",27,"Male","United States","NE","No",0,0,"Never",3,0,1,2,2,2,2,2,"Don't know",1,1,3,3,2,2,2,0,NA
+"134",38,"Male","Costa Rica",NA,"No",0,0,NA,3,1,1,1,3,1,1,3,"Somewhat easy",1,1,3,3,2,3,1,0,NA
+"135",24,"Male","Canada",NA,"No",0,1,"Never",3,0,1,2,1,1,1,2,"Don't know",1,1,2,3,2,3,2,0,NA
+"136",39,"M","United Kingdom",NA,"No",0,0,"Never",3,0,0,1,1,1,1,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"137",28,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,2,1,1,1,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"138",39,"Male","United States","IA","No",0,1,"Often",6,0,1,NA,2,1,1,2,"Somewhat easy",1,1,3,3,1,1,2,0,NA
+"139",29,"Female","United States","MD","No",0,0,NA,4,0,1,2,1,1,2,2,"Somewhat easy",2,1,2,1,1,1,2,0,NA
+"140",22,"m","Austria",NA,"No",0,0,NA,4,1,1,2,1,2,1,2,"Somewhat easy",1,1,2,2,1,1,2,0,NA
+"141",38,"Male","United States","OR","No",1,1,"Sometimes",4,0,1,2,1,2,2,2,"Don't know",2,1,2,3,1,1,2,0,NA
+"142",37,"Male","United Kingdom",NA,"Yes",0,1,"Sometimes",6,0,0,1,3,3,3,3,"Very difficult",3,3,2,1,1,2,3,0,"I'm not a permanent employee so do not get they benefits they get.My client is extremely supportive of permanent staff with mental health issues."
+"143",35,"M","United States","TX","No",0,0,"Never",3,1,0,2,2,2,2,2,"Don't know",3,1,2,1,1,2,2,0,NA
+"144",-29,"Male","United States","MN","No",0,0,NA,6,1,0,NA,1,2,3,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"145",30,"Female","United States","PA","No",1,0,NA,6,1,1,2,2,1,2,2,"Don't know",2,2,2,2,1,2,2,0,"I'd be more worried about coworkers and workplace culture than the employer--they're probably legally obligated to do some things but reputation among people I work with is something else. For instance I've heard people make snide remarks about men taking paternity leave I don't want to know what they'd say about mental health leave."
+"146",37,"Male","United States","IN","No",1,1,"Rarely",4,0,0,NA,3,3,3,2,"Somewhat easy",2,2,2,3,2,2,2,0,NA
+"147",24,"M","United Kingdom",NA,"No",0,0,"Never",4,0,1,1,1,1,1,3,"Don't know",2,2,1,2,1,1,2,0,NA
+"148",23,"Male","United States","WV","No",0,0,"Sometimes",4,0,0,1,1,1,1,1,"Somewhat easy",3,3,1,1,1,1,1,0,NA
+"149",30,"male","Ireland",NA,"No",0,1,"Rarely",4,0,1,1,3,3,3,2,"Somewhat easy",3,1,2,1,1,1,1,1,NA
+"150",29,"Female","United States","MI","No",0,0,NA,4,1,1,2,2,1,2,2,"Don't know",2,1,1,2,1,2,2,0,NA
+"151",19,"Male","Canada",NA,"Yes",1,0,NA,4,1,1,2,2,1,3,3,"Somewhat easy",2,1,2,2,2,2,2,0,NA
+"152",32,"male","United States","CA","No",1,0,"Never",3,0,1,2,2,1,1,2,"Very easy",1,1,2,2,1,2,1,0,NA
+"153",28,"male","Poland",NA,"No",0,0,"Rarely",4,1,1,1,1,1,1,2,"Don't know",1,1,3,3,2,3,3,0,NA
+"154",36,"Male","United States","IL","No",0,0,"Never",4,0,1,2,2,2,2,2,"Don't know",1,1,2,2,2,2,2,0,NA
+"155",37,"Male","United Kingdom",NA,"No",1,1,"Rarely",6,0,0,NA,3,3,3,3,"Somewhat difficult",3,2,2,1,1,3,1,1,NA
+"156",25,"Male","United States","IL","No",1,1,"Sometimes",3,0,0,2,1,1,2,2,"Somewhat difficult",2,1,2,2,1,2,1,0,NA
+"157",27,"Male","United States","CA","No",1,1,"Sometimes",6,0,1,2,1,1,2,2,"Don't know",1,1,1,2,1,2,2,0,NA
+"158",26,"male","United States","OK","No",0,0,"Often",3,0,0,2,2,1,1,2,"Don't know",3,2,2,3,1,2,1,0,NA
+"159",27,"male","United States","UT","No",0,1,"Rarely",3,1,1,1,3,1,1,2,"Somewhat difficult",2,1,2,3,1,1,2,1,"Had a co-worker disappear from work for a few weeks and then come back to let everyone know he was bipolar. His responsibilities and schedule were adjusted to accommodate but he got worse didn't show up didn't work etc and was eventually let go.It was tough because on the one hand he was struggling with some mental health issues but on the other hand he went through a period of months where he wasn't performing."
+"160",25,"Male","United States","IL","No",1,1,"Sometimes",3,0,1,2,2,1,1,2,"Very easy",2,1,2,1,1,1,2,1,"Family history of depression.  Currently dealing with depression and anxiety as well as drug addition.Employer provides & pays premiums on insurance which covers therapy and prescriptions.  Employer allows work-from-home and unlimited PTO which makes episodes easier to control.I don't speak of my problems to anyone at work except for the people that I consider friends and even then I don't go into great detail.I would never bring up a mental health issue during an interview for fear of discrimination and rejection (and therefore greater depression).  One co-worker had serious anxiety problems and would not inform his team of episodes and was eventually let go for being unresponsive."
+"161",36,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,0,0,NA,3,3,3,3,"Somewhat easy",2,2,2,2,1,2,2,1,"I feel that my employer and colleagues have created my mental health issue. Additionally I have contributed to this by staying in the same job with the same employer for 10+ years."
+"162",25,"F","United States","NY","No",1,1,"Sometimes",5,0,1,NA,1,1,1,2,"Don't know",3,3,2,2,1,1,2,0,NA
+"163",31,"M","United States","CA","No",0,0,"Never",6,0,1,NA,1,1,3,2,"Don't know",1,1,2,2,1,1,2,0,NA
+"164",26,"male","United States","MA","No",1,0,"Rarely",4,0,1,2,1,1,1,2,"Don't know",2,1,2,3,1,1,2,0,NA
+"165",33,"F","United States","WA","Yes",1,1,"Sometimes",4,0,1,1,3,3,3,3,"Very difficult",1,1,2,3,1,3,3,0,"Many of these questions become irrelevant once 'Yes' is selected for 'Are you self-employed'.  It would be preferable for there to be a 'Not Relevant' option on these."
+"166",27,"Woman","United Kingdom",NA,"Yes",1,0,NA,4,1,1,1,3,1,1,3,"Somewhat easy",1,1,3,3,1,2,3,0,"as a UK-based company we don't have any medical provisions as it's all provided on the National Health Service (for now!) However if we do need to take days off for any kind of health problems everyone is understanding :)"
+"167",34,"Male","United States","MN","No",0,0,"Never",3,0,1,1,1,1,1,2,"Very easy",2,1,2,2,1,2,2,0,NA
+"168",42,"male","United States","CA","No",0,0,NA,4,0,1,1,3,1,1,2,"Very difficult",2,1,3,3,1,2,1,0,NA
+"169",23,"male","Ireland",NA,"Yes",1,0,"Sometimes",4,0,1,1,1,1,1,2,"Very difficult",3,1,1,1,1,2,1,0,NA
+"170",24,"Male","United Kingdom",NA,"No",0,0,"Rarely",4,0,1,2,2,3,2,2,"Very easy",2,2,2,2,1,2,2,0,NA
+"171",26,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,0,1,NA,3,2,2,3,"Somewhat easy",1,1,3,3,1,1,2,0,"My employer employs 17k people worldwide and my previous employer only 140 globally both have been very supportive and accommodating with my moderate depression and intense anxiety."
+"172",31,"Male","United Kingdom",NA,"Yes",0,1,"Often",4,0,1,2,1,1,1,2,"Don't know",2,1,2,3,1,2,2,0,NA
+"173",22,"M","India",NA,"No",0,1,"Never",6,0,1,2,2,1,1,2,"Very difficult",3,2,1,1,2,2,1,0,NA
+"174",23,"Female","United States","NC","No",0,0,NA,4,0,1,2,1,1,2,2,"Don't know",2,2,2,3,1,2,3,0,NA
+"175",34,"Female","Canada",NA,"No",1,1,"Sometimes",6,0,0,NA,3,3,1,2,"Somewhat easy",1,1,2,3,1,1,1,0,NA
+"176",31,"male","United States","MO","No",0,0,"Never",3,0,1,2,2,1,2,2,"Don't know",2,1,1,2,1,2,2,0,NA
+"177",28,"Male","United Kingdom",NA,"No",0,0,NA,4,0,0,1,2,1,3,3,"Somewhat easy",1,1,2,2,2,2,3,0,NA
+"178",32,"Female","United States","MA","No",0,1,"Often",4,1,1,NA,2,2,2,3,"Very easy",1,1,3,3,1,1,3,1,"I am not sure about my company's healthcare because I've opted out of it and I'm covered under another policy.I currently work at a great company though in past jobs I don't think I would have felt comfortable talking about mental health at all."
+"179",45,"F","United States","CA","No",0,1,"Sometimes",4,0,1,NA,1,1,1,3,"Somewhat difficult",1,1,3,3,1,1,3,0,"In small startups it is very hard to keep mental health issues truly private no matter what management does."
+"180",33,"Male","United States","TX","No",0,0,NA,4,1,1,2,1,1,1,2,"Very easy",1,1,3,3,1,2,2,0,"A close family member of mine struggles with mental health so I try not to stigmatize it. My employers/coworkers also seem compassionate toward any kind of health or family needs."
+"181",29,"male","Mexico",NA,"No",0,0,"Never",4,1,1,1,1,1,1,1,"Don't know",2,2,1,3,2,3,1,0,NA
+"182",26,"f","India",NA,"Yes",0,0,"Sometimes",4,0,0,1,1,1,1,2,"Somewhat easy",2,2,2,2,1,1,2,0,NA
+"183",28,"Female","United Kingdom",NA,"No",0,0,"Never",3,0,1,2,1,1,2,3,"Somewhat easy",1,1,3,3,2,2,2,0,NA
+"184",45,"M","United States","CA","No",0,1,"Sometimes",6,0,1,2,2,2,2,2,"Don't know",3,3,2,2,1,1,2,0,NA
+"185",43,"Male","United States","WA","No",1,1,"Often",6,1,1,NA,2,1,2,2,"Very difficult",3,2,1,1,1,1,1,0,NA
+"186",37,"male","United States","MA","No",0,0,NA,5,1,1,NA,1,1,1,2,"Don't know",3,1,2,1,2,3,1,0,NA
+"187",24,"Male","United Kingdom",NA,"No",0,0,"Sometimes",4,0,1,2,1,1,2,2,"Somewhat easy",2,1,2,3,2,3,3,0,NA
+"188",26,"Male","France",NA,"No",0,0,NA,4,1,1,1,3,1,1,2,"Somewhat easy",1,1,2,1,1,2,3,0,NA
+"189",23,"male","United Kingdom",NA,"No",1,0,NA,4,1,1,2,1,1,1,2,"Don't know",1,1,2,3,2,3,2,0,NA
+"190",35,"Female","United States","CA","No",1,1,"Never",6,0,1,NA,2,2,1,3,"Somewhat easy",2,1,1,1,1,1,2,0,NA
+"191",38,"Female","South Africa",NA,"Yes",1,1,"Often",4,1,1,1,3,1,1,3,"Somewhat easy",2,2,2,2,1,2,2,1,NA
+"192",28,"Male","United States","MI","No",1,1,"Sometimes",3,0,1,NA,1,1,1,2,"Somewhat easy",2,2,2,1,1,2,1,0,NA
+"193",28,"Male","Russia",NA,"No",0,0,"Sometimes",3,0,1,1,1,1,1,2,"Don't know",3,2,1,1,1,2,2,0,NA
+"194",35,"Male","United States","CA","No",0,1,"Rarely",4,0,1,1,1,1,1,3,"Don't know",1,1,2,3,1,1,2,0,NA
+"195",32,"female","Germany",NA,"No",0,0,"Sometimes",4,0,1,1,1,1,1,2,"Very difficult",3,3,2,1,1,1,1,1,"Too many people even especially IT considered mental health issues as a choice or something people can freely act about. You are depressed: take vacation. You feel weird: admit it is physical (otherwise it is not serious) go and see a doctor (and if you are on sick leave too many days you will get fired). You don't feel good today: take a holiday but don't work from home. In startup there is what I call the tyranny of happiness: you have to look happy to be accepted and to be worked with. At some point playing a role can definitely make the mental health issue worse and it is also a threat to diversity :(I don't like to call mental health issues an issue but actually when it comes to company field it too often becomes an issue and this is sad because working is sometimes better than medication. It is a vicious circle: people are scared of speaking about it so they don't inform their coworkers about what mental health is for real and so coworkers are so scared on a regular basis that the people with mental health issues keep it for themselves."
+"196",31,"Mal","Italy",NA,"Yes",1,0,"Never",4,0,1,1,1,1,1,2,"Somewhat easy",2,2,2,2,1,2,2,0,NA
+"197",35,"Female","United States","NY","No",0,0,"Never",5,1,1,2,2,1,1,2,"Don't know",2,2,2,1,1,1,2,0,NA
+"198",26,"Male","United States","CA","No",0,0,"Rarely",6,0,1,NA,1,1,1,3,"Somewhat easy",1,1,2,3,1,2,1,0,NA
+"199",27,"Male","United States","TN","No",1,0,NA,4,1,1,NA,3,1,1,2,"Somewhat easy",2,2,2,2,1,2,3,0,NA
+"200",28,"Male","United Kingdom",NA,"No",1,1,"Sometimes",6,0,1,2,1,1,1,2,"Don't know",2,2,2,1,1,2,2,0,NA
+"201",27,"Female","United States","OR","No",1,1,"Sometimes",3,0,1,NA,1,1,1,2,"Very easy",1,1,2,2,1,1,3,0,"My seniority at the company and rapport with the owners has helped me gain support for seeking help regarding my mental health as well as being able to take time off or work from home when an episode starts.However I don't feel that the company's stance on mental health is as clear as say something like vision or dental.  There's very much a stigma."
+"202",34,"female","United States","MN","No",0,1,"Sometimes",5,0,0,NA,3,3,3,3,"Somewhat easy",2,1,2,3,1,1,3,0,NA
+"203",41,"male","United States","FL","No",0,1,"Often",4,1,1,1,2,1,1,2,"Very difficult",2,2,2,2,2,2,2,0,NA
+"204",37,"Male","Ireland",NA,"No",0,0,"Sometimes",4,0,1,1,3,1,1,2,"Very difficult",3,1,1,1,1,3,2,0,"When you are an introvert people don't notice if you are depressed. Its a vicious cycle of sorts."
+"205",34,"male","Austria",NA,"No",1,0,NA,4,1,1,2,1,2,2,2,"Very easy",1,1,3,3,1,1,3,0,NA
+"206",32,"Male","United Kingdom",NA,"No",1,1,"Sometimes",4,1,1,2,2,1,1,2,"Somewhat difficult",3,2,1,1,1,1,1,1,"I've answered 'Yes' on remote working but 50% is the maximum time we're allowed.The branch of the company I work for doesn't offer any medical benefits. It's not as common in the UK as we have the NHS for the moment. There are international branches that may so I've answered 'Don't know'."
+"207",21,"Male","Canada",NA,"No",0,1,"Sometimes",4,1,1,1,3,1,1,2,"Somewhat difficult",1,1,2,2,2,2,3,0,NA
+"208",30,"M","United States","MA","No",0,1,"Often",3,0,1,1,3,1,1,3,"Somewhat easy",2,1,3,3,1,2,2,0,NA
+"209",24,"male","United States","KS","No",0,0,"Never",3,0,1,2,2,1,2,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"210",26,"male","Bulgaria",NA,"No",0,0,NA,4,0,1,1,1,1,1,1,"Very easy",3,2,1,1,1,2,2,0,NA
+"211",40,"Female","United States","DC","No",0,0,NA,3,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,3,1,1,3,0,NA
+"212",37,"Male","United Kingdom",NA,"No",1,0,"Sometimes",3,0,0,1,1,1,1,2,"Don't know",3,2,2,3,1,2,2,0,NA
+"213",26,"Male","United Kingdom",NA,"Yes",0,1,"Often",4,1,1,1,1,1,1,2,"Don't know",3,1,1,1,1,2,2,0,NA
+"214",32,"F","United States","TX","No",1,1,"Sometimes",4,0,1,2,1,1,1,1,"Don't know",3,2,2,2,1,2,1,1,NA
+"215",32,"f","United States","MA","No",0,1,"Sometimes",4,0,0,NA,3,2,2,3,"Very easy",1,1,3,3,1,3,3,0,NA
+"216",27,"female","United States","MI","Yes",1,1,"Sometimes",4,1,1,1,1,2,2,2,"Very difficult",1,1,2,1,1,1,2,0,"Many of these questions were difficult to answer as a self-employed person; I did my best with the available options."
+"217",30,"Male","Germany",NA,"Yes",0,1,"Often",4,1,1,NA,3,1,1,3,"Very difficult",1,1,2,3,2,3,3,0,"I tried to answer as good as possible but I am CEO of a company so many questions don't fit very well.Also many of the questions are very US-centric in most systems healthcare is not your employers business."
+"218",31,"M","Canada",NA,"Yes",0,0,NA,4,0,1,NA,3,1,2,3,"Very easy",1,1,2,2,1,1,3,0,NA
+"219",29,"F","United States","NY","No",0,1,"Never",5,0,0,NA,1,1,2,2,"Somewhat difficult",2,1,2,1,1,1,2,0,NA
+"220",41,"Male (CIS)","United States","VA","No",0,0,NA,3,0,1,NA,2,1,1,2,"Very easy",3,1,1,2,1,1,2,0,NA
+"221",34,"female","United States","WA","No",0,0,NA,4,0,1,NA,1,1,1,2,"Somewhat easy",1,1,3,3,2,2,3,0,"One of my coworkers has mental health issues and she's open about them (eg: my enjoyment of this project may be due to my recent change in meds). I believe the response has been generally supportive. We're a very small tight-knit company."
+"222",33,"Male","United Kingdom",NA,"No",0,0,NA,3,0,1,2,1,1,1,2,"Don't know",1,1,3,3,3,3,2,0,NA
+"223",28,"male","United States","PA","No",0,0,"Rarely",NA,0,1,2,1,1,1,2,"Don't know",1,1,2,2,1,2,2,0,NA
+"224",28,"Male","United States","MI","No",0,1,"Sometimes",6,0,1,1,3,1,1,3,"Very difficult",3,1,1,2,1,1,1,0,NA
+"225",23,"Male","United States","PA","No",0,0,"Never",3,0,1,2,2,2,2,2,"Don't know",1,1,1,3,1,3,3,0,"A strong mind goes a long way. Stay strong. Take some time off to help. Its all in your head."
+"226",24,"M","United States","OR","No",0,0,NA,4,0,1,2,1,2,1,3,"Very easy",1,1,3,3,2,3,3,0,"Would you bring up a mental health issue with a potential employer in an interview?Poignant."
+"227",32,"male","United States","WA","No",0,0,"Rarely",4,1,1,1,3,1,1,2,"Very difficult",1,1,2,3,1,2,3,0,NA
+"228",34,"Male","Australia",NA,"Yes",0,0,"Sometimes",4,1,1,2,2,3,3,2,"Somewhat difficult",3,3,1,1,1,2,3,0,NA
+"229",24,"Male","United States","PA","No",0,0,"Never",4,0,1,NA,2,1,2,2,"Very easy",2,1,2,1,2,2,3,0,NA
+"230",26,"male","United Kingdom",NA,"Yes",0,1,"Sometimes",4,0,1,1,3,1,1,2,"Don't know",2,1,2,2,1,2,3,0,NA
+"231",36,"Male","United States","OH","No",0,1,"Sometimes",3,0,1,NA,1,1,3,2,"Don't know",2,1,2,2,1,2,2,1,NA
+"232",41,"Male","United States","TX","No",0,1,"Rarely",5,1,1,NA,3,1,2,2,"Don't know",2,2,2,1,2,2,1,0,"I found it difficult to answer all of the questions effectively as many of them would depend on the nature of the mental health issues as some seem more socially accepted than others. For some people telling your current supervisor that you have a history of bi-polar disorder might be easier than telling a potential employer that you have a history of compulsive gambling. They might both be bits of irrelevant information (past behavior and not indicators of future behavior). However western culture pushes us to appear as capable as possible to our supervisors in pursuit of excellence in our work. Providing information that could create a negative bias seems like a more genuine and yet more risky approach to the discussion."
+"233",38,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,0,0,2,2,2,2,2,"Very difficult",3,1,1,1,1,2,1,0,NA
+"234",38,"Male","United States","NH","No",0,0,"Sometimes",3,1,1,2,2,1,2,2,"Don't know",2,2,2,3,1,2,1,0,NA
+"235",30,"male","Netherlands",NA,"No",0,0,NA,3,0,1,2,1,2,2,3,"Somewhat easy",1,1,2,2,1,1,3,0,NA
+"236",25,"Male","United Kingdom",NA,"No",0,0,"Never",3,0,1,1,1,1,1,2,"Somewhat difficult",3,2,1,1,1,2,1,0,NA
+"237",37,"Male","Canada",NA,"No",1,1,"Often",3,0,1,NA,3,1,2,2,"Don't know",2,1,2,2,1,3,2,0,NA
+"238",34,"Male","United Kingdom",NA,"No",1,0,NA,4,0,1,1,1,1,1,3,"Somewhat difficult",1,1,2,3,1,3,1,1,NA
+"239",37,"F","United States","NC","No",1,1,"Sometimes",6,0,0,NA,3,3,3,3,"Somewhat easy",1,1,2,2,1,2,3,0,NA
+"240",28,"Female","Canada",NA,"No",1,1,"Sometimes",4,0,0,NA,3,3,3,3,"Don't know",1,1,2,3,1,1,1,1,NA
+"241",22,"Male","Sweden",NA,"No",0,0,NA,4,0,1,2,1,1,1,2,"Don't know",1,1,2,3,2,2,1,0,NA
+"242",34,"male","United States","FL","No",1,1,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat difficult",2,1,2,2,1,2,1,1,NA
+"243",33,"M","United States","CA","No",1,1,"Sometimes",3,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"244",25,"Male","South Africa",NA,"No",0,0,NA,4,0,1,1,1,1,1,3,"Somewhat difficult",2,1,2,3,1,3,1,0,NA
+"245",27,"Male","United States","GA","No",0,0,"Never",6,1,1,NA,3,2,2,3,"Somewhat easy",1,1,2,3,2,2,3,0,NA
+"246",40,"M","United States","OH","No",0,1,"Sometimes",6,1,1,NA,3,3,3,3,"Don't know",3,2,1,1,1,2,1,1,"I have only discussed my mental illness with close family members. I feel completely uncomfortable discussing with anyone at my place of employment as I am concerned it would have negative consequences."
+"247",21,"Male","United States","KY","No",0,1,"Often",4,0,0,2,1,1,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"248",29,"Male","United Kingdom",NA,"No",0,0,NA,4,0,0,1,1,1,1,3,"Very easy",1,1,3,3,2,3,3,0,NA
+"249",32,"M","United States","NC","No",1,1,"Sometimes",4,1,1,1,1,1,1,2,"Don't know",2,1,3,3,1,3,2,0,NA
+"250",29,"f","United States","NY","No",1,1,"Rarely",5,1,0,NA,3,3,2,3,"Don't know",2,1,2,1,2,3,2,0,NA
+"251",23,"Male","United States","AL","No",1,1,"Sometimes",3,1,0,2,1,1,2,3,"Somewhat easy",2,1,2,2,1,3,3,0,NA
+"252",28,"Male","United States","GA","No",1,0,NA,4,0,1,NA,1,1,2,3,"Somewhat easy",1,1,2,3,1,2,3,1,NA
+"253",31,"male","United States","CA","No",1,1,"Rarely",4,1,1,NA,3,3,2,3,"Very easy",1,1,2,3,1,2,3,0,NA
+"254",27,"Male","United Kingdom",NA,"No",0,0,NA,4,0,0,2,2,2,2,1,"Very easy",2,2,3,3,1,1,2,0,NA
+"255",24,"Male","United States","VA","No",0,0,"Sometimes",4,0,1,2,1,2,2,2,"Don't know",1,1,3,3,2,2,2,0,NA
+"256",29,"Male","Canada",NA,"No",0,0,"Often",4,0,1,1,1,1,1,2,"Somewhat difficult",3,1,1,1,1,2,2,0,NA
+"257",23,"Female","United Kingdom",NA,"No",0,1,"Sometimes",4,0,1,2,2,2,2,2,"Don't know",2,2,2,2,1,2,3,0,NA
+"258",42,"Male","United States","WA","No",0,0,"Never",4,1,1,1,3,1,3,2,"Somewhat easy",1,1,2,3,1,1,3,0,"No benefits at this organization but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions advice time/energy to get help if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company but this environment is the exception rather than the norm in my 15+ years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions job loss performance dings etc."
+"259",24,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",3,1,2,2,1,3,1,0,NA
+"260",25,"Male","Australia",NA,"No",1,1,"Often",4,0,1,1,3,1,1,1,"Very difficult",3,2,1,1,1,3,1,1,NA
+"261",27,"Female","United States","TX","No",0,1,"Rarely",4,0,1,NA,1,1,1,3,"Don't know",2,2,3,1,1,2,2,0,NA
+"262",27,"Male","Canada",NA,"No",0,0,"Sometimes",4,1,1,1,3,1,1,1,"Very difficult",3,3,2,2,1,2,1,0,NA
+"263",30,"Male","United States","FL","No",0,1,"Sometimes",4,1,1,NA,3,1,3,3,"Don't know",1,1,3,3,2,1,3,0,NA
+"264",29,"male","Poland",NA,"No",1,1,"Rarely",4,0,1,1,3,1,1,3,"Very difficult",2,1,2,2,1,3,1,0,NA
+"265",43,"Male","Canada",NA,"Yes",0,0,NA,4,1,1,1,2,1,1,2,"Somewhat easy",2,1,3,3,3,3,2,0,NA
+"266",32,"male","United States","NV","No",0,0,NA,4,0,1,1,3,1,2,2,"Very easy",1,1,2,3,1,2,2,0,NA
+"267",41,"Male","United States","AL","No",0,1,"Sometimes",3,1,1,NA,3,2,1,2,"Very easy",1,1,3,3,3,3,3,0,"I think I am very lucky in my workplace. Our CEO has a degree in psychology."
+"268",32,"Male","United Kingdom",NA,"Yes",1,1,"Sometimes",4,1,1,2,2,2,2,2,"Very easy",2,2,3,2,2,2,2,1,"Some of these questions were difficult to answer as being self-employed they didn't all apply to me."
+"269",37,"Female","United States","CA","No",1,1,"Often",3,0,1,NA,3,1,1,3,"Don't know",2,1,2,2,1,3,2,0,NA
+"270",32,"Male","United States","CO","No",0,0,"Never",4,1,1,1,1,1,1,2,"Very easy",1,1,3,3,1,1,2,0,NA
+"271",30,"Male","Ireland",NA,"Yes",0,0,"Sometimes",4,1,1,1,1,1,1,2,"Somewhat difficult",1,1,2,2,1,2,1,0,NA
+"272",23,"female","United States","MN","No",1,1,"Never",4,0,0,NA,1,2,2,3,"Don't know",1,1,2,3,2,2,3,0,NA
+"273",30,"Male","United States","NJ","No",0,0,NA,6,0,1,NA,3,3,3,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"274",34,"male","United Kingdom",NA,"No",0,0,"Sometimes",3,0,1,1,3,1,1,2,"Somewhat easy",2,2,3,2,1,1,2,0,NA
+"275",38,"Male","United States","PA","No",0,1,"Rarely",3,1,1,NA,1,1,1,2,"Don't know",3,1,1,1,1,2,1,0,NA
+"276",33,"Male","Canada",NA,"No",0,0,NA,4,0,1,NA,1,3,3,3,"Don't know",1,1,2,3,1,1,2,0,NA
+"277",34,"male","United States","MO","No",0,0,NA,3,0,0,NA,1,1,1,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"278",28,"male","Colombia",NA,"No",0,0,"Sometimes",4,0,1,1,3,1,1,2,"Somewhat easy",2,2,1,2,1,1,2,0,NA
+"279",28,"male","United States","MN","No",0,1,"Rarely",4,0,0,NA,3,3,2,2,"Very easy",2,1,2,2,1,1,3,0,NA
+"280",23,"Male","United States","PA","No",1,0,"Sometimes",4,0,1,2,1,1,2,2,"Don't know",2,1,2,1,1,2,1,0,NA
+"281",22,"Male","Australia",NA,"Yes",1,1,"Sometimes",4,1,1,2,2,3,3,2,"Somewhat easy",2,1,2,3,1,3,1,1,NA
+"282",27,"male","Portugal",NA,"No",0,0,"Never",4,0,1,1,1,1,1,3,"Don't know",3,1,1,1,1,2,2,0,"It's a small startup in a small city in a small country."
+"283",18,"male","United States","TX","No",0,1,"Sometimes",4,0,1,2,1,1,2,2,"Don't know",3,1,1,1,1,2,2,0,NA
+"284",35,"male","United States","NY","No",1,1,"Sometimes",3,0,1,NA,3,1,1,3,"Somewhat difficult",3,1,1,2,1,2,2,0,NA
+"285",25,"Male","Canada",NA,"No",0,0,NA,4,0,0,2,2,1,1,2,"Don't know",1,1,2,2,1,3,1,0,NA
+"286",27,"Male","United Kingdom",NA,"No",1,1,"Sometimes",4,0,1,1,1,1,1,3,"Somewhat easy",2,2,3,3,3,3,3,0,"Hi Ed it's Paul Dragoonis. I have Aspergers/High Functioning Autism :-)"
+"287",26,"Female","United States","WA","No",1,1,"Rarely",6,0,1,NA,2,2,2,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"288",18,"Male","United States","WA","No",0,0,"Never",3,0,1,2,2,2,2,2,"Very easy",1,1,2,2,1,2,3,0,NA
+"289",38,"Female","United States","TX","No",0,1,"Sometimes",4,0,1,1,3,1,1,2,"Don't know",1,2,2,1,1,1,2,1,"The form of mental health problem that I suffer is anxiety."
+"290",26,"Female","United States","TX","No",1,1,"Rarely",6,1,1,NA,3,3,2,2,"Somewhat easy",2,1,2,1,1,1,2,0,NA
+"291",30,"Male","Switzerland",NA,"Yes",0,0,"Never",4,0,1,1,1,1,1,1,"Somewhat easy",1,1,3,3,1,1,3,0,NA
+"292",35,"male","United States","CA","No",0,0,"Never",6,0,1,2,1,1,2,2,"Don't know",3,2,2,2,1,1,2,0,NA
+"293",45,"male","United States","NY","No",1,1,"Sometimes",6,0,1,NA,3,2,2,3,"Don't know",2,1,2,2,1,2,2,0,NA
+"294",32,"Male","United States","CA","No",0,0,"Never",6,0,1,NA,1,1,2,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"295",56,"Male","United States",NA,"No",0,1,"Never",6,0,1,NA,2,2,2,2,"Don't know",1,2,3,2,1,2,2,0,NA
+"296",24,"Female","United States","CA","No",0,0,NA,5,0,1,2,2,1,2,2,"Don't know",2,2,2,1,1,2,1,0,NA
+"297",30,"F","United States","SC","No",1,1,"Sometimes",3,0,1,NA,3,3,2,2,"Very easy",1,1,3,3,1,3,3,0,NA
+"298",60,"male","United States","CA","No",0,0,NA,6,0,1,NA,1,2,3,2,"Don't know",1,1,2,3,2,2,3,0,NA
+"299",33,"Male","United States","CA","No",1,1,"Sometimes",6,0,1,NA,1,3,3,2,"Don't know",3,1,1,1,1,2,2,0,NA
+"300",37,"M","United States","NY","No",0,0,"Never",6,0,1,NA,3,3,3,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"301",23,"Female","United States","NY","No",0,1,"Sometimes",6,0,1,NA,3,3,3,2,"Don't know",1,1,2,2,1,1,3,0,NA
+"302",31,"f","United States","CA","No",0,1,"Sometimes",6,0,1,NA,2,2,2,3,"Somewhat easy",1,1,3,3,1,1,3,0,NA
+"303",26,"Male","United States","MA","No",0,0,"Rarely",4,0,1,NA,2,1,2,2,"Don't know",1,1,2,3,1,2,2,0,NA
+"304",28,"female","United States","WA","No",1,1,"Often",4,1,0,NA,3,3,3,3,"Somewhat easy",3,1,2,3,1,1,3,0,NA
+"305",37,"F","United States","CA","No",0,1,"Rarely",6,0,1,NA,3,2,3,2,"Somewhat easy",1,1,2,3,1,1,3,0,NA
+"306",26,"male","Canada",NA,"No",1,1,"Often",4,0,1,NA,1,1,2,2,"Don't know",2,1,2,2,2,2,3,0,NA
+"307",30,"queer/she/they","United States","IL","No",1,1,"Rarely",3,0,1,NA,2,1,1,2,"Somewhat easy",2,1,2,3,1,1,2,0,NA
+"308",26,"M","United States","IN","No",0,0,NA,3,0,1,1,1,1,1,2,"Don't know",1,1,2,2,1,1,2,1,NA
+"309",25,"Male","United States","OR","No",0,0,NA,3,1,1,2,2,1,2,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"310",27,"Male","United States","TN","No",0,0,"Sometimes",4,0,1,NA,2,3,3,2,"Don't know",2,1,2,3,1,2,2,0,"The thought of going through my employer directly to get help is fucking scary.Getting help is the hardest part of getting help."
+"311",25,"Male","Canada",NA,"No",0,1,"Often",4,1,0,2,1,1,2,2,"Somewhat difficult",3,2,1,1,1,2,2,0,NA
+"312",35,"male","United States","OR","No",0,1,"Rarely",4,0,1,NA,2,2,3,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"313",36,"Male","United States","WA","Yes",0,1,"Never",4,0,1,1,3,1,1,2,"Somewhat easy",2,1,2,3,1,1,3,0,NA
+"314",26,"Male","United States","CA","No",1,1,"Sometimes",6,0,1,NA,2,1,2,2,"Don't know",3,1,1,1,1,1,1,0,NA
+"315",27,"Male","United States","CA","No",1,0,NA,6,0,1,2,1,2,2,2,"Very easy",1,1,3,3,2,2,3,0,"Don't know because I haven't checked not because it's difficult to find out. If you didn't have the don't know option I would've looked up the answer."
+"316",30,"male","United States","VT","No",0,0,NA,4,0,0,2,2,1,2,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"317",29,"M","United States","NY","No",0,0,NA,4,0,0,2,2,1,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"318",25,"Male","United States","UT","No",0,0,"Never",6,0,0,NA,3,3,3,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"319",22,"Female","United States","NY","No",1,1,"Often",6,0,1,NA,3,3,3,3,"Somewhat easy",2,1,1,2,1,1,3,1,NA
+"320",29,"male","Latvia","NY","No",0,0,NA,3,0,1,1,3,1,1,2,"Somewhat easy",2,2,2,2,1,1,2,0,NA
+"321",41,"Male","United States","SD","No",1,1,"Rarely",4,1,1,NA,3,2,3,3,"Somewhat easy",1,1,2,3,2,2,3,0,NA
+"322",29,"Male","United States","CA","No",0,1,"Sometimes",6,0,1,NA,1,1,2,2,"Don't know",3,1,2,2,1,2,1,0,NA
+"323",32,"Male","United States","OR","No",0,0,"Never",5,0,1,NA,2,2,3,3,"Somewhat easy",1,1,2,3,2,2,3,0,NA
+"324",24,"female","United States","CA","No",1,1,"Sometimes",6,0,1,NA,3,1,3,3,"Don't know",2,1,2,1,1,2,2,0,NA
+"325",25,"Male","United States","CA","No",0,1,"Rarely",4,0,1,NA,1,2,1,2,"Don't know",2,1,1,1,1,1,2,0,NA
+"326",25,"m","United States","CA","No",0,0,NA,6,0,1,2,2,2,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"327",30,"Female","United States","CO","No",0,0,"Never",6,0,1,NA,3,3,3,3,"Somewhat easy",2,2,1,2,1,1,2,0,NA
+"328",25,"Male","United States","CA","No",1,1,"Sometimes",6,0,1,2,2,2,3,2,"Don't know",1,1,3,3,1,1,3,0,NA
+"329",30,"Male","United States","OH","Yes",0,0,"Never",4,1,1,1,3,1,1,2,"Don't know",2,1,2,2,1,2,2,0,NA
+"330",33,"male","Germany",NA,"Yes",1,1,"Rarely",4,0,0,1,1,1,1,2,"Somewhat difficult",3,3,1,1,2,1,3,1,NA
+"331",24,"Male","United States","WA","No",0,0,NA,3,0,1,NA,2,3,3,3,"Very easy",1,1,2,2,1,2,3,0,NA
+"332",25,"Male","Canada",NA,"No",1,1,"Sometimes",6,0,1,NA,3,1,2,2,"Don't know",3,2,2,1,1,1,1,0,NA
+"333",31,"Male","United States","OH","No",0,0,NA,4,0,0,2,1,1,1,3,"Somewhat easy",2,1,1,1,1,3,1,0,NA
+"334",45,"Male","Ireland",NA,"Yes",0,1,"Often",4,0,1,1,1,1,1,2,"Very difficult",1,1,1,1,1,1,2,0,NA
+"335",29,"m","Romania",NA,"No",0,0,NA,4,1,0,1,3,1,1,2,"Don't know",2,2,2,2,2,2,1,0,NA
+"336",46,"M","United States","WA","No",0,0,"Never",3,0,1,NA,2,3,2,2,"Very easy",1,1,2,2,2,2,2,0,NA
+"337",30,"Male","United Kingdom",NA,"No",0,1,"Sometimes",3,0,1,2,1,1,2,2,"Don't know",3,2,1,1,1,2,2,0,NA
+"338",29,"F","United States","CA","Yes",0,0,"Sometimes",6,0,1,NA,2,2,1,2,"Very easy",2,2,2,2,1,1,2,0,NA
+"339",24,"Male","United States","MA","No",0,0,NA,6,0,1,NA,3,2,2,3,"Don't know",3,1,1,1,1,2,2,0,"I think there might be some bugs in my thought but I haven't sought treatment because they're not worse than annoying and I worry about having the label."
+"340",29,"male","United States","WA","No",0,0,NA,3,0,1,NA,3,3,3,3,"Very easy",1,1,2,3,1,2,3,0,"I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that unfortunately ended negatively. It was definitely a catalyst to talking about our options but the overall sentiment of it being OK to take time off talk with your supervisors etc. has always been there. It's a great company."
+"341",35,"Male","United States","MI","No",0,0,NA,3,0,0,2,2,1,2,2,"Don't know",1,1,3,3,1,1,1,0,NA
+"342",33,"f","United States","WA","No",1,0,"Sometimes",3,1,1,1,3,1,1,2,"Very difficult",3,2,2,2,1,2,1,0,NA
+"343",27,"Male","United States","CA","No",0,0,"Sometimes",6,0,1,2,2,2,2,2,"Very easy",3,1,1,1,1,2,1,0,"Regardless of a stated lack of negative consequences for discussing mental health issues with coworkers/superiors unconscious bias is a very real thing - as long as I don't *need* to inform my co-workers my mental health issues do not need to be public knowledge."
+"344",36,"Male","United States","IA","No",0,0,NA,6,0,1,2,2,2,2,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"345",33,"Male","United Kingdom",NA,"No",0,0,"Rarely",4,1,1,2,1,1,1,2,"Don't know",3,2,1,1,1,2,1,0,NA
+"346",25,"F","United States","WA","No",1,1,"Sometimes",3,0,1,NA,3,1,1,3,"Don't know",1,1,2,3,1,1,2,0,NA
+"347",23,"Male","United States","AL","No",1,1,"Sometimes",4,0,0,2,1,1,1,2,"Don't know",1,1,3,3,2,3,2,0,"YOU MAY WANT TO THROW OUT MY ENTRY.I answered all of these questions with the assumption that Attention Deficit Disorder is considered a mental illness and with ADD in mind."
+"348",54,"M","United States","CA","No",1,1,"Never",6,0,1,2,1,3,3,2,"Don't know",1,1,1,3,1,1,2,0,NA
+"349",22,"Male","United States","CA","No",0,0,"Sometimes",6,0,1,2,1,2,2,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"350",25,"non-binary","United States","CA","No",1,1,"Sometimes",6,0,1,NA,3,2,2,2,"Don't know",2,1,2,2,1,1,3,0,NA
+"351",29,"Male","Belgium",NA,"No",0,0,"Often",4,0,0,2,1,1,1,2,"Don't know",2,1,3,3,2,2,2,0,"In Belgium we have all medical care so perhaps some question are not relevant"
+"352",27,"Male","United States","MA","No",0,1,"Sometimes",6,0,1,NA,3,3,3,3,"Don't know",1,1,1,1,1,3,3,0,NA
+"353",30,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,1,1,1,2,2,"Very easy",1,1,2,3,1,2,3,0,"A co-worker recently had mental health issues and my employer was very reasonable with them I don't know the full story but I do know that he was given ample time off and eased back in to the work place."
+"354",26,"male","United States","CA","No",1,1,"Often",6,0,1,NA,2,2,3,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"355",25,"Female","Sweden",NA,"No",1,0,"Sometimes",4,0,1,NA,3,3,1,2,"Somewhat easy",1,1,2,3,1,1,1,0,NA
+"356",31,"Male","United States","CA","No",0,1,"Sometimes",5,0,0,1,3,1,2,3,"Don't know",1,1,2,1,1,1,1,0,NA
+"357",33,"M","United States","IN","No",1,1,"Sometimes",3,0,1,2,2,1,1,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"358",34,"M","United States","WA","No",1,1,"Sometimes",6,0,1,NA,3,2,3,3,"Don't know",2,2,1,1,1,1,2,0,NA
+"359",34,"Male","United States","WA","No",0,1,"Sometimes",4,1,1,1,1,1,1,2,"Somewhat easy",3,3,2,2,1,2,2,0,NA
+"360",29,"M","United States","IN","Yes",0,0,NA,4,1,1,1,3,1,1,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"361",33,"Femake","United States","WA","No",0,0,NA,4,0,1,1,1,1,1,2,"Somewhat difficult",2,1,2,2,1,1,2,0,NA
+"362",34,"male","Germany",NA,"Yes",1,1,"Rarely",3,1,1,1,1,1,2,2,"Somewhat difficult",1,1,3,3,1,2,3,0,NA
+"363",26,"male","United States","OK","Yes",1,1,"Rarely",4,1,0,1,1,1,2,1,"Don't know",2,1,2,3,1,3,1,0,NA
+"364",32,"Male","United States","MI","No",1,1,"Rarely",6,0,0,NA,3,3,3,3,"Don't know",1,1,2,3,1,3,3,0,NA
+"365",329,"Male","United States","OH","No",0,1,"Often",4,1,1,NA,3,1,1,2,"Don't know",2,1,2,1,1,1,1,0,NA
+"366",28,"Male","United States","GA","No",1,1,"Sometimes",6,0,1,2,2,1,2,2,"Somewhat difficult",2,2,1,1,1,1,1,0,NA
+"367",35,"Male","United States","CA","No",1,0,NA,6,0,1,NA,1,3,3,3,"Very easy",1,1,2,3,1,1,2,0,NA
+"368",36,"Male","United States",NA,"No",1,1,"Often",4,0,1,1,3,1,1,3,"Very easy",1,1,2,2,1,1,2,0,NA
+"369",21,"Male","United States","IN","No",1,1,"Rarely",4,0,1,NA,1,1,2,3,"Don't know",1,1,3,3,2,2,2,0,NA
+"370",21,"Male","United Kingdom",NA,"No",0,1,"Sometimes",4,0,0,2,2,1,1,1,"Very easy",3,1,2,1,1,2,1,0,NA
+"371",22,"F","United States","WA","No",0,0,NA,6,0,1,NA,1,3,3,3,"Somewhat easy",1,1,1,2,1,1,3,0,NA
+"372",41,"m","United States","WA","No",1,1,"Often",6,0,1,NA,1,3,3,2,"Somewhat difficult",2,1,3,2,1,2,1,1,NA
+"373",55,"M","United States","PA","No",1,1,"Rarely",6,0,1,NA,3,3,3,3,"Very easy",1,1,3,3,1,1,3,0,"My refer to the mental health issue of depression.  I might answer differently if I was talking about a more serious issue like schizophrenia"
+"374",32,"F","United States","WA","No",0,1,"Sometimes",3,0,1,NA,3,3,3,3,"Somewhat easy",2,1,2,3,1,2,3,0,"My employer does what they can providing a wellness program and pointing it out after particularly stressful times. But the interaction between the wellness program and the medical insurance is unpleasant and finding a long-term therapist / psychiatrist covered by insurance is amazingly difficult. My current lack of active treatment is due to insurance friction more than workplace friction."
+"375",21,"F","United States","CA","No",1,1,"Rarely",3,0,1,2,2,2,1,2,"Somewhat easy",3,1,2,1,1,3,2,0,NA
+"376",45,"M","United States","MA","No",0,1,"Never",3,1,1,NA,3,2,2,2,"Don't know",2,1,1,2,1,2,2,0,NA
+"377",27,"female","United States","WA","No",0,1,"Rarely",6,0,1,NA,3,1,1,3,"Don't know",3,2,1,1,1,1,1,0,NA
+"378",25,"Female","United States","WA","No",1,1,"Sometimes",3,1,1,2,1,1,1,2,"Don't know",2,1,2,3,1,1,3,0,NA
+"379",34,"woman","United States","NY","No",1,1,"Rarely",6,0,0,NA,3,3,3,3,"Very difficult",2,2,2,2,1,1,3,0,"I work for a university."
+"380",26,"F","United States","CA","No",1,1,"Never",6,0,1,NA,3,1,3,3,"Don't know",2,1,1,1,1,1,2,0,NA
+"381",41,"Male","Canada",NA,"No",0,1,"Never",5,0,1,NA,2,1,2,2,"Somewhat easy",1,1,2,2,1,1,2,0,NA
+"382",27,"Male","United States","CA","No",0,1,"Rarely",6,0,1,NA,1,3,3,3,"Don't know",1,1,2,3,1,2,3,0,NA
+"383",31,"Make","United States","IN","No",1,1,"Sometimes",3,1,1,NA,1,1,1,2,"Don't know",1,1,3,3,1,1,2,0,NA
+"384",25,"Male","Germany",NA,"No",1,1,"Often",3,1,1,1,1,1,1,3,"Somewhat easy",1,1,3,3,1,3,1,0,NA
+"385",26,"M","United States","NV","No",0,1,"Sometimes",4,0,1,2,1,1,1,2,"Don't know",3,3,2,1,1,1,1,0,NA
+"386",27,"female","United States","CO","No",1,1,"Rarely",6,1,1,NA,3,1,2,2,"Don't know",2,2,1,3,1,1,2,0,NA
+"387",42,"Male","New Zealand",NA,"No",0,0,"Never",5,0,1,2,2,1,1,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"388",29,"Nah","United States","CA","Yes",1,1,"Sometimes",4,1,1,NA,3,1,1,2,"Very difficult",3,1,2,1,1,2,1,0,NA
+"389",25,"female","United States","CA","No",0,1,"Sometimes",4,0,1,2,2,1,1,2,"Somewhat difficult",3,1,2,1,1,2,2,0,NA
+"390",33,"Female","Sweden",NA,"No",1,1,"Rarely",6,0,1,NA,3,1,3,3,"Don't know",2,1,2,1,1,3,2,0,NA
+"391",99999999999,"All","Zimbabwe",NA,"Yes",1,1,"Often",4,0,1,1,3,1,1,1,"Very difficult",3,3,1,1,3,1,1,1,NA
+"392",40,"female","United States","PA","No",1,1,"Rarely",6,0,0,NA,1,2,2,2,"Somewhat easy",2,2,1,1,1,1,2,0,NA
+"393",31,"Male","United States","SC","No",0,0,"Never",6,0,1,2,1,1,2,2,"Somewhat easy",3,1,2,1,1,1,2,0,NA
+"394",26,"Male","Canada",NA,"No",1,1,"Often",3,1,1,2,1,2,2,2,"Very easy",1,1,3,3,1,1,3,0,NA
+"395",24,"female","United States","TX","No",1,0,NA,5,0,0,1,1,1,1,1,"Very difficult",3,2,1,1,1,2,1,1,NA
+"396",29,"Male","United States","TX","No",0,0,"Never",6,0,0,NA,2,1,2,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"397",48,"M","United Kingdom",NA,"No",0,0,NA,3,0,1,2,1,1,1,2,"Don't know",2,2,1,1,1,1,1,0,NA
+"398",35,"Male","United Kingdom",NA,"No",0,0,"Sometimes",4,0,1,1,1,1,1,2,"Very difficult",2,2,2,3,1,2,1,1,NA
+"399",32,"female","United States","AL","No",0,0,"Never",4,0,1,2,2,1,1,2,"Don't know",2,1,1,2,1,2,2,0,NA
+"400",29,"Male","Canada",NA,"No",0,1,"Sometimes",4,0,1,2,2,2,2,3,"Somewhat easy",2,1,2,2,1,2,3,0,"Being in Canada there are several health options that are available to Canadian citizens/perm residents for free so employers may not provide resources because they are available elsewhere. Otherwise good quiz. I hope this benefits everyone who's dealt with mental health issues in the past!"
+"401",26,"Male","United States","OR","No",1,1,"Often",4,0,1,NA,3,1,1,2,"Somewhat difficult",2,1,2,3,1,1,1,0,NA
+"402",28,"Male","United States","NJ","No",1,1,"Sometimes",3,0,1,NA,3,1,1,2,"Don't know",2,1,2,1,1,2,1,0,NA
+"403",23,"male","United States","CA","No",0,0,NA,6,0,1,2,1,1,2,2,"Don't know",1,1,2,3,1,2,1,0,NA
+"404",35,"M","United States","CA","No",1,1,"Sometimes",4,0,1,NA,3,1,1,2,"Very difficult",2,2,2,2,1,2,1,1,"I'm troubled by the way that our hiring process tends to filter out non-neurotypicals of all stripes. Competent people who act a little funny can be hard to hire."
+"405",29,"male","Germany",NA,"No",1,1,"Sometimes",3,0,1,2,1,1,1,2,"Very easy",2,1,2,2,2,2,2,0,NA
+"406",26,"Male","United States","CA","No",1,0,NA,4,0,1,NA,3,1,3,3,"Very easy",1,1,2,3,2,2,1,0,NA
+"407",33,"Male","United States","NH","No",1,1,"Never",3,1,1,NA,3,3,3,2,"Don't know",3,2,3,2,1,1,3,0,NA
+"408",33,"Male","United States","CA","No",0,0,NA,6,1,1,2,1,2,2,2,"Don't know",3,1,2,1,1,2,3,0,NA
+"409",22,"Male","Brazil",NA,"Yes",0,0,"Never",4,1,1,2,1,1,1,2,"Somewhat easy",1,1,3,3,2,1,2,0,NA
+"410",30,"female","Spain",NA,"No",1,0,NA,5,0,1,1,1,1,1,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"411",33,"male","United States","OH","No",1,1,"Often",6,1,1,NA,3,1,1,2,"Somewhat easy",3,1,1,1,1,1,1,0,NA
+"412",31,"Female","United States","OH","No",1,1,"Rarely",6,0,0,2,2,1,2,2,"Very difficult",3,2,1,1,1,2,1,0,NA
+"413",21,"male","United States","MA","No",1,0,"Never",6,0,1,2,2,2,2,2,"Don't know",1,1,2,2,1,2,2,1,NA
+"414",31,"Enby","United Kingdom",NA,"No",1,1,"Sometimes",6,0,1,2,1,1,1,2,"Don't know",3,2,1,1,1,3,3,0,NA
+"415",26,"F","United States","OK","No",0,1,"Sometimes",4,1,1,2,2,2,2,2,"Somewhat difficult",1,1,2,2,1,1,3,0,NA
+"416",30,"Male","United States","CA","No",1,0,"Often",4,0,1,2,1,1,2,2,"Somewhat easy",2,1,2,3,1,1,2,0,NA
+"417",30,"fluid","Germany",NA,"No",1,1,"Sometimes",4,0,1,2,2,1,1,2,"Somewhat difficult",1,1,3,3,2,2,1,0,"In Germany your employer doesn't really provide mental health benefits. There's a standard and I get that but I would get the same at any other company in Germany."
+"418",23,"Male","India",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",1,1,2,3,2,2,1,0,NA
+"419",34,"Male","Finland",NA,"No",0,0,"Never",4,0,1,1,1,1,1,2,"Somewhat easy",1,1,3,3,1,2,2,0,NA
+"420",55,"M","United States","ID","No",1,1,"Sometimes",4,1,1,1,3,1,2,2,"Don't know",3,2,1,1,1,1,1,1,NA
+"421",28,"male","Germany",NA,"No",1,1,"Rarely",4,1,1,NA,1,1,1,3,"Very easy",1,1,3,3,1,1,3,0,"fwiw I am a co founder of this company and the would you X in an interview questions shouldn't reflect how I would treat anyone addressing their own phys/mental health issue to me in such a situation."
+"422",26,"M","Uruguay",NA,"No",0,0,NA,3,1,1,2,1,2,1,2,"Don't know",1,1,2,1,1,3,2,0,NA
+"423",28,"Male","New Zealand",NA,"No",1,1,"Sometimes",4,1,1,NA,3,3,1,2,"Very easy",1,1,3,3,3,3,3,0,NA
+"424",32,"Male","United Kingdom",NA,"No",1,1,"Sometimes",4,0,1,1,1,1,2,2,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"425",28,"Female","United States","NY","No",0,1,"Rarely",6,0,0,NA,3,1,2,2,"Don't know",2,1,1,1,1,1,2,0,NA
+"426",21,"M","United States","CA","No",0,0,"Sometimes",4,0,0,2,2,1,3,3,"Don't know",1,1,2,2,2,2,3,0,NA
+"427",24,"Male","United States","TX","No",1,1,"Sometimes",4,0,1,1,3,1,1,2,"Somewhat difficult",3,1,2,2,1,2,1,1,NA
+"428",26,"Female","United States","MD","No",0,0,NA,6,0,0,NA,2,3,2,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"429",23,"Male","United States","IN","No",0,0,NA,6,0,0,NA,1,1,1,2,"Don't know",1,1,3,1,1,3,2,0,NA
+"430",24,"Female","United States","OR","No",0,0,NA,6,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,2,3,3,3,0,NA
+"431",28,"Male","Canada",NA,"Yes",0,0,"Never",4,1,1,2,1,1,1,2,"Somewhat easy",2,1,2,3,1,1,3,0,NA
+"432",24,"F","United States","NY","No",1,1,"Rarely",4,0,1,1,1,1,1,2,"Very easy",3,1,1,2,1,3,3,0,NA
+"433",33,"male","United States","MS","Yes",0,1,"Often",4,1,1,1,1,1,1,3,"Somewhat easy",3,2,2,2,3,3,2,0,NA
+"434",34,"male","United States","NJ","No",0,0,"Sometimes",3,0,1,2,1,1,1,2,"Don't know",2,1,3,3,1,2,2,0,NA
+"435",27,"female","United States","CA","No",0,1,"Sometimes",3,0,1,2,2,1,1,2,"Somewhat difficult",2,2,2,2,1,1,2,0,"I talked to a psychiatrist once about taking medical leave for mental health issues with his referral. He was willing to help but warned me that I may not want to as he's seen that sort of thing follow people throughout their tech careers (word gets out even if it's confidential at work). I've been terrified of bringing mental health up anywhere that coworkers or potential employers could see ever since."
+"436",28,"Male","United States","TN","No",0,0,"Never",4,0,1,2,1,1,2,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"437",26,"Male","United States","WA","No",0,0,NA,6,0,1,2,2,2,2,2,"Don't know",1,1,2,3,1,1,2,1,NA
+"438",20,"Male","Australia",NA,"No",0,0,NA,4,1,1,2,2,2,2,3,"Very easy",1,1,2,3,1,1,2,0,NA
+"439",23,"female","United States","MA","No",0,1,"Sometimes",3,0,1,NA,3,1,2,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"440",29,"Male","United States","PA","No",1,1,"Rarely",4,1,1,NA,3,3,3,3,"Somewhat easy",1,1,3,3,2,2,3,0,NA
+"441",26,"Male","United Kingdom",NA,"No",1,0,"Sometimes",4,0,1,1,1,1,1,2,"Don't know",2,2,1,1,1,2,1,0,NA
+"442",36,"Male","United States","KY","No",0,0,"Rarely",6,1,1,NA,1,3,2,2,"Somewhat easy",2,1,1,1,1,1,2,0,NA
+"443",41,"m","United States","PA","No",0,1,"Sometimes",6,0,1,NA,3,3,3,3,"Don't know",2,1,2,3,2,3,3,1,NA
+"444",33,"female","United States","MA","No",0,0,NA,4,1,1,NA,1,2,1,2,"Don't know",1,1,2,3,1,1,3,0,NA
+"445",23,"M","Canada",NA,"No",1,1,"Sometimes",4,0,1,NA,3,1,1,3,"Very easy",1,1,3,3,1,1,3,0,NA
+"446",39,"Male","United States","CA","No",1,0,"Often",6,0,1,NA,1,1,2,2,"Don't know",3,1,2,2,1,2,1,1,NA
+"447",34,"M","United States","VT","No",1,0,NA,6,0,1,NA,2,2,2,2,"Don't know",2,1,2,2,1,2,2,1,NA
+"448",26,"F","United States","CA","No",0,1,"Sometimes",4,0,1,NA,3,1,1,2,"Somewhat difficult",3,2,2,2,1,1,1,1,NA
+"449",24,"Male","United States","AZ","No",0,1,"Rarely",3,0,1,NA,3,3,1,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"450",37,"Male","Canada",NA,"No",1,1,"Rarely",6,0,0,NA,3,3,3,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"451",43,"Male","United States","MA","Yes",1,1,"Often",4,1,1,NA,3,1,1,3,"Very easy",1,1,3,3,2,2,3,0,"So much depends upon the organization."
+"452",40,"Genderqueer","United States","VA","No",1,0,"Never",6,0,1,NA,3,3,2,3,"Don't know",3,2,1,2,1,2,3,0,NA
+"453",30,"male","United States","WA","No",1,1,"Often",6,0,1,NA,3,3,1,2,"Very difficult",3,1,2,1,1,1,1,1,NA
+"454",34,"M","United States","CA","No",0,1,"Sometimes",4,0,1,2,2,1,1,2,"Don't know",3,3,2,1,1,1,2,0,"Now at starutp.  Previously worked at big tech company which was actually quite good at supporting mental health issues.  Still wouldn't share with bosses/other employees though as there remains a strong negative stigma."
+"455",27,"Male","United States","OR","No",1,1,"Sometimes",4,0,1,2,2,1,2,2,"Don't know",3,1,1,1,1,3,2,0,NA
+"456",36,"Male","United States","MI","No",0,0,"Sometimes",6,0,1,2,1,1,1,3,"Somewhat easy",1,1,3,3,2,3,2,0,NA
+"457",27,"Male","Brazil",NA,"No",0,0,"Rarely",4,0,1,1,3,1,1,2,"Somewhat easy",2,1,2,2,1,2,1,0,NA
+"458",35,"Male","Netherlands",NA,"No",1,0,"Never",4,0,1,NA,1,1,1,3,"Don't know",3,1,1,1,1,2,2,0,"Nice job on the text field for gender :-)"
+"459",32,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,1,1,1,1,2,"Don't know",2,1,2,1,1,3,3,0,NA
+"460",37,"M","United States","OR","No",0,0,NA,5,0,1,NA,1,1,1,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"461",29,"Male","United Kingdom",NA,"No",0,0,NA,3,0,1,2,1,2,2,2,"Don't know",1,1,2,3,2,2,3,0,NA
+"462",33,"Female","United States","CA","No",0,0,"Never",5,0,1,NA,2,3,3,2,"Very easy",2,1,2,3,1,1,3,0,"I currently have the best managers I've ever worked with. I don't have any issues but one of my coworkers recently did and it was handled extremely well."
+"463",28,"Make","United States","UT","No",0,0,"Sometimes",4,1,1,1,3,1,1,2,"Somewhat easy",3,2,2,1,1,1,2,0,NA
+"464",26,"Female","United States","CA","No",1,0,"Never",3,0,1,2,2,1,1,2,"Somewhat difficult",2,2,2,1,1,2,1,0,NA
+"465",27,"M","United States","TX","No",1,1,"Sometimes",4,1,1,2,1,3,2,2,"Somewhat easy",3,1,2,3,1,2,3,0,NA
+"466",38,"Male","United Kingdom",NA,"Yes",0,1,"Sometimes",3,1,1,1,1,1,1,3,"Somewhat easy",2,2,2,3,1,2,3,0,NA
+"467",57,"M","United States","CA","No",1,1,"Rarely",6,0,1,NA,3,1,1,2,"Don't know",2,1,2,3,1,2,1,0,NA
+"468",28,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,0,1,1,1,1,1,1,"Very difficult",3,2,1,2,1,2,1,0,NA
+"469",26,"male","France",NA,"No",0,0,"Never",4,0,1,1,3,1,1,2,"Don't know",2,1,3,3,2,2,1,0,NA
+"470",42,"f","Netherlands",NA,"No",0,1,"Rarely",4,1,1,NA,3,1,1,3,"Don't know",3,1,2,1,1,2,2,0,NA
+"471",31,"Male","United States","OR","No",0,1,"Sometimes",4,1,1,NA,3,3,3,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"472",58,"Male","United States","CA","No",0,1,"Rarely",6,0,1,NA,3,3,3,3,"Somewhat easy",2,1,2,3,1,3,3,0,NA
+"473",29,"Male","United States","OH","No",0,0,"Sometimes",4,0,1,2,1,1,1,2,"Very difficult",3,1,1,1,1,2,1,0,NA
+"474",39,"Female","United Kingdom",NA,"No",0,1,"Sometimes",6,0,1,NA,3,1,3,2,"Don't know",3,1,2,2,1,2,1,1,NA
+"475",34,"Male","United States","OH","No",0,0,"Sometimes",4,1,1,2,1,1,1,2,"Very difficult",2,1,2,3,1,2,2,0,NA
+"476",57,"Male","United States","CA","No",0,1,"Sometimes",6,0,1,NA,2,3,3,2,"Don't know",2,2,1,1,1,2,2,0,NA
+"477",27,"Male","Germany",NA,"No",1,1,"Sometimes",4,0,1,1,2,1,1,2,"Somewhat difficult",3,2,2,1,1,1,1,1,NA
+"478",23,"male","Germany",NA,"Yes",1,1,"Often",3,1,1,2,1,2,2,2,"Don't know",1,2,3,3,2,3,2,0,"you rock for doing this!"
+"479",18,"male","Finland",NA,"No",0,0,NA,5,1,0,2,1,1,2,2,"Very easy",3,1,1,1,1,2,2,0,NA
+"480",30,"female","United States","NY","No",0,0,NA,4,0,1,2,2,1,1,2,"Don't know",2,1,2,3,1,2,2,0,NA
+"481",23,"Male","United States","VA","No",0,0,"Never",3,0,0,2,2,2,2,2,"Don't know",1,1,3,3,2,3,3,0,NA
+"482",43,"M","United States","CA","No",0,1,"Sometimes",6,0,1,NA,3,3,3,3,"Somewhat easy",3,2,1,1,1,3,2,0,NA
+"483",18,"Female","United Kingdom",NA,"No",1,1,"Sometimes",4,1,1,2,2,2,2,2,"Don't know",2,2,2,2,2,2,2,0,"I don't have a job :D"
+"484",29,"male","United States","IL","No",0,1,"Rarely",4,0,1,NA,3,1,1,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"485",48,"M","United States","TX","No",0,0,"Never",4,0,1,2,1,1,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"486",43,"male","Germany",NA,"No",0,1,"Sometimes",3,0,0,1,3,2,1,2,"Somewhat easy",2,1,2,2,1,3,1,1,NA
+"487",28,"Female","United States","NY","No",1,1,"Sometimes",3,0,1,2,2,1,1,2,"Don't know",3,2,2,1,1,2,2,0,NA
+"488",30,"Male","United States","CA","Yes",1,1,"Often",4,1,1,1,3,1,1,3,"Very easy",1,1,3,3,1,1,3,0,NA
+"489",26,"Male","Israel","MD","No",0,0,"Sometimes",4,0,1,1,1,1,1,3,"Very easy",2,1,2,3,1,2,3,0,"Israel has public health insurance for everyone. Everyone has free mental health coverage and it's quite good. So that explains some of my answers."
+"490",33,"Male","Italy",NA,"No",0,0,"Never",4,0,0,1,1,1,1,2,"Don't know",2,2,2,2,1,1,1,0,NA
+"491",31,"Male","United States","CA","No",0,0,NA,6,0,1,NA,2,2,2,3,"Don't know",1,1,1,2,1,1,3,0,NA
+"492",30,"M","United States","PA","No",0,0,"Rarely",4,0,0,2,2,1,1,2,"Don't know",1,1,2,2,1,1,2,0,NA
+"493",27,"Male","Israel",NA,"No",0,0,NA,3,0,1,1,1,1,1,2,"Somewhat difficult",3,1,2,1,1,2,1,1,NA
+"494",24,"Female","United States","CA","Yes",1,1,"Sometimes",4,1,1,1,1,2,2,2,"Don't know",1,1,2,2,1,1,2,1,NA
+"495",25,"male","United States","WA","No",0,0,NA,3,0,1,2,2,2,2,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"496",23,"Female","United States","NY","No",1,1,"Often",6,0,1,NA,2,2,1,2,"Don't know",2,1,2,2,1,1,3,1,NA
+"497",36,"m","United States","TX","No",0,1,"Sometimes",6,0,0,NA,2,1,1,2,"Somewhat difficult",3,2,2,1,1,1,1,1,"Stigma is the worst. People first language is a small step but we can't get that right."
+"498",25,"female","United States","CA","Yes",1,1,"Often",4,1,1,2,2,1,1,3,"Somewhat difficult",3,1,2,1,1,2,1,1,NA
+"499",54,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,1,0,1,3,3,3,3,"Very easy",1,1,3,3,2,2,1,0,NA
+"500",34,"Male","Netherlands",NA,"No",0,0,"Rarely",4,0,1,2,2,2,2,2,"Somewhat easy",1,1,2,2,1,2,3,0,"-"
+"501",38,"female","United States","AZ","No",0,1,NA,3,0,1,NA,3,1,1,3,"Don't know",2,2,1,1,1,1,1,0,NA
+"502",40,"Male","Ireland",NA,"Yes",1,0,NA,6,0,1,1,1,1,1,1,"Don't know",3,2,2,1,1,2,1,1,NA
+"503",32,"male","United Kingdom",NA,"No",0,0,NA,3,0,1,1,2,1,2,2,"Don't know",1,1,1,2,1,2,2,0,NA
+"504",25,"Male","Germany",NA,"No",0,0,"Never",6,0,0,2,2,2,3,2,"Don't know",1,1,3,3,1,3,2,0,NA
+"505",35,"Female","United States","OH","No",0,1,"Sometimes",4,0,1,1,3,1,1,2,"Don't know",3,2,1,1,1,2,1,0,NA
+"506",46,"male","United States","CA","No",0,1,"Sometimes",6,0,1,NA,3,3,3,2,"Don't know",2,1,2,1,1,1,3,0,NA
+"507",42,"male","United States","KS","No",0,0,"Never",4,0,0,NA,1,3,1,2,"Very difficult",2,1,3,3,2,3,1,0,NA
+"508",32,"male","United Kingdom",NA,"No",1,1,"Sometimes",4,1,1,NA,1,1,1,2,"Don't know",1,1,3,3,2,2,3,0,NA
+"509",47,"M","United States","CA","No",1,1,"Sometimes",6,0,1,NA,3,3,3,2,"Very easy",1,1,2,3,1,3,3,0,NA
+"510",22,"Male","United States","CA","No",0,0,NA,6,0,1,NA,2,3,2,3,"Don't know",1,1,2,3,1,2,3,0,NA
+"511",33,"Female","United States","NY","No",0,1,"Sometimes",5,1,1,NA,3,3,3,2,"Very easy",1,1,2,2,1,1,2,0,NA
+"512",25,"f","United States","WA","No",0,0,"Sometimes",4,0,1,1,1,1,1,1,"Somewhat easy",2,1,2,1,1,1,3,0,NA
+"513",29,"M","United States","CA","No",0,0,NA,6,0,1,2,2,1,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"514",39,"Male","United States","WA","No",0,0,"Never",3,0,1,NA,3,3,3,3,"Very easy",1,1,3,3,1,1,3,0,"I work for an extremely supportive company and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return."
+"515",38,"male","United States","VA","No",1,1,"Sometimes",6,0,1,NA,2,3,3,3,"Don't know",3,1,1,1,1,1,1,0,NA
+"516",43,"Male","United States","NC","No",0,0,NA,4,1,1,2,1,1,2,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"517",46,"Male","United States","OH","No",0,1,"Rarely",5,1,1,NA,2,3,3,3,"Don't know",1,1,2,3,1,2,3,0,NA
+"518",38,"Female","United States","PA","No",1,1,"Sometimes",6,0,0,NA,3,3,3,3,"Very easy",2,1,3,3,1,1,1,1,NA
+"519",33,"Male","Germany",NA,"No",0,1,"Sometimes",4,0,1,NA,3,1,1,3,"Very easy",3,3,2,2,1,2,1,0,NA
+"520",34,"Male","United Kingdom",NA,"No",1,1,"Often",3,0,1,1,3,1,1,3,"Very easy",2,2,3,3,1,1,1,0,NA
+"521",62,"M","United States","CA","No",0,0,"Never",6,0,1,NA,3,2,3,2,"Don't know",2,1,2,3,2,2,3,0,NA
+"522",23,"F","United States","TX","No",0,0,NA,6,0,0,2,2,2,2,3,"Don't know",2,2,2,2,1,1,2,0,NA
+"523",35,"Male","United States","AZ","No",0,0,NA,6,0,0,1,1,1,1,2,"Don't know",2,2,1,1,1,1,1,0,NA
+"524",25,"Male","Bosnia and Herzegovina",NA,"No",1,0,"Rarely",3,1,1,2,2,2,2,2,"Don't know",2,3,1,1,1,1,2,1,NA
+"525",36,"M","United States","IL","Yes",1,1,"Sometimes",4,1,1,2,3,2,1,3,"Somewhat difficult",2,1,2,3,1,3,3,0,NA
+"526",41,"Female","United States",NA,"No",1,1,"Rarely",5,1,1,NA,3,3,3,3,"Very easy",2,2,2,2,1,1,3,0,NA
+"527",24,"male","Austria",NA,"Yes",0,0,"Sometimes",4,0,1,NA,3,2,2,3,"Somewhat easy",1,1,2,2,2,2,3,0,NA
+"528",51,"Male","New Zealand",NA,"No",0,1,"Sometimes",3,1,1,1,3,3,1,1,"Somewhat difficult",3,3,1,1,1,1,2,1,NA
+"529",29,"M","United States","NC","No",0,1,"Sometimes",4,0,1,NA,3,1,3,3,"Very easy",1,1,1,2,1,1,3,0,NA
+"530",31,"Female","Canada",NA,"Yes",1,1,"Sometimes",4,1,1,2,2,2,2,2,"Don't know",2,2,2,3,1,1,3,0,NA
+"531",27,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",1,1,2,3,1,3,2,0,NA
+"532",31,"Male","Australia",NA,"No",0,1,"Rarely",4,0,1,NA,3,3,3,2,"Somewhat easy",1,1,3,3,3,3,1,0,NA
+"533",27,"female","Hungary",NA,"Yes",1,0,"Sometimes",4,1,1,1,1,1,1,1,"Very difficult",3,2,1,1,1,2,1,0,NA
+"534",23,"Male","Sweden",NA,"No",0,0,"Rarely",4,0,1,2,1,1,2,2,"Very easy",1,1,2,3,2,2,3,0,NA
+"535",21,"Male","Canada",NA,"No",0,0,"Never",3,0,1,2,2,2,1,2,"Don't know",3,2,1,1,1,2,2,0,NA
+"536",27,"Female","Australia",NA,"No",1,1,"Sometimes",4,0,1,1,3,1,1,1,"Somewhat difficult",3,1,2,2,1,1,1,0,NA
+"537",39,"M","United States","WI","No",1,1,"Often",3,1,1,NA,3,3,3,2,"Somewhat easy",3,1,2,3,1,1,1,0,NA
+"538",26,"M","United States","CA","No",1,1,"Never",6,0,1,2,1,1,2,2,"Don't know",2,1,1,1,1,1,1,0,NA
+"539",27,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,2,1,1,1,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"540",22,"Female","United States","CA","No",1,1,"Sometimes",5,0,1,NA,3,1,2,2,"Don't know",1,1,2,2,1,1,1,1,NA
+"541",26,"F","United States","MN","No",1,1,"Often",4,0,0,2,1,1,1,2,"Somewhat difficult",2,1,1,1,1,2,1,0,NA
+"542",31,"Female","United States","PA","No",1,1,"Rarely",4,0,1,NA,3,1,1,3,"Somewhat easy",1,1,3,3,1,1,3,0,NA
+"543",32,"male","United Kingdom",NA,"No",0,0,"Never",4,0,1,2,1,1,1,2,"Don't know",1,1,3,3,3,3,3,0,NA
+"544",28,"female","United States","CA","No",1,1,"Often",4,1,1,NA,1,1,2,2,"Don't know",3,3,2,2,1,1,1,1,NA
+"545",28,"Androgyne","United Kingdom",NA,"No",1,1,"Rarely",4,0,1,1,2,1,1,3,"Somewhat difficult",3,3,2,2,3,1,1,1,"I bring up my depression in interviews solely because I have a large gap on my CV due to mental health issues which could be mistaken for a gap taken to say have children which I feel would harm my chances much more. I have other MH issues I would never bring up with employers or peers."
+"546",23,"female","United Kingdom",NA,"No",0,0,NA,4,0,1,2,2,1,1,2,"Very easy",2,1,1,2,1,3,3,0,NA
+"547",30,"Male","United Kingdom",NA,"No",0,0,"Never",3,1,1,2,2,2,2,2,"Very easy",1,1,3,3,2,2,3,0,NA
+"548",36,"Male","United States","CA","No",1,1,"Sometimes",6,0,1,NA,1,1,3,2,"Somewhat difficult",3,1,2,3,1,3,1,0,NA
+"549",21,"M","United States","CA","No",1,0,NA,6,0,1,NA,3,3,3,3,"Don't know",1,1,2,3,1,2,3,0,NA
+"550",30,"male","Germany",NA,"No",0,0,"Often",3,0,1,1,1,2,1,2,"Somewhat easy",2,1,2,2,2,3,2,0,NA
+"551",25,"Woman","United States","CA","No",1,0,NA,5,0,0,2,2,1,1,2,"Don't know",2,1,2,2,1,2,2,0,"I'm not aware of anyone with mental health issues at work it's definitely not something that's discussed publicly. There's also a lot of other personal info I don't know about my coworkers so it may just be that we tend not to talk about personal issues."
+"552",32,"Male","New Zealand",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Very easy",1,1,2,3,2,3,2,0,"I suffer from mild depression and anxiety."
+"553",29,"female","Canada",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Don't know",2,1,2,2,1,1,3,0,"The family history question needs a don't know option."
+"554",21,"Agender","United Kingdom",NA,"No",0,1,"Sometimes",3,0,1,1,3,3,1,3,"Somewhat easy",2,1,2,2,1,1,3,0,NA
+"555",27,"Female","New Zealand",NA,"No",1,1,"Rarely",4,1,1,1,1,1,1,2,"Somewhat easy",2,2,2,2,1,3,2,0,NA
+"556",32,"Female","Canada",NA,"No",0,1,"Often",6,0,0,2,2,2,2,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"557",34,"M","Australia",NA,"No",0,0,"Sometimes",6,0,1,NA,3,3,3,3,"Very easy",1,1,2,3,1,2,3,0,NA
+"558",33,"M","United States","NY","No",0,0,NA,3,0,1,2,1,2,2,2,"Don't know",3,1,2,1,1,2,2,0,"I'm afraid I haven't seen mental health issues arise at work yet. They are very accommodating with maternity leave but I don't know how that translates to anything else."
+"559",22,"Male","Netherlands",NA,"No",1,1,"Sometimes",4,1,1,1,2,1,2,2,"Somewhat easy",1,1,2,3,2,3,3,0,NA
+"560",24,"M","United States","CA","No",0,0,NA,6,0,1,2,2,2,2,2,"Don't know",2,2,2,2,1,1,3,0,NA
+"561",65,"Male","United States","FL","Yes",0,0,NA,4,1,0,1,1,1,1,2,"Very easy",2,1,2,1,1,1,3,0,NA
+"562",27,"Male","United States","OR","No",1,1,"Sometimes",4,1,1,2,1,1,2,2,"Don't know",1,1,2,1,1,1,3,0,NA
+"563",33,"Male","Australia",NA,"No",0,0,"Never",6,0,1,2,2,2,2,3,"Very easy",1,1,2,3,2,3,3,0,NA
+"564",36,"Male","United States","CO","No",0,1,"Rarely",3,0,1,2,2,1,2,2,"Don't know",1,1,2,2,1,1,2,0,NA
+"565",40,"Male","Canada",NA,"No",0,0,"Never",3,0,1,1,1,1,1,2,"Somewhat difficult",1,1,2,2,1,1,1,0,NA
+"566",28,"male","United States","GA","No",0,1,"Sometimes",6,0,1,NA,3,1,1,3,"Somewhat difficult",2,1,2,1,1,2,1,0,NA
+"567",39,"Male","United States","OR","No",0,1,"Sometimes",5,0,1,NA,2,3,2,3,"Don't know",3,2,3,3,1,2,2,0,NA
+"568",32,"Male","United States","CA","No",0,1,"Sometimes",6,0,1,NA,1,1,3,2,"Somewhat easy",1,1,3,2,2,3,2,0,NA
+"569",31,"male","United States","CA","No",1,0,"Sometimes",6,0,1,NA,2,2,2,2,"Somewhat easy",2,1,1,2,1,3,1,0,"Mental health issue I have dealt with: acute depression"
+"570",38,"Make","United States","PA","No",1,1,"Sometimes",4,0,1,2,1,1,1,2,"Don't know",2,2,2,1,1,1,2,0,NA
+"571",23,"Male","United States","CA","No",1,1,"Rarely",4,0,1,1,3,1,1,2,"Don't know",2,1,2,3,1,1,3,0,NA
+"572",42,"Make","United States","CA","No",0,1,"Often",6,0,1,NA,3,3,3,3,"Somewhat easy",2,2,3,3,2,2,2,0,NA
+"573",27,"Female","United States","NY","No",0,0,"Sometimes",5,0,1,2,2,2,3,2,"Don't know",1,1,2,3,1,1,3,0,NA
+"574",26,"Female","United States","MA","No",1,1,"Sometimes",3,0,1,NA,3,1,1,3,"Somewhat difficult",1,1,3,3,1,1,1,1,NA
+"575",50,"Male","United States",NA,"No",0,0,"Never",3,1,1,1,3,1,1,2,"Don't know",1,1,1,1,1,2,1,0,NA
+"576",37,"Male","United States","PA","No",1,0,"Never",3,0,1,2,1,1,2,2,"Somewhat easy",1,1,3,3,1,1,3,0,NA
+"577",23,"Male","United States","RI","No",0,0,NA,3,0,1,2,1,2,1,2,"Don't know",1,1,3,3,1,2,2,0,NA
+"578",33,"M","United States","MI","No",1,0,"Sometimes",4,1,1,2,2,1,1,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"579",29,"male","Canada",NA,"Yes",0,0,"Never",3,1,1,NA,3,1,1,3,"Very difficult",3,1,2,1,1,3,1,0,NA
+"580",34,"Male","United States","IL","No",1,1,"Sometimes",3,1,0,NA,1,1,1,2,"Don't know",2,1,2,2,1,2,2,0,"Thanks for doing this. It will help end the stigma!"
+"581",41,"male","United States","CA","No",1,1,"Often",6,0,1,NA,1,1,1,2,"Don't know",2,2,2,2,1,1,2,1,NA
+"582",50,"Male","United States","OR","No",1,0,NA,4,1,1,2,1,1,2,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"583",29,"Male","Canada",NA,"No",0,1,"Never",6,0,0,NA,2,3,3,3,"Somewhat difficult",2,1,2,1,1,2,2,1,"For clarity I work at a casino."
+"584",35,"Male","United States","IN","No",0,0,"Never",4,0,1,1,3,1,1,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"585",27,"Male","Singapore",NA,"No",0,0,"Sometimes",4,1,1,1,1,1,1,3,"Don't know",3,1,2,3,1,1,1,0,"Most employers / coworkers and even immediate family is not all the time supportive to discuss depression and other problems. ie. My wife thinks she should be able to make sure that I am not depressed  which is funny because sometimes depression state has nothing to do with her."
+"586",40,"Female","United States","MA","No",0,0,"Never",3,0,0,2,2,1,1,2,"Somewhat easy",2,2,3,3,2,2,2,0,NA
+"587",27,"Male","Australia",NA,"No",0,1,"Often",4,1,1,1,1,1,1,2,"Don't know",2,1,2,1,1,2,1,1,NA
+"588",29,"f","United States","MI","No",0,0,"Never",3,0,1,NA,3,3,1,3,"Don't know",2,1,2,2,1,2,2,1,NA
+"589",31,"Male","United States","OH","No",1,1,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat easy",2,1,3,3,1,2,2,0,NA
+"590",43,"Male","United States","OH","No",0,1,"Sometimes",4,0,1,1,3,1,1,2,"Somewhat easy",1,1,3,3,1,2,2,0,NA
+"591",34,"Male","United States","NH","No",1,1,"Sometimes",3,1,1,NA,3,1,1,2,"Don't know",2,1,2,2,1,3,2,1,NA
+"592",29,"Male","United States","OH","No",1,1,"Sometimes",3,0,1,2,1,1,1,1,"Somewhat difficult",3,1,2,2,1,2,2,0,"It has come to interfere with work as life progresses.Between burn out and enduring more of the work and balancing a family. Changes in my mental health have a larger pond to make ripples in."
+"593",19,"Male","Canada",NA,"No",1,1,"Sometimes",4,0,1,1,1,1,1,2,"Don't know",2,2,2,1,1,2,2,0,NA
+"594",41,"m","United States","TN","No",1,1,"Sometimes",6,0,1,NA,2,3,3,2,"Don't know",2,1,2,2,1,1,1,0,NA
+"595",29,"Male","United States","OR","No",1,0,"Never",4,0,1,NA,3,3,3,2,"Don't know",1,1,2,3,1,2,3,0,NA
+"596",23,"Male","United States","PA","No",0,0,"Rarely",4,0,1,NA,2,2,2,2,"Don't know",1,1,2,2,1,1,3,0,NA
+"597",24,"Female","United States",NA,"No",1,1,"Sometimes",4,0,1,NA,2,1,1,2,"Somewhat difficult",3,2,1,1,1,1,1,1,NA
+"598",31,"M","United States","NY","No",0,0,NA,3,1,1,2,1,1,2,2,"Don't know",3,1,1,1,1,2,2,0,NA
+"599",43,"Male","United States","WA","No",0,0,NA,5,1,1,2,2,2,2,2,"Don't know",1,1,3,3,1,1,3,0,NA
+"600",31,"Male","United States","NY","No",1,1,"Rarely",4,0,1,1,1,1,2,2,"Somewhat difficult",3,3,2,1,1,1,1,1,NA
+"601",29,"Male","United States","CA","No",1,0,"Often",4,0,1,NA,3,3,3,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"602",35,"Male","United States","TN","Yes",1,0,NA,4,1,1,1,1,3,3,2,"Very easy",1,1,3,3,1,2,3,0,"The supposed divide between mental and physical health needs to done away with and probably will be as our knowledge of the brain increases. That said we are often employed for our ability to provide value. If any issue prevents is from providing value that creates a very real challenge for the employer who is responsible to shareholders and other team members who are providing value. There are no easy answers here."
+"603",33,"Male","United States","WI","No",1,1,"Sometimes",4,0,0,NA,2,1,1,3,"Somewhat difficult",3,3,1,1,1,1,1,0,NA
+"604",30,"cis-female/femme","United States","WI","Yes",1,1,"Often",4,1,0,1,3,1,3,3,"Somewhat difficult",1,1,3,3,1,1,3,0,"Because I'm self-employed and the only person in my organization I would have liked a not applicable option. I don't want my answers to be misleading."
+"605",27,"male","United States","PA","No",0,0,NA,6,0,1,NA,2,2,2,3,"Don't know",2,2,1,1,1,2,1,0,NA
+"606",32,"Male","United States","MI","No",0,0,"Sometimes",4,0,1,1,3,1,1,2,"Don't know",2,2,2,2,1,1,1,0,NA
+"607",50,"Male","United States","WY","No",0,0,"Sometimes",4,1,1,2,1,1,2,2,"Don't know",3,2,2,2,1,2,2,0,"I work for a very small firm that doesn't really have a dedicated H/R person. Also for the question:If you have a mental health condition do you feel that it interferes with your work?...I don't have a diagnosed mental health condition but I suspect I might have some slight depression issues. Definitely have Imposter Syndrome."
+"608",24,"male","United States","KY","No",0,0,"Never",3,0,0,2,2,1,1,2,"Don't know",2,3,2,1,1,2,1,0,NA
+"609",27,"Male","United States","NY","No",0,0,NA,3,0,1,2,1,1,1,2,"Don't know",1,1,3,3,1,2,3,0,NA
+"610",27,"Male","Australia",NA,"No",0,0,"Never",4,1,1,1,1,1,1,2,"Don't know",3,1,1,1,1,2,2,0,NA
+"611",32,"Male","United States","TX","No",0,1,"Sometimes",4,0,1,1,3,1,1,3,"Somewhat easy",1,1,2,3,2,2,3,0,"I went through a divorce and was pretty depressed I went to therapy and my boss (one of the owners) was extremely supportive. I'm not sure I would have got through that rough time with out my co-workers and boss."
+"612",42,"Male","United States","WI","Yes",0,0,"Rarely",4,1,0,1,3,1,1,2,"Very easy",1,1,2,3,2,2,3,0,NA
+"613",37,"Male","United States","WA","No",0,0,"Often",6,0,0,2,1,1,1,2,"Don't know",2,1,2,1,1,1,1,0,NA
+"614",30,"Male","Singapore",NA,"No",0,0,"Sometimes",3,0,1,2,2,1,1,2,"Somewhat easy",2,1,2,1,1,3,1,1,NA
+"615",29,"Male","United States","WA","No",0,0,"Rarely",6,0,1,NA,1,1,1,2,"Very easy",3,2,2,1,1,1,2,0,NA
+"616",30,"Male","United States","GA","Yes",0,1,"Often",4,1,1,1,2,1,3,2,"Somewhat difficult",1,1,3,3,1,2,3,0,NA
+"617",35,"Male","United States","MI","No",0,0,"Never",3,0,1,NA,1,3,2,2,"Don't know",1,1,2,2,2,2,3,0,NA
+"618",35,"Male","United States","MD","No",1,1,"Rarely",4,1,0,NA,3,1,1,3,"Very difficult",3,1,2,1,1,2,1,0,"I'm diagnosed with Bipolar Disorder. My benefits for mental health exist but are terrible. The deductible is $800. I see a therapist once or twice a month at the cost of $150. The insurance company only values it at $40. My psychiatrist is $180 for 15 minutes. The insurance company values it at $80. It is IMPOSSIBLE to hit my deductible. I don't even bother making the claims."
+"619",38,"male","Netherlands",NA,"No",1,0,"Often",3,1,1,1,2,1,2,2,"Don't know",2,2,2,2,2,2,2,0,NA
+"620",22,"Male","United Kingdom",NA,"No",1,1,"Sometimes",4,0,1,NA,3,1,1,3,"Very easy",1,1,2,3,2,3,3,0,NA
+"621",24,"m","Germany",NA,"No",1,0,"Sometimes",4,0,1,2,1,1,1,2,"Somewhat easy",1,1,2,2,1,2,2,0,"We don't fucking talk about it ever."
+"622",22,"M","Netherlands",NA,"Yes",0,0,"Never",4,0,1,2,2,1,1,2,"Don't know",1,2,2,3,2,3,1,1,NA
+"623",31,"Female","United States","WA","No",0,1,"Often",3,1,1,NA,3,1,1,2,"Very easy",2,1,2,2,1,3,2,0,NA
+"624",23,"female","United States","CA","No",1,1,"Sometimes",6,0,1,NA,3,3,3,3,"Somewhat easy",3,2,1,1,1,1,2,0,NA
+"625",31,"Female","United States","OR","No",1,1,"Sometimes",4,0,1,2,1,1,1,2,"Don't know",1,1,2,2,1,1,2,0,NA
+"626",28,"Female","United States","CA","No",1,1,"Rarely",5,0,1,NA,3,3,3,2,"Somewhat difficult",2,1,1,2,1,1,1,0,NA
+"627",37,"Guy (-ish) ^_^","Canada",NA,"No",1,1,"Sometimes",4,0,0,NA,3,1,1,2,"Somewhat difficult",3,2,2,2,1,2,1,0,NA
+"628",34,"male","United States","CA","Yes",1,1,"Sometimes",4,0,1,1,3,1,1,3,"Somewhat easy",1,1,2,2,1,1,1,0,"thanks for what you're doing. FYI these questions dont quite work for entrepreneurs where employer == cofounders / sr mgmt / me"
+"629",32,"male leaning androgynous","Canada",NA,"No",0,0,"Sometimes",3,1,1,1,3,1,1,3,"Very difficult",3,2,2,1,1,2,1,1,NA
+"630",28,"Male","United States","MI","No",1,1,"Sometimes",3,1,1,NA,2,1,2,2,"Don't know",3,1,2,2,1,1,2,1,NA
+"631",24,"Female","United Kingdom",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Don't know",2,1,1,2,1,2,2,0,NA
+"632",56,"Male","United States","MA","No",1,1,"Rarely",4,0,1,NA,3,1,1,2,"Don't know",3,2,2,2,1,1,2,0,NA
+"633",31,"Male","Germany",NA,"No",0,0,"Sometimes",4,1,1,1,1,1,1,1,"Very easy",1,1,3,3,2,2,3,0,NA
+"634",34,"female","United States","CA","No",0,1,"Sometimes",4,1,1,NA,3,1,2,2,"Somewhat easy",2,1,2,3,1,1,3,0,NA
+"635",35,"m","Germany",NA,"No",0,1,"Rarely",4,0,0,2,1,3,2,2,"Very easy",1,1,2,3,1,1,3,0,NA
+"636",28,"male","Germany",NA,"No",0,0,"Never",3,0,1,1,1,1,1,2,"Somewhat easy",1,1,2,2,3,3,2,0,NA
+"637",36,"male","Poland",NA,"Yes",1,1,"Often",4,0,1,1,1,1,1,2,"Somewhat easy",1,1,2,3,2,2,3,1,NA
+"638",30,"Male","United Kingdom",NA,"No",0,1,"Often",3,0,1,1,1,1,1,3,"Somewhat easy",1,1,2,3,1,2,3,0,NA
+"639",35,"Male","United States",NA,"Yes",0,0,NA,4,1,1,NA,2,1,1,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"640",49,"male","Japan",NA,"Yes",1,1,"Sometimes",4,1,1,1,3,3,1,2,"Somewhat difficult",3,3,1,1,1,1,1,1,NA
+"641",36,"Male","Germany",NA,"No",0,0,NA,3,0,1,NA,3,1,1,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"642",35,"male","Germany",NA,"No",0,0,NA,3,0,1,1,1,1,1,2,"Very easy",2,1,2,2,1,1,2,0,NA
+"643",29,"Female","Australia",NA,"No",1,1,"Sometimes",6,0,0,NA,3,3,3,1,"Somewhat difficult",3,1,2,2,1,1,1,1,NA
+"644",57,"Male","United States","CA","No",0,0,"Never",3,0,1,NA,3,1,3,3,"Somewhat difficult",3,2,1,1,1,2,2,1,NA
+"645",31,"female","Belgium",NA,"No",1,1,"Rarely",4,0,0,NA,1,1,1,1,"Don't know",2,1,2,1,1,1,2,1,NA
+"646",37,"Male","Ireland",NA,"Yes",0,0,"Never",4,0,1,1,1,1,1,2,"Don't know",3,2,1,1,1,2,2,0,NA
+"647",25,"Male","Ireland",NA,"No",1,1,"Sometimes",3,0,1,1,1,1,1,2,"Don't know",2,1,2,2,1,2,1,0,NA
+"648",30,"Male","Australia",NA,"No",0,0,"Sometimes",3,0,1,1,1,1,1,2,"Very easy",1,1,2,2,1,1,2,0,NA
+"649",26,"F","Australia",NA,"No",1,0,"Sometimes",4,0,0,1,3,3,3,2,"Somewhat easy",1,1,3,3,1,1,2,0,"Majority of qs on survey not relevant if you are self employed"
+"650",22,"Female","Netherlands",NA,"No",0,0,"Often",4,0,1,1,1,1,1,2,"Don't know",1,1,1,2,1,3,2,0,NA
+"651",39,"M","United States","FL","No",0,0,"Rarely",6,1,0,2,1,3,3,2,"Don't know",1,1,2,2,1,2,2,0,"I mostly suffer from social anxiety which keeps me from attending conferences. In my small dev group a big problem is a supervisor who's a workaholic and will never say no when asked to do something so he's doing the job of at least two ppl (poorly) and working crazy hours setting the tone for the test of us that work/life balance isn't important."
+"652",29,"Male","United Kingdom",NA,"No",1,1,"Never",4,0,1,2,2,2,2,2,"Don't know",2,2,1,1,1,1,1,0,NA
+"653",54,"male","United Kingdom",NA,"Yes",1,1,"Sometimes",4,1,1,2,2,1,1,2,"Very easy",1,1,2,3,3,3,2,1,NA
+"654",34,"Female","Australia",NA,"No",1,0,"Never",5,0,0,2,1,3,3,2,"Don't know",3,2,1,1,1,1,2,1,"I don't have any mental health issues but for a number of years I had to care for a family member who did and I felt that I was not able to discuss or get support from friends or colleagues in the same way that I might have if they had suffered from a physical condition."
+"655",32,"M","United States","WA","No",0,1,"Never",5,0,0,NA,2,3,3,2,"Very easy",2,1,1,1,1,1,3,0,NA
+"656",25,"Male","Nigeria",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",2,1,3,3,1,3,2,0,NA
+"657",29,"male","Poland",NA,"No",0,0,"Rarely",4,0,1,1,1,1,1,1,"Somewhat difficult",1,2,2,1,1,1,3,0,NA
+"658",32,"male","Germany",NA,"Yes",0,0,"Never",4,1,1,1,1,1,1,2,"Don't know",1,1,2,3,1,2,2,0,NA
+"659",30,"M","United Kingdom",NA,"No",1,1,"Sometimes",6,0,1,NA,3,1,2,3,"Don't know",2,1,2,3,1,3,3,0,NA
+"660",31,"male","Germany",NA,"No",0,0,NA,4,0,1,2,1,1,2,2,"Somewhat easy",1,1,2,3,2,2,2,0,NA
+"661",20,"F","Switzerland",NA,"No",0,0,"Rarely",6,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,2,1,2,3,0,NA
+"662",27,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,2,1,1,2,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"663",32,"Male","United States","CA","No",0,0,"Never",6,0,1,2,2,2,2,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"664",26,"Male","Ireland",NA,"Yes",0,0,"Never",4,1,1,1,1,1,1,2,"Somewhat difficult",2,1,2,3,2,2,3,0,NA
+"665",30,"Male","Italy",NA,"No",0,0,"Sometimes",6,0,0,2,1,1,1,3,"Very easy",1,1,2,2,1,1,2,0,NA
+"666",30,"Male","Ireland",NA,"No",0,1,"Sometimes",3,1,1,1,1,2,1,2,"Very difficult",2,2,2,1,1,1,1,0,NA
+"667",22,"male","India",NA,"Yes",0,0,NA,4,1,1,2,1,2,2,2,"Very easy",2,2,2,2,2,2,3,1,NA
+"668",24,"male","Ireland",NA,"No",0,0,NA,6,0,1,2,2,2,2,2,"Don't know",1,1,1,1,1,1,2,0,NA
+"669",26,"m","Netherlands",NA,"No",0,0,"Never",3,0,1,1,1,1,1,2,"Don't know",2,2,1,1,1,1,2,0,NA
+"670",43,"male","France",NA,"No",0,0,NA,4,0,1,2,1,1,1,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"671",26,"Male","Russia",NA,"No",0,0,"Never",3,0,1,1,2,1,2,2,"Somewhat difficult",1,1,2,1,1,2,2,0,NA
+"672",23,"Male","United States","NC","No",1,0,"Sometimes",4,0,1,2,2,1,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"673",26,"Man","Canada",NA,"No",0,0,NA,4,1,1,NA,2,2,3,2,"Somewhat easy",1,1,2,2,1,1,3,0,NA
+"674",26,"female","Israel",NA,"No",1,0,"Never",4,0,1,2,1,2,2,2,"Don't know",2,1,2,1,1,1,3,0,NA
+"675",35,"Male","Canada",NA,"No",1,0,"Sometimes",3,0,1,2,1,1,1,2,"Don't know",2,2,2,2,1,1,1,0,NA
+"676",28,"Male","United States","IL","No",0,1,"Sometimes",3,1,0,2,2,1,2,2,"Don't know",1,1,2,3,1,2,2,0,NA
+"677",22,"Male","India",NA,"No",0,0,NA,3,0,1,1,1,1,1,2,"Don't know",2,2,2,3,2,2,2,0,NA
+"678",29,"Female","United States","OH","No",1,1,"Rarely",4,0,1,2,1,1,1,2,"Don't know",3,1,1,1,1,1,2,0,NA
+"679",29,"Male","Germany",NA,"Yes",0,0,NA,4,0,1,1,3,1,1,3,"Very easy",1,1,3,3,3,3,3,0,NA
+"680",45,"Male","United States","VA","No",0,1,"Often",4,1,1,NA,2,1,3,2,"Very easy",1,1,3,3,1,2,3,0,NA
+"681",33,"male","Bulgaria",NA,"No",0,1,"Rarely",3,1,1,1,1,1,1,2,"Somewhat easy",2,1,2,2,1,2,2,1,NA
+"682",38,"Male","United States","MN","No",0,1,"Sometimes",6,0,0,NA,3,3,3,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"683",19,"Trans woman","United States","MO","No",1,1,"Often",3,0,0,2,2,1,1,2,"Somewhat difficult",2,2,1,1,1,2,1,0,NA
+"684",29,"female","Canada",NA,"No",0,1,"Rarely",6,1,0,NA,3,3,2,3,"Somewhat easy",1,1,1,3,1,2,2,0,NA
+"685",21,"Female","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",3,2,2,1,1,1,2,0,NA
+"686",23,"Female","India",NA,"No",1,1,"Sometimes",6,0,1,2,2,1,2,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"687",33,"female","United States","NC","No",1,1,"Rarely",6,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,3,1,1,3,0,NA
+"688",49,"Male","United States","NY","No",1,1,"Sometimes",4,0,1,NA,2,3,3,3,"Somewhat easy",2,2,2,3,1,1,3,0,NA
+"689",28,"Male","United States","NM","No",0,0,NA,3,1,1,2,1,1,1,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"690",27,"f","United Kingdom",NA,"No",0,1,"Sometimes",4,1,1,2,2,3,2,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"691",23,"male","Canada",NA,"No",0,1,"Sometimes",4,0,1,NA,1,1,1,2,"Somewhat easy",2,2,2,2,1,1,2,0,NA
+"692",29,"M","Netherlands",NA,"No",0,0,"Never",4,1,1,1,1,1,1,3,"Somewhat easy",1,1,3,3,1,2,3,0,NA
+"693",30,"m","Germany",NA,"No",0,0,NA,3,0,1,2,1,1,2,3,"Somewhat easy",1,1,2,1,2,2,2,0,NA
+"694",28,"Female","Canada",NA,"No",0,0,NA,6,0,1,NA,2,2,2,2,"Somewhat easy",1,1,2,3,1,1,2,0,"I am a contractor so my lack of knowledge of workplace wellness stems directly from my lack of access to that material since I am not covered by it. I am aware that mental health services are available and am aware of a colleague who has taken a leave of absence to deal with mental health issues but am otherwise uninformed."
+"695",32,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",3,1,1,1,1,3,1,0,NA
+"696",32,"Male","United Kingdom",NA,"No",0,1,"Sometimes",3,0,0,NA,3,1,1,3,"Very easy",1,1,1,3,1,1,3,0,NA
+"697",37,"Male","France",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Somewhat easy",2,2,2,2,1,2,1,0,NA
+"698",39,"F","United States","TX","No",0,0,NA,6,1,0,1,3,1,1,2,"Very difficult",3,2,1,1,1,2,1,0,NA
+"699",31,"male","France",NA,"No",0,0,NA,5,0,1,2,1,1,2,2,"Don't know",2,2,2,1,1,1,3,0,NA
+"700",29,"Male","United States","SC","No",0,0,NA,4,0,1,1,1,1,2,2,"Somewhat difficult",2,2,2,1,1,1,2,0,NA
+"701",30,"M","United States","FL","No",0,0,NA,4,0,0,NA,1,1,2,2,"Don't know",2,1,2,3,1,1,2,0,NA
+"702",33,"M","United States","WA","Yes",1,1,"Rarely",4,1,1,1,3,3,3,1,"Very difficult",1,1,3,3,1,1,3,1,NA
+"703",37,"male","United States","CA","No",1,1,"Sometimes",4,0,1,NA,3,2,2,3,"Don't know",2,1,3,3,1,1,2,0,NA
+"704",23,"Male","United States","OH","No",0,1,"Often",3,0,0,NA,3,3,1,3,"Somewhat easy",1,1,2,3,1,2,3,0,NA
+"705",43,"M","United States","TN","No",1,1,"Sometimes",3,0,0,NA,2,1,3,2,"Somewhat easy",3,1,1,1,1,1,1,0,NA
+"706",32,"Male","United Kingdom",NA,"No",0,1,"Rarely",4,0,1,2,1,1,1,2,"Don't know",2,1,3,3,1,2,1,1,NA
+"707",26,"Male","United States","NY","No",0,0,"Never",3,0,1,2,2,1,1,2,"Don't know",3,3,2,1,1,1,1,0,NA
+"708",32,"Male","United States","NY","Yes",0,1,"Sometimes",4,1,1,2,2,2,2,2,"Very easy",1,1,3,3,3,3,2,0,NA
+"709",37,"F","United States","MO","No",0,0,NA,3,1,1,2,2,1,2,2,"Don't know",3,1,2,1,1,1,2,0,NA
+"710",29,"Male","United States","NY","No",0,1,"Often",3,0,1,NA,3,1,1,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"711",34,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Somewhat easy",2,2,2,3,1,2,2,0,NA
+"712",27,"male","France",NA,"No",0,0,NA,4,0,1,2,2,2,2,2,"Don't know",1,1,3,3,1,1,3,0,NA
+"713",30,"male","United States","TN","No",1,0,"Never",4,0,1,2,1,1,2,2,"Very easy",1,1,2,3,1,2,2,0,NA
+"714",29,"Male","United States","CO","No",0,0,"Never",4,0,1,NA,3,1,3,3,"Don't know",2,1,2,2,1,1,1,0,NA
+"715",32,"Male","United States","PA","Yes",1,1,"Sometimes",4,1,1,NA,3,2,2,2,"Very difficult",3,2,2,1,1,1,1,0,NA
+"716",-1726,"male","United Kingdom",NA,"No",0,1,"Sometimes",3,0,0,1,1,1,1,2,"Somewhat difficult",3,1,1,1,1,2,2,0,NA
+"717",25,"Male","Germany",NA,"No",0,0,NA,5,0,1,NA,3,2,3,3,"Somewhat easy",2,2,2,3,3,3,3,0,NA
+"718",37,"male","United States","NY","Yes",0,0,NA,4,1,1,NA,3,3,1,3,"Somewhat easy",1,1,3,3,2,2,3,0,NA
+"719",29,"Male","Netherlands",NA,"No",1,0,NA,4,0,1,1,1,1,1,2,"Very easy",1,1,2,3,1,2,3,0,NA
+"720",27,"Man","United States","MN","No",0,0,NA,3,0,1,NA,2,1,2,2,"Don't know",1,1,3,3,1,1,2,0,NA
+"721",33,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,2,1,1,1,2,"Don't know",2,1,2,2,1,2,2,0,NA
+"722",30,"male","Canada",NA,"No",1,1,"Sometimes",6,0,0,2,1,1,1,1,"Very difficult",3,1,2,1,1,3,1,1,NA
+"723",29,"male","Canada",NA,"No",0,0,NA,4,1,1,1,3,1,1,2,"Somewhat difficult",2,2,3,3,1,2,2,0,NA
+"724",25,"Male","United States","MO","No",1,1,"Never",4,1,1,2,1,3,2,2,"Don't know",3,1,2,3,1,1,1,0,NA
+"725",33,"Male","United States","WY","No",1,1,"Sometimes",4,0,0,1,3,1,1,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"726",31,"Male","South Africa",NA,"No",0,0,"Never",4,1,1,1,1,1,1,1,"Don't know",1,1,2,2,1,2,1,0,"Fully remote developer"
+"727",21,"male","Germany",NA,"No",0,0,"Rarely",4,1,1,2,1,1,1,2,"Very easy",2,2,2,2,1,2,1,0,NA
+"728",30,"Male","Switzerland",NA,"No",1,1,"Sometimes",3,0,1,2,1,1,1,1,"Very difficult",3,3,1,1,1,1,1,0,NA
+"729",29,"Male","United States","MN","No",0,0,NA,6,0,0,2,2,2,2,2,"Don't know",1,1,3,3,1,1,1,0,NA
+"730",43,"Male","Croatia",NA,"Yes",0,1,"Sometimes",4,1,1,1,1,1,1,3,"Very difficult",3,1,3,1,1,2,1,1,NA
+"731",37,"m","United Kingdom",NA,"No",0,1,"Often",4,0,1,1,1,1,1,2,"Don't know",3,1,3,3,2,3,1,0,NA
+"732",24,"Male","France",NA,"No",0,0,NA,3,0,1,1,1,3,1,2,"Don't know",2,1,3,2,1,1,2,0,NA
+"733",29,"Male","United States","MD","No",0,0,NA,4,1,1,2,2,1,1,2,"Very easy",1,1,3,3,1,1,2,0,NA
+"734",31,"Male","United States","KY","No",0,0,NA,3,0,0,NA,3,3,3,3,"Don't know",1,1,3,3,1,1,2,0,NA
+"735",5,"Male","United States","OH","No",0,0,NA,4,0,1,2,2,1,1,2,"Somewhat easy",1,1,3,3,1,1,3,0,"We had a developer suffer from depression and pretty hard burnout but he refused treatment even when the company said we'd foot the bill. Eventually he had to be asked to resign which was a shame. I don't know if we have any specific programs for mental health but we're definitely on the lookout for those types of issues."
+"736",33,"Male","United Kingdom",NA,"Yes",0,0,"Never",4,0,0,1,2,1,1,2,"Very easy",1,1,3,2,1,3,1,0,NA
+"737",43,"male","United States","NY","No",0,0,NA,6,0,0,NA,3,2,3,3,"Don't know",1,1,2,3,1,2,2,0,NA
+"738",33,"Male","United Kingdom",NA,"No",0,1,"Sometimes",3,0,1,2,2,1,1,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"739",27,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,3,3,"Don't know",2,1,3,2,1,3,3,0,NA
+"740",36,"Male","United States","TN","No",1,1,"Sometimes",6,1,0,2,1,2,2,2,"Don't know",3,2,1,1,1,2,2,0,NA
+"741",37,"male","Australia",NA,"No",1,1,"Sometimes",3,0,1,1,3,1,1,3,"Very easy",1,1,2,3,1,2,3,1,NA
+"742",32,"male","Belgium",NA,"No",0,0,NA,4,0,1,1,3,1,1,2,"Very difficult",3,2,1,1,1,1,1,0,NA
+"743",39,"Male","United Kingdom",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Very easy",1,1,1,2,1,3,3,0,NA
+"744",31,"Male","United States","TX","No",1,1,"Sometimes",3,0,1,NA,3,1,2,2,"Somewhat easy",2,1,2,3,2,3,2,0,NA
+"745",36,"Male","United States","OH","No",0,1,"Sometimes",4,1,1,NA,3,1,1,2,"Very difficult",2,2,2,2,2,2,2,0,"I am a 15 year vet of the industry and I get 2 weeks of combined sick and vacation time a year and I have children to fit into that too. I've had heart problems from the stress. Fuck everything about startup culture."
+"746",30,"Male","United States","TX","Yes",0,1,"Sometimes",3,1,1,2,2,2,2,2,"Don't know",1,1,2,2,1,3,2,0,NA
+"747",28,"male","Canada",NA,"No",0,0,NA,4,0,1,NA,2,1,2,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"748",32,"Male","Italy",NA,"No",0,0,NA,4,0,1,1,1,1,1,1,"Somewhat difficult",2,1,2,1,2,2,1,0,"Italians are somewhat behind for what concerns mental health care in the workplace.  Physical health care is very much accepted with a doctor that certifies your ailment.  Mental health is treated quite differently I believe because most people are willing to admit that physical ailments should be covered while mental ailments are almost considered non-existent in most respects."
+"749",35,"Male","United States","CA","No",1,1,"Rarely",4,0,1,NA,3,3,3,3,"Very easy",1,1,2,3,1,1,3,0,"Since I am the CEO of my startup some of the would you feel comfortable and do you know the policy questions are interesting.  Of course I feel comfortable since no one can fire me and I know the policies because I chose them!However now I am curious if my employees know just how supportive the company would be of their mental health needs and this survey is making me realize that we probably haven't done a great job communicating that to everyone.  Thanks for doing this."
+"750",19,"Male","Canada",NA,"No",0,1,"Sometimes",3,0,1,2,2,1,1,2,"Somewhat difficult",1,1,2,3,1,3,2,0,NA
+"751",33,"m","Norway",NA,"No",1,0,NA,3,0,1,NA,3,1,1,2,"Very easy",1,1,2,3,1,1,2,0,NA
+"752",42,"male","Germany",NA,"No",0,0,NA,6,1,1,2,2,3,3,3,"Very easy",1,1,2,1,1,2,3,0,NA
+"753",37,"Male","United States","MI","No",1,1,"Sometimes",4,0,1,2,2,2,2,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"754",40,"Male","Thailand",NA,"Yes",0,0,"Never",4,0,1,1,1,1,1,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"755",36,"M","United States","CA","No",0,0,"Never",6,0,1,NA,3,3,3,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"756",29,"Female","United States","OR","No",1,1,"Sometimes",3,1,0,2,1,1,2,2,"Don't know",2,1,2,3,1,2,2,0,NA
+"757",38,"f","United States","NC","No",1,1,"Sometimes",3,0,0,NA,2,1,2,2,"Don't know",2,1,1,1,1,1,2,0,"I work for the state so the health plan is large and cumbersome.  I believe it covers most medical as a state benefit but I haven't seen any promotion of it.  And it's not really the same as a tech company where I am.  We are an IT department but hardly run like any tech company around."
+"758",26,"M","United States","CA","No",1,1,"Sometimes",6,0,1,NA,1,3,2,2,"Somewhat difficult",3,2,1,1,1,2,1,0,NA
+"759",34,"male","Germany",NA,"No",0,0,"Rarely",3,0,1,1,1,1,1,3,"Somewhat easy",2,2,1,2,2,2,3,0,NA
+"760",21,"Male","United States","IL","No",0,1,"Often",6,0,0,1,3,1,1,1,"Don't know",3,1,2,2,1,3,1,1,"I have Narcolepsy and have been fired from a job before for falling asleep standing up during a meeting. I was standing up in the back of the room so that i could pace and try to prevent myself from falling asleep. I still managed to fall asleep while standing and fell over against the wall. I was fired the next day. The worst part is this is a condition i had given months of notice about to my boss and i reminded her of it before the meeting. I worked at a hospital at the time. I would have thought that they would be more accommodating."
+"761",31,"Male","Canada",NA,"Yes",1,0,"Sometimes",4,1,1,1,3,1,1,3,"Somewhat easy",1,1,1,1,1,1,3,0,"I feel like most of my answers were useless due to answering that I am self-employed early on. Since my employer is me... my employer does/doesn't offer mental health benefits or would I be comfortable bring it up with 'them' doesn't make sense..."
+"762",37,"Female","United States","CA","No",1,1,"Rarely",3,0,0,NA,3,3,3,2,"Don't know",2,2,3,2,1,2,3,0,NA
+"763",37,"Male","Ireland",NA,"No",1,1,"Sometimes",4,0,1,1,1,1,1,2,"Very easy",1,1,3,3,2,2,3,0,NA
+"764",38,"Male","Ireland",NA,"No",1,1,"Sometimes",4,0,1,1,1,1,1,1,"Very difficult",3,3,1,1,1,1,1,0,NA
+"765",27,"Female","United States","CA","No",0,1,"Sometimes",4,0,1,2,2,3,2,2,"Somewhat easy",3,1,2,1,1,2,1,0,NA
+"766",39,"Male","Netherlands",NA,"Yes",0,0,NA,4,0,1,1,1,3,1,3,"Somewhat easy",1,1,2,3,2,2,3,0,NA
+"767",33,"Female","United States","AZ","Yes",1,1,"Sometimes",4,0,1,NA,3,3,3,3,"Somewhat easy",2,3,2,1,1,1,1,0,NA
+"768",27,"Male","United Kingdom",NA,"No",0,0,"Never",3,0,1,2,2,1,2,2,"Somewhat easy",1,1,2,1,3,3,2,0,NA
+"769",36,"F","United States","CA","No",0,1,"Never",4,1,1,NA,1,1,1,2,"Don't know",2,2,2,2,1,1,1,0,NA
+"770",28,"Male","United Kingdom",NA,"No",0,0,"Never",3,0,1,2,2,1,1,2,"Somewhat easy",1,1,2,3,2,3,2,0,NA
+"771",39,"male","United Kingdom",NA,"No",0,1,"Sometimes",5,0,0,2,1,1,1,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"772",33,"Male","United States","VA","Yes",1,1,"Sometimes",4,1,1,1,3,1,1,3,"Very easy",2,2,3,3,1,1,3,0,"My current work situation was constructed in part because of my mental health issues. One of the reasons I'm self employed is to give me the most flexibility for coping with my mental health issues.I have been removed from a client project in the past because of a mental health condition. This was while I was an employee for a large consulting company."
+"773",32,"Male","United Kingdom",NA,"No",0,0,NA,6,0,0,2,2,1,2,2,"Don't know",2,1,2,2,1,3,2,0,NA
+"774",28,"Male","United Kingdom",NA,"No",0,0,NA,6,0,0,2,2,1,2,2,"Don't know",1,1,2,2,3,3,1,0,NA
+"775",37,"Male","United Kingdom",NA,"No",1,1,"Rarely",4,0,1,1,1,1,1,3,"Somewhat easy",3,1,2,3,1,2,1,1,"Some of these questions are not really suitable for non US people."
+"776",39,"Male","Canada",NA,"No",0,1,"Sometimes",4,0,0,NA,3,3,3,3,"Very easy",3,1,2,3,1,2,1,1,NA
+"777",43,"msle","United States","VA","No",0,0,"Sometimes",4,1,1,2,1,1,2,2,"Don't know",2,1,1,1,1,2,1,0,NA
+"778",32,"Neuter","United Kingdom",NA,"No",0,1,"Sometimes",6,0,0,2,1,3,3,2,"Don't know",1,1,3,2,3,3,3,1,NA
+"779",27,"Female","United States","WA","No",0,0,NA,6,0,1,2,2,1,3,2,"Don't know",2,1,2,3,1,1,2,0,NA
+"780",31,"Female","United Kingdom",NA,"No",0,0,NA,4,0,1,2,1,1,1,2,"Don't know",1,1,3,3,2,2,2,0,NA
+"781",43,"Male","United Kingdom",NA,"No",0,1,"Never",3,0,1,2,1,1,2,2,"Don't know",1,1,3,3,3,3,2,0,NA
+"782",33,"Male","United States","WI","No",0,1,"Sometimes",4,1,1,1,3,1,1,3,"Somewhat difficult",1,1,3,3,3,3,2,0,NA
+"783",34,"male","United Kingdom",NA,"No",1,1,"Sometimes",6,0,1,2,2,2,2,3,"Very easy",1,1,2,3,1,2,3,0,NA
+"784",33,"M","United States","CA","Yes",0,0,NA,4,0,1,2,1,1,1,2,"Don't know",1,1,3,3,1,2,2,0,NA
+"785",25,"Male","United States","CA","No",0,0,NA,4,0,1,2,1,1,1,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"786",25,"Male","United States","NE","No",1,1,"Sometimes",6,0,0,NA,3,3,3,3,"Don't know",2,1,2,2,1,1,1,1,NA
+"787",32,"Male","United Kingdom",NA,"Yes",1,0,NA,4,0,1,1,3,1,1,3,"Somewhat easy",1,1,1,3,1,2,1,0,NA
+"788",25,"Male","United States","CO","No",1,1,"Sometimes",3,0,1,NA,3,2,2,3,"Don't know",2,1,2,2,1,2,2,0,NA
+"789",37,"Male","Netherlands",NA,"No",0,0,NA,4,1,0,2,1,2,2,2,"Somewhat easy",2,1,3,3,1,1,2,0,NA
+"790",39,"m","Switzerland",NA,"No",0,1,"Never",6,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,2,1,2,3,0,NA
+"791",29,"M","United Kingdom",NA,"No",0,0,"Rarely",4,0,1,2,2,1,1,2,"Somewhat easy",1,1,2,3,1,2,2,1,NA
+"792",33,"Male","United States","NY","No",0,1,"Sometimes",6,0,1,NA,3,2,2,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"793",37,"female","United States","TX","No",0,1,"Often",4,1,1,2,2,1,1,3,"Somewhat difficult",3,1,2,2,1,3,1,1,NA
+"794",35,"Female","United States","LA","No",0,1,"Sometimes",4,0,0,NA,1,1,1,3,"Very difficult",3,2,1,2,1,3,1,1,"I work for the state government. While things are slowly changing regarding covering mental health with state employees it's just not something that is acceptable in this kind of strict environment so I have to be careful about what I say and how I say it. I often take mental health days but have to call in with a physical illness because mental health problems are not acceptable excuses for using sick leave."
+"795",22,"Female","United States","WA","No",1,1,"Sometimes",6,0,1,2,2,2,2,2,"Very difficult",3,2,2,2,1,2,1,1,NA
+"796",38,"Male","United States","MI","No",0,0,"Never",3,0,1,NA,3,1,1,2,"Somewhat easy",2,1,2,3,1,2,1,1,NA
+"797",32,"Female","United States","CA","No",1,1,"Often",4,0,1,NA,1,1,2,2,"Don't know",3,1,2,3,1,1,2,0,NA
+"798",28,"Male","Brazil",NA,"No",0,0,NA,3,0,1,2,1,1,1,2,"Don't know",2,1,2,3,2,3,1,1,NA
+"799",27,"Male","Switzerland",NA,"No",1,0,NA,3,0,1,1,1,1,1,2,"Don't know",2,1,2,3,1,3,1,0,"Thank you for your work what you do is important!"
+"800",35,"female","United States","CA","No",0,1,"Sometimes",4,1,1,2,1,2,2,2,"Very easy",2,1,2,1,1,2,3,0,"It might be safe to talk about it where I am now but I don't know for sure and I err on the side of being over cautious. Struggle with depression and anxiety which sometimes affects my productivity but I try to make up / cover up for it instead of being open about it."
+"801",29,"Male","United States","MD","No",0,0,"Never",4,0,0,NA,3,3,1,3,"Very easy",3,2,3,3,1,2,2,0,NA
+"802",23,"Male","United States","CA","No",1,1,"Sometimes",4,0,1,1,3,1,1,2,"Very easy",1,1,2,3,2,2,3,0,NA
+"803",39,"M","United States","CT","No",0,0,NA,3,1,1,NA,1,1,1,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"804",30,"Female","United States","CA","No",0,0,NA,6,0,1,NA,3,3,3,3,"Very easy",1,1,2,1,1,1,3,0,NA
+"805",32,"M","United Kingdom",NA,"No",0,0,NA,3,0,1,2,2,1,2,2,"Somewhat easy",2,2,2,2,2,2,2,0,NA
+"806",28,"Female (trans)","United States","CA","No",0,1,"Sometimes",3,0,1,1,3,1,1,2,"Somewhat difficult",3,2,2,2,1,1,1,1,NA
+"807",40,"female","United States","WA","No",1,1,"Sometimes",4,0,0,NA,3,3,3,3,"Don't know",2,1,2,3,1,1,2,1,"I'm comfortable talking about mental health with my current supervisor & my immediate at my current job but this is a first for me!"
+"808",36,"f","United States","CA","No",1,0,NA,4,0,1,2,1,1,2,2,"Don't know",1,1,1,2,1,2,3,0,NA
+"809",27,"Male","United States","IN","No",0,0,NA,3,1,1,2,2,1,2,2,"Very easy",1,1,3,3,2,2,3,0,NA
+"810",41,"Male","United States","TX","No",1,0,"Sometimes",6,0,1,NA,3,1,3,2,"Don't know",2,1,2,2,1,2,1,0,NA
+"811",29,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,2,1,1,1,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"812",29,"m","United Kingdom",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat difficult",1,1,2,2,1,2,1,0,NA
+"813",35,"Male","United States","MO","No",0,1,"Often",4,0,0,1,1,1,1,3,"Very difficult",3,1,2,2,1,3,1,1,NA
+"814",28,"Male","United States","NV","No",0,1,"Never",4,1,1,1,3,1,1,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"815",36,"F","United Kingdom",NA,"Yes",0,0,"Sometimes",4,1,1,2,2,2,2,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"816",39,"Female","United States","WA","No",0,0,"Sometimes",3,0,1,2,2,1,2,2,"Don't know",3,1,1,1,1,3,2,0,NA
+"817",39,"Male","United States","FL","No",1,1,"Sometimes",5,0,1,NA,3,3,3,3,"Very difficult",2,1,2,3,1,1,2,0,NA
+"818",44,"male","United States",NA,"Yes",1,1,"Sometimes",4,1,1,1,3,1,1,1,"Very easy",3,3,2,1,1,1,3,0,NA
+"819",26,"queer","Germany",NA,"Yes",0,1,"Sometimes",4,1,1,1,2,3,3,3,"Very easy",1,1,2,2,2,2,3,0,NA
+"820",35,"Male","Denmark",NA,"Yes",1,1,"Often",4,0,1,1,3,3,1,2,"Somewhat easy",1,1,2,2,2,3,3,0,NA
+"821",40,"Female","United States","WA","No",1,1,"Sometimes",4,0,0,NA,2,3,2,2,"Don't know",3,2,2,1,1,1,2,0,NA
+"822",35,"Male","Denmark",NA,"Yes",1,1,"Often",4,0,1,1,3,3,1,2,"Somewhat easy",1,1,2,2,2,3,3,0,NA
+"823",38,"M","United States","IL","No",0,0,"Never",6,1,1,1,3,1,1,1,"Very difficult",3,3,1,1,1,1,2,0,NA
+"824",34,"Male","United States","FL","No",0,0,NA,6,1,1,2,2,2,2,2,"Don't know",1,1,2,3,1,2,3,0,NA
+"825",43,"M","United States","MA","No",0,0,NA,6,0,1,NA,1,3,3,2,"Don't know",1,1,2,3,1,2,2,0,NA
+"826",48,"Female (cis)","United States","CA","No",1,0,"Often",3,0,1,2,1,1,1,1,"Very difficult",3,3,1,2,1,1,1,1,"None of us who are already in marginal groups in tech--the non-young the non-male the non-white--will risk our careers to admit another source of stigma: poor health."
+"827",20,"Male","United States","WA","No",0,0,"Never",3,0,1,2,2,2,2,2,"Don't know",1,1,2,3,2,2,3,0,NA
+"828",40,"M","United States","MI","Yes",0,0,"Sometimes",4,1,1,2,2,1,1,2,"Somewhat easy",3,2,2,1,1,1,2,0,NA
+"829",29,"female","United Kingdom",NA,"No",0,1,"Rarely",4,0,1,2,1,1,1,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"830",35,"Male","United States","MI","No",1,1,"Sometimes",4,0,0,1,3,1,1,3,"Don't know",1,1,2,3,1,1,3,0,NA
+"831",29,"Male","United States","WI","No",1,0,"Sometimes",6,1,0,NA,3,1,3,3,"Very easy",2,1,2,1,1,1,3,0,NA
+"832",40,"M","United States","CA","No",0,0,"Never",4,0,1,NA,2,1,2,2,"Don't know",2,1,2,2,1,2,2,0,NA
+"833",29,"Male","Sweden",NA,"No",0,1,"Rarely",4,0,1,1,3,1,1,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"834",29,"F","United States","CA","No",1,1,"Rarely",4,0,1,NA,2,2,1,2,"Don't know",1,1,3,3,1,2,2,0,NA
+"835",34,"male","United States","TX","No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Don't know",3,1,1,1,1,3,2,0,NA
+"836",44,"Male","United Kingdom",NA,"No",1,1,"Sometimes",5,0,0,2,1,1,1,2,"Somewhat difficult",2,1,2,3,1,2,1,1,NA
+"837",24,"female","United States","NY","No",1,1,"Often",4,0,1,NA,3,1,1,3,"Very easy",1,1,2,3,1,3,1,1,NA
+"838",47,"F","United States","PA","No",0,0,NA,4,1,1,2,1,1,2,2,"Very difficult",3,3,1,1,1,1,1,0,NA
+"839",43,"m","United Kingdom",NA,"No",1,0,NA,6,0,0,2,1,1,1,2,"Very easy",2,1,2,3,1,2,2,0,NA
+"840",36,"M","United States","PA","No",0,0,"Rarely",6,0,1,NA,3,3,3,3,"Somewhat difficult",1,1,2,3,1,1,1,0,NA
+"841",43,"male","United States","GA","No",0,1,"Sometimes",6,0,0,2,1,1,2,2,"Very difficult",2,1,2,3,1,1,2,0,NA
+"842",36,"male","United Kingdom",NA,"Yes",0,0,"Sometimes",4,1,1,1,1,1,1,2,"Somewhat difficult",1,1,3,3,1,2,2,1,NA
+"843",31,"Female","United States","NY","No",1,1,"Sometimes",4,0,1,NA,3,1,1,2,"Somewhat difficult",1,1,3,3,2,2,2,0,"I have been incredibly public about my own struggle in my own conversations and in social media insofar as how I can use my depression to raise awareness or help others. Because of that my employer - or any future employer - kind of knows by default. It's not a secret. That said the downside of that openness is that I have no faith that I wouldn't be discriminated against at a future job simply because the information is public. Likewise I worry I'm seen as less-than by my employer in some circumstances. Regerdless I don't regret being public and raising awareness. My point is that even those of us who do publicly discuss the issue fear systemic retribution."
+"844",35,"Male","United States","CA","No",0,0,"Sometimes",6,0,1,2,2,3,2,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"845",33,"male","United States","TN","No",1,0,NA,3,0,0,NA,1,1,1,3,"Somewhat difficult",1,1,2,2,1,1,2,0,NA
+"846",37,"Male","Italy",NA,"No",0,0,"Sometimes",3,0,1,2,2,2,2,2,"Don't know",3,3,2,1,1,1,1,0,NA
+"847",34,"M","United States","TN","No",0,1,"Sometimes",4,0,1,2,1,3,2,3,"Don't know",2,1,2,1,1,1,2,0,"At a previous employer I witness a bad thing happen to a coworker with mental health issues get swept under the rug... :("
+"848",36,"Male","Netherlands",NA,"Yes",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Very easy",1,1,3,1,1,1,3,0,NA
+"849",40,"m","United States","TN","Yes",1,1,"Sometimes",4,1,1,1,3,1,1,3,"Very easy",1,1,3,3,1,1,3,0,NA
+"850",40,"M","United States","IL","No",0,0,"Rarely",6,0,1,NA,3,3,3,3,"Don't know",1,1,2,2,1,2,2,0,"While not personally affected I do have immediate family with mental health illness and my employer has been very supportive. Thanks for doing this survey."
+"851",42,"Male","United States","WI","No",0,1,"Sometimes",4,1,1,1,3,1,1,2,"Somewhat easy",2,1,1,1,1,2,2,0,NA
+"852",23,"M","United States","KY","No",1,0,NA,3,1,1,NA,3,1,2,3,"Don't know",2,1,1,2,1,1,2,0,NA
+"853",21,"Male","United Kingdom",NA,"No",1,0,"Never",4,0,0,1,1,1,1,3,"Somewhat easy",2,1,2,2,1,2,2,0,NA
+"854",26,"Male","Canada",NA,"No",0,0,"Sometimes",4,1,1,1,1,1,1,2,"Very difficult",3,2,2,2,1,2,2,0,NA
+"855",31,"Male","United States",NA,"No",1,0,NA,4,0,1,2,2,1,1,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"856",25,"M","United States","CA","No",1,0,NA,6,0,1,NA,3,3,3,3,"Very easy",1,1,2,3,2,3,3,0,NA
+"857",51,"Male","United States","MN","No",0,0,"Never",6,1,1,NA,3,3,3,3,"Very easy",1,1,3,3,1,1,3,0,NA
+"858",24,"Male","United States","TN","No",0,0,NA,4,0,1,2,2,2,1,3,"Somewhat easy",1,1,2,3,1,2,2,0,NA
+"859",33,"Male","United States","MN","No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",2,1,2,3,1,1,1,0,"The company I work for was started by engineers and so anything other then the engineering department has always lacked a bit. Now that we've grown things are better but I feel that overall our total benefits package (including healthcare) isn't well communicated. This reflects negatively on the mental health questions above but would also reflect negatively on any other sort of survey about the benefits. That is I don't think the company is purposefully doing less for mental health. They just aren't doing enough across the board and that includes mental health."
+"860",32,"male","United Kingdom",NA,"No",1,1,"Rarely",4,0,0,1,1,1,1,1,"Don't know",3,2,2,1,1,1,1,0,NA
+"861",32,"male","United Kingdom",NA,"No",1,1,"Rarely",4,0,0,1,1,1,1,1,"Don't know",3,2,2,1,1,1,1,0,NA
+"862",26,"Male","United Kingdom",NA,"Yes",0,1,"Rarely",4,1,1,1,2,2,2,2,"Somewhat difficult",1,1,3,3,2,2,3,0,NA
+"863",23,"M","United States","IL","No",0,0,"Never",4,0,0,2,1,2,2,2,"Don't know",2,1,2,2,2,2,2,0,NA
+"864",33,"Male","United States","TN","No",1,1,"Often",4,1,1,1,3,1,1,2,"Very difficult",3,1,2,3,1,2,1,0,NA
+"865",46,"Male","United States","IL","No",0,1,"Rarely",6,0,0,NA,3,3,3,3,"Somewhat easy",3,2,1,1,1,2,3,0,NA
+"866",34,"male","United Kingdom",NA,"No",0,0,NA,4,1,1,1,1,1,1,1,"Somewhat difficult",3,2,1,1,1,3,1,1,NA
+"867",35,"M","United States","DC","No",1,1,"Sometimes",4,0,1,NA,3,1,1,2,"Somewhat easy",2,2,2,2,1,1,2,0,NA
+"868",39,"M","United States","KS","No",0,0,NA,4,1,1,1,3,1,1,2,"Very difficult",2,2,2,3,2,2,1,0,"Thank you for all you are doing to study this topic and raise awareness in our communities."
+"869",32,"male","Germany",NA,"Yes",0,0,"Sometimes",4,1,1,1,3,1,1,3,"Somewhat easy",1,1,2,2,2,2,1,0,NA
+"870",43,"Male","Mexico",NA,"Yes",0,0,NA,6,1,1,2,1,1,2,2,"Don't know",1,1,2,3,1,2,2,0,NA
+"871",56,"m","United States","CA","No",0,1,"Rarely",6,1,1,NA,3,2,3,3,"Somewhat easy",1,1,3,3,3,3,3,0,NA
+"872",32,"Female","United Kingdom",NA,"No",1,1,"Sometimes",4,0,1,2,1,1,1,2,"Somewhat difficult",2,1,2,2,1,3,2,1,NA
+"873",41,"male","United Kingdom",NA,"No",0,0,NA,3,0,0,NA,3,3,3,3,"Don't know",2,2,2,2,1,3,1,1,NA
+"874",39,"Male","United States","TN","No",0,0,NA,6,1,1,2,2,2,2,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"875",37,"Male","United States","OK","No",1,0,NA,5,0,0,NA,3,1,1,3,"Very easy",2,1,1,1,1,1,1,0,NA
+"876",30,"m","United States","CA","Yes",1,1,"Sometimes",4,1,1,2,2,1,2,2,"Very difficult",3,1,1,1,1,2,2,0,"The main reason for the openness answers are because of an experience with my last employer. I felt I could trust my direct supervisor so I divulged information. It ended up spreading to more supervisors and eventually my coworkers. Supers highly suggested treatment but rushed things that shouldn't have been rushed and I ended up being incorrectly treated in a psych ward and mentally scarred from the issue. I lost most of my desire to program due to the experience not to mention thousands of dollars I lost - lost work time vacation time they used for treatment time doctors expenses etc. I have major depressive disorder high anxiety and mild agoraphobia. After seeing what treatment has to offer I will likely not seek it again and continue as is. (Long story short.)"
+"877",31,"Male","United States","TN","No",0,0,NA,3,0,1,NA,1,3,1,3,"Somewhat easy",2,1,2,2,1,2,1,0,NA
+"878",29,"M","United States","TX","No",0,0,NA,6,0,0,2,2,1,2,2,"Don't know",2,1,1,2,1,2,2,0,NA
+"879",23,"Female","United Kingdom",NA,"No",1,0,"Never",6,0,0,1,1,1,3,2,"Somewhat easy",3,2,1,1,1,2,2,0,NA
+"880",31,"male","United States","CO","No",0,1,"Never",3,0,1,NA,3,1,2,3,"Very easy",2,1,1,1,1,1,2,0,NA
+"881",29,"Male","United States","TN","No",1,1,"Sometimes",3,0,1,2,2,2,2,2,"Don't know",2,1,2,2,1,1,3,0,NA
+"882",30,"Mail","United States","GA","No",0,0,"Never",3,1,1,NA,3,2,2,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"883",37,"Male","United States","TN","No",0,0,"Never",5,1,1,NA,1,3,2,2,"Don't know",2,1,2,3,1,1,3,1,"(yes but the situation was unusual and involved a change in leadership at a very high level in the organization as well as an extended leave of absence)"
+"884",36,"male","United States","VA","Yes",0,0,"Never",4,0,1,NA,1,1,2,2,"Somewhat difficult",1,1,2,3,3,3,3,0,NA
+"885",35,"Male","United States","TN","No",1,1,"Sometimes",3,1,1,NA,3,1,2,2,"Don't know",2,2,2,1,1,2,1,0,NA
+"886",41,"M","United States","DC","No",1,0,"Never",5,1,0,2,1,1,1,2,"Don't know",2,1,1,1,1,1,2,0,NA
+"887",31,"Male","United Kingdom",NA,"No",0,1,"Rarely",4,0,1,2,2,1,1,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"888",38,"m","United Kingdom",NA,"No",1,0,NA,5,0,0,NA,3,3,3,2,"Somewhat easy",1,1,2,3,1,2,1,0,NA
+"889",26,"Male","India",NA,"Yes",0,0,NA,4,0,1,1,1,1,1,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"890",39,"Male","United States","TN","No",1,0,"Sometimes",6,0,1,NA,1,3,3,2,"Don't know",2,2,2,3,2,2,2,1,"I would add that while there were negative consequences for coworkers with mental health they were given a HUGE amount of leeway.  I think the team at large tried their best to be kind but that's how the person suffered.  The company actually gave this person a lot of help.  Which was cool.  But the team still discriminated."
+"891",42,"male","United States","VA","Yes",1,0,"Sometimes",4,1,0,NA,2,2,3,2,"Don't know",2,2,2,1,1,2,2,0,NA
+"892",32,"Male","United States","TN","Yes",1,1,"Rarely",4,1,1,1,3,1,1,2,"Very difficult",3,1,2,1,1,2,2,0,NA
+"893",29,"m","United States","TN","No",1,0,NA,4,0,1,2,2,2,2,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"894",30,"Male","United States","TN","No",1,0,"Never",4,0,1,NA,1,2,3,2,"Very difficult",3,3,2,1,2,2,1,0,NA
+"895",40,"M","United States","TN","No",1,1,"Often",5,1,1,2,2,1,2,2,"Don't know",2,2,2,2,1,3,2,0,"Bipolar spectrum is tricky."
+"896",51,"m","United States","TN","No",0,0,NA,4,0,0,2,2,1,2,2,"Somewhat difficult",1,1,2,3,1,1,2,0,NA
+"897",33,"Male","United States","IN","No",0,0,"Never",6,0,1,NA,3,3,3,3,"Somewhat easy",1,1,2,3,1,1,3,0,NA
+"898",34,"male","Germany",NA,"Yes",0,1,"Sometimes",4,1,1,1,2,1,1,3,"Somewhat difficult",2,2,2,2,1,1,2,0,"To be self employed helps but also brings you in touch with lots of new people that you might have to explain yourself to."
+"899",50,"Male","United States","VA","Yes",0,0,"Never",4,1,1,1,3,1,1,3,"Somewhat easy",1,1,2,3,1,2,3,0,"A lot of these answers aren't really applicable since I'm self employed as a sole proprietor."
+"900",24,"Male","United States","TX","No",0,0,"Sometimes",3,1,1,2,1,1,2,2,"Somewhat easy",1,1,2,3,1,2,1,0,NA
+"901",25,"Male","United States","TX","No",1,1,"Rarely",3,0,0,1,1,1,1,2,"Don't know",3,2,1,1,1,2,1,0,NA
+"902",43,"Male","United Kingdom",NA,"No",1,1,"Rarely",3,0,1,1,1,1,1,2,"Very difficult",3,3,2,1,1,1,1,1,NA
+"903",25,"f","United States","CA","Yes",0,1,"Often",4,0,1,NA,3,3,3,3,"Very easy",2,2,2,2,1,1,3,1,NA
+"904",24,"Male","United Kingdom",NA,"Yes",0,0,NA,4,1,1,1,3,1,1,3,"Very easy",1,1,1,1,1,2,3,0,NA
+"905",51,"m","United States","CO","Yes",0,0,"Never",4,0,1,1,3,1,1,3,"Somewhat difficult",1,1,2,2,2,2,2,0,NA
+"906",49,"Male","United States","OR","No",1,1,"Sometimes",6,0,1,NA,3,1,3,3,"Somewhat difficult",3,2,1,1,1,2,1,1,NA
+"907",30,"Male","United States","OK","No",0,0,NA,6,1,1,NA,1,3,3,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"908",25,"female","United States","OH","No",1,1,"Sometimes",6,0,1,NA,3,3,1,2,"Don't know",3,3,1,1,1,1,1,0,"While I have not seen any direct retaliation against people with known mental illness many people do freely use insults commonly associated with mental illness (r****d for example) and criticize people behind their back for taking extra leave for doctor appointments (Oh I bet they are just hung over or other comments about how lazy they are.)"
+"909",36,"Male","United States","TN","No",0,1,"Rarely",5,1,1,NA,3,2,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"910",48,"Male","United States","VA","No",0,1,"Never",6,0,1,NA,3,3,3,3,"Don't know",2,2,3,3,1,2,3,1,NA
+"911",48,"male","Australia",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat easy",3,1,2,1,1,2,1,1,NA
+"912",53,"Male","United States","OR","No",0,1,"Rarely",4,1,1,NA,3,1,3,2,"Don't know",2,2,2,1,1,1,2,0,NA
+"913",24,"Female","United Kingdom",NA,"No",1,1,"Often",4,1,1,1,1,1,1,2,"Very easy",1,1,3,3,1,1,2,0,NA
+"914",33,"Male","United States","OR","No",1,1,"Sometimes",3,0,1,2,3,1,3,2,"Somewhat easy",1,1,3,3,1,1,2,0,NA
+"915",25,"Female","Canada",NA,"No",1,1,"Sometimes",4,0,1,NA,3,1,1,3,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"916",30,"Male","United Kingdom",NA,"No",0,1,"Sometimes",3,0,1,1,1,1,1,2,"Somewhat difficult",3,2,2,1,1,2,1,0,NA
+"917",30,"Male","United States","PA","Yes",0,0,"Never",4,1,1,1,3,1,1,3,"Somewhat easy",2,2,2,2,2,2,2,0,NA
+"918",34,"male","United Kingdom",NA,"Yes",0,1,"Sometimes",4,1,1,1,1,1,1,3,"Somewhat difficult",1,1,2,2,1,1,3,0,NA
+"919",31,"Male","United States","SC","No",0,0,NA,6,1,1,NA,3,3,3,3,"Very easy",1,1,2,3,2,3,3,0,NA
+"920",22,"F","United States","CA","No",1,1,"Often",6,0,1,2,2,1,2,2,"Don't know",3,3,1,1,1,1,2,0,NA
+"921",28,"Male","United States","TN","No",1,0,"Sometimes",4,0,1,2,2,1,2,2,"Somewhat easy",1,1,2,3,1,3,2,0,NA
+"922",35,"Male","United States","UT","No",1,1,"Rarely",3,0,0,NA,3,1,3,3,"Somewhat difficult",2,1,2,2,1,1,1,0,NA
+"923",28,"Male","United States","CA","No",1,1,"Sometimes",3,0,0,NA,1,1,1,2,"Don't know",2,2,2,2,1,1,3,0,NA
+"924",42,"male","New Zealand",NA,"No",0,1,"Sometimes",6,0,0,1,3,2,1,3,"Somewhat difficult",3,2,2,2,1,3,1,1,NA
+"925",33,"Male","United States","MO","No",1,0,NA,5,0,1,NA,1,2,2,2,"Very easy",1,1,3,3,3,3,3,0,NA
+"926",29,"male","United States","CA","No",0,0,"Sometimes",6,0,1,NA,1,3,1,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"927",43,"M","United States",NA,"No",1,0,"Sometimes",5,0,0,NA,2,1,2,2,"Don't know",2,1,1,2,1,2,1,0,"My employer gives access to basic counseling and referrals but I don't know (and it's not obvious) what might be covered in the way of expenses for therapy medication etc."
+"928",29,"Male","United States","NY","No",0,0,NA,3,0,1,NA,3,3,3,2,"Somewhat easy",1,1,2,2,2,2,3,0,NA
+"929",25,"Male","United States","TX","No",0,0,NA,4,1,1,NA,1,1,1,3,"Don't know",1,1,3,3,2,2,2,0,NA
+"930",31,"Male","United States","MO","No",1,0,"Never",4,0,1,2,1,2,2,2,"Very easy",1,1,2,3,1,1,2,0,NA
+"931",35,"Female","United States","GA","No",1,1,"Sometimes",4,0,0,NA,2,3,3,3,"Somewhat difficult",2,2,2,3,1,2,3,0,"* Small family business - YMMV."
+"932",34,"male","United States","TX","No",0,0,"Often",4,0,1,2,1,1,3,2,"Very easy",1,1,2,3,1,2,3,0,"* Small family business - YMMV."
+"933",43,"Cis Male","United States","WA","No",0,1,"Sometimes",4,1,1,NA,3,1,3,3,"Very difficult",3,2,2,1,1,2,1,1,"* Small family business - YMMV."
+"934",38,"Male","United States","WA","No",1,1,"Sometimes",4,0,1,1,2,1,1,2,"Very difficult",3,3,1,2,1,2,1,0,"* Small family business - YMMV."
+"935",26,"Male","United States","WA","No",1,1,"Sometimes",6,0,1,2,2,1,3,3,"Very difficult",2,1,2,2,3,3,1,1,"* Small family business - YMMV."
+"936",38,"Male","United Kingdom",NA,"Yes",1,1,"Rarely",4,1,0,1,1,1,1,3,"Very difficult",2,1,1,1,1,1,1,0,NA
+"937",42,"Male","United States","TX","No",0,1,"Often",4,0,1,2,1,1,2,2,"Don't know",3,2,1,1,1,2,2,0,NA
+"938",33,"Male","Netherlands",NA,"No",1,1,NA,4,0,1,2,1,1,2,2,"Don't know",1,1,3,3,2,2,3,1,NA
+"939",32,"Male","United States","WA","No",0,1,"Rarely",6,0,1,NA,3,3,3,3,"Somewhat easy",2,1,2,2,1,1,2,0,NA
+"940",44,"male","United States","WA","No",1,1,"Sometimes",4,1,1,NA,3,3,3,3,"Somewhat difficult",2,2,2,3,1,2,1,0,NA
+"941",28,"Male","United States","WA","No",1,1,"Rarely",6,0,1,NA,3,2,2,2,"Don't know",2,1,2,1,1,1,1,0,NA
+"942",40,"Male","United States","WA","No",1,1,"Sometimes",6,1,1,NA,3,3,3,3,"Very difficult",3,1,2,2,1,2,2,1,NA
+"943",31,"F","United States","AZ","No",1,1,"Sometimes",5,0,1,NA,3,1,2,3,"Somewhat easy",2,1,2,3,1,1,3,0,NA
+"944",32,"male","United States","WA","No",1,0,"Sometimes",4,0,1,NA,3,3,3,2,"Don't know",3,1,2,1,1,1,2,0,NA
+"945",28,"Male","United States","WA","No",1,1,"Sometimes",6,0,1,2,1,2,2,2,"Somewhat easy",2,1,2,1,1,2,1,0,NA
+"946",39,"Male","United States","AZ","No",1,1,"Often",3,0,1,NA,3,1,1,3,"Don't know",3,1,2,1,1,1,1,0,NA
+"947",45,"Male","United States","NY","No",0,0,NA,6,0,0,NA,3,3,3,2,"Don't know",1,1,2,2,1,1,3,0,NA
+"948",43,"Male","United States","WA","No",0,1,"Rarely",6,0,1,NA,3,3,3,2,"Somewhat easy",1,1,3,3,2,3,3,0,"I have an exceptional employer. I haven't run into problems with any employer I've had but consider myself lucky."
+"949",35,"Male","United States","CA","No",0,1,"Sometimes",6,0,1,NA,3,2,3,2,"Very difficult",2,2,2,2,1,1,2,0,NA
+"950",40,"Male","United States","WA","No",1,1,"Sometimes",4,0,1,NA,3,2,2,3,"Very easy",2,1,2,2,1,1,2,0,NA
+"951",34,"Male","Netherlands",NA,"No",0,1,"Rarely",3,0,1,1,3,1,1,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"952",24,"Male","United Kingdom",NA,"No",1,1,"Often",3,0,0,2,3,1,1,1,"Somewhat easy",3,2,2,3,1,2,1,1,NA
+"953",61,"male","South Africa",NA,"Yes",0,1,"Sometimes",4,1,1,1,1,1,1,2,"Very difficult",3,2,2,3,1,2,1,1,NA
+"954",36,"Female","United States","WA","No",1,1,"Rarely",4,0,1,2,1,1,2,2,"Don't know",3,2,2,1,1,1,2,0,NA
+"955",38,"Male","United States","TN","No",0,0,NA,4,0,1,1,1,1,1,3,"Don't know",2,1,2,3,2,2,2,0,"Some of these should not be required."
+"956",33,"male","Germany",NA,"No",1,1,"Often",3,0,1,2,2,3,1,3,"Somewhat easy",1,1,2,3,3,3,3,0,NA
+"957",30,"male","United States","WA","No",1,0,"Never",6,0,0,2,1,1,2,2,"Don't know",3,2,1,1,1,1,1,0,NA
+"958",34,"male","Netherlands",NA,"Yes",1,1,"Rarely",4,1,1,NA,3,3,3,3,"Very easy",1,1,3,2,1,2,3,0,"Though I'm in the Netherlands and chose that country from the list quite some questions are strongly geared towards the US. Over here people don't need benefits from their employer because we pay enough taxes for the government to pay for treatment of any physical or mental condition. We don't need employer approval for medical leave; that's something a qualified medical professional decides (and while on leave we still get paid our salaries something the employer can get insurance for). I answered yes to questions about these things meaning it's covered not it's covered by my employer."
+"959",26,"Male","United States","CA","No",0,1,"Rarely",6,0,1,NA,2,2,2,2,"Don't know",1,1,2,2,1,2,1,0,NA
+"960",33,"M","United Kingdom",NA,"No",0,0,NA,6,0,1,2,2,2,2,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"961",32,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,2,1,1,1,2,"Very easy",1,1,1,3,1,2,1,0,NA
+"962",25,"male","Germany",NA,"Yes",0,0,"Sometimes",4,1,1,1,3,1,1,3,"Somewhat easy",1,1,2,3,3,3,3,0,NA
+"963",35,"male","Germany",NA,"Yes",0,1,"Sometimes",3,1,0,2,1,1,1,2,"Somewhat difficult",3,2,3,1,1,2,2,0,NA
+"964",24,"M","United Kingdom",NA,"Yes",1,0,"Often",4,1,1,2,2,1,1,2,"Don't know",2,1,2,2,1,2,2,0,NA
+"965",55,"male","United Kingdom",NA,"No",0,1,"Often",6,0,0,NA,3,3,3,2,"Somewhat easy",3,2,1,2,1,2,1,1,NA
+"966",33,"Male","United Kingdom",NA,"Yes",1,1,"Sometimes",4,1,1,1,3,1,1,1,"Very difficult",3,2,2,2,1,2,1,1,NA
+"967",26,"Female","United Kingdom",NA,"Yes",1,1,"Sometimes",4,1,1,1,1,1,1,2,"Very easy",2,1,2,3,1,2,3,0,"I am a Trans woman and suffer from depression relating to that. I'm a contractor so I've answered the questions as relating to my current contract."
+"968",25,"Male","United Kingdom",NA,"No",0,0,"Never",4,1,1,2,2,2,2,2,"Very easy",1,1,3,3,1,1,2,0,NA
+"969",45,"Male","United Kingdom",NA,"No",1,0,"Rarely",4,0,0,2,1,1,1,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"970",33,"female","United Kingdom",NA,"Yes",0,1,"Sometimes",4,1,1,1,3,3,3,3,"Very easy",1,1,2,3,1,1,2,0,NA
+"971",43,"Male","United States","MI","No",0,0,"Sometimes",6,1,1,1,2,1,1,2,"Very difficult",3,2,1,1,1,2,1,1,NA
+"972",30,"Male","United Kingdom",NA,"Yes",0,1,"Sometimes",4,0,1,1,3,1,1,1,"Very difficult",3,3,1,1,1,1,3,1,NA
+"973",40,"Male","United States","IN","No",1,1,"Rarely",4,0,1,2,2,1,2,2,"Don't know",1,1,3,3,1,2,2,0,NA
+"974",49,"Male","United States","GA","No",1,0,"Never",6,0,1,NA,3,3,3,3,"Don't know",1,1,3,3,1,1,3,0,"Thank you for shining a light on this topic."
+"975",29,"Male","Germany",NA,"No",0,0,NA,4,0,1,2,2,1,1,2,"Somewhat easy",1,1,2,3,2,3,2,0,NA
+"976",26,"male","Germany",NA,"No",0,0,NA,5,0,1,2,1,2,2,2,"Don't know",1,1,2,2,2,2,2,0,NA
+"977",38,"cis male","United States","WA","No",0,0,"Never",6,0,1,NA,3,3,3,3,"Somewhat easy",2,2,2,2,1,2,1,1,NA
+"978",27,"Male","France",NA,"No",1,0,NA,5,0,0,NA,3,2,1,3,"Somewhat easy",2,2,1,2,1,2,2,1,NA
+"979",26,"male","Belgium",NA,"No",0,0,"Never",4,0,1,NA,1,1,1,1,"Somewhat easy",2,1,1,1,1,1,2,0,NA
+"980",28,"Male","United Kingdom",NA,"No",1,1,"Often",3,0,1,1,1,1,1,2,"Somewhat easy",2,2,3,3,1,1,1,0,NA
+"981",40,"Male","United States","ME","No",1,1,"Sometimes",4,1,1,1,1,1,1,2,"Don't know",2,2,2,3,1,2,1,0,NA
+"982",37,"Female","Canada",NA,"Yes",1,1,"Rarely",4,1,1,1,3,1,1,3,"Somewhat easy",3,2,2,2,2,2,2,1,NA
+"983",34,"female","United Kingdom",NA,"No",1,1,"Often",3,1,0,NA,3,1,3,1,"Somewhat easy",3,3,2,1,1,1,2,0,NA
+"984",28,"male","United States","NY","No",1,1,"Often",4,0,1,2,2,1,2,2,"Don't know",2,1,2,2,1,3,2,0,NA
+"985",27,"Male","Canada",NA,"No",0,0,"Never",3,0,1,NA,2,3,1,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"986",29,"Male","United Kingdom",NA,"No",0,1,"Sometimes",4,1,1,1,1,1,1,2,"Very easy",1,1,3,3,1,3,3,0,NA
+"987",39,"Female","United Kingdom",NA,"No",1,0,"Rarely",5,1,1,2,2,1,1,2,"Somewhat difficult",3,3,1,1,1,1,1,1,NA
+"988",28,"male","United Kingdom",NA,"No",0,0,"Often",4,0,1,1,1,1,1,1,"Somewhat difficult",3,1,1,1,1,3,3,0,NA
+"989",23,"Male","United States","PA","No",1,0,"Sometimes",3,0,1,NA,2,3,3,3,"Somewhat easy",1,1,1,1,1,2,2,0,NA
+"990",8,"A little about you","Bahamas, The","IL","Yes",1,1,"Often",4,1,1,NA,3,3,3,3,"Very easy",3,3,3,3,3,3,3,1,NA
+"991",38,"Male","United Kingdom",NA,"No",0,0,NA,4,1,1,1,1,1,1,3,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"992",19,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,NA,1,1,3,2,"Very easy",1,1,3,3,1,1,3,0,NA
+"993",30,"Female","United States","IL","No",1,1,"Sometimes",3,0,1,NA,3,3,2,3,"Very easy",1,1,2,1,1,1,3,0,NA
+"994",28,"male","United Kingdom",NA,"Yes",0,0,NA,4,1,1,1,3,1,1,3,"Very easy",2,2,1,1,1,1,3,0,NA
+"995",20,"Male","India",NA,"No",0,1,"Sometimes",3,0,1,2,1,1,1,2,"Don't know",3,1,1,1,1,2,3,0,NA
+"996",35,"Male","United Kingdom",NA,"Yes",0,0,"Sometimes",4,0,1,2,2,1,2,2,"Somewhat easy",1,1,2,3,1,1,2,0,NA
+"997",39,"male","United States","MN","No",0,1,"Rarely",4,1,1,NA,3,1,1,3,"Very easy",2,1,2,3,1,1,2,0,NA
+"998",31,"Female","United States","TX","No",1,0,"Never",6,0,0,NA,2,1,2,2,"Don't know",3,3,1,1,1,1,2,0,NA
+"999",32,"Male","United Kingdom",NA,"No",0,0,"Rarely",5,0,1,1,1,1,1,2,"Don't know",3,1,1,1,1,1,2,0,NA
+"1000",27,"Male","Sweden",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",1,1,1,1,1,1,2,0,NA
+"1001",25,"Male","United States","PA","No",1,1,"Often",4,1,1,NA,3,1,2,3,"Somewhat easy",1,1,3,3,2,2,2,0,NA
+"1002",42,"male","United States","IN","No",1,1,"Sometimes",4,1,1,2,1,1,2,2,"Don't know",2,1,2,3,1,2,2,0,NA
+"1003",34,"male","United States","PA","No",1,1,"Often",4,0,1,NA,3,1,1,3,"Very easy",1,1,3,3,2,2,2,0,NA
+"1004",26,"female","United States","OH","No",0,1,"Sometimes",3,1,1,2,1,1,2,2,"Don't know",2,1,2,1,2,2,2,1,NA
+"1005",35,"Male","United Kingdom",NA,"No",1,1,"Sometimes",4,0,1,1,3,1,1,3,"Very easy",3,3,2,2,1,2,3,1,NA
+"1006",34,"Male","United Kingdom",NA,"No",0,0,"Never",5,0,1,2,1,1,2,2,"Very easy",2,1,3,3,1,1,3,0,NA
+"1007",38,"m","United States","PA","No",1,1,"Sometimes",4,1,0,NA,3,1,3,3,"Very easy",1,1,3,3,3,3,2,0,"While mental health is a part of our insurance program the UCR is 50% of 140% of medicare which means a solo mental health practitioner who will charge in my area $150-$180 a session will only result in a $45-$60 reimbursement and thus a very high out of pocket expense. This usage of a different schedule for UCR and often the lower rate is very hard to determine before purchasing insurance even in the new health insurance exchanges."
+"1008",34,"M","United States","SD","No",0,0,"Sometimes",4,0,1,2,1,1,1,2,"Don't know",3,1,2,1,1,2,2,0,NA
+"1009",39,"M","United States","IN","No",1,1,"Sometimes",4,1,1,1,3,1,1,3,"Somewhat easy",1,1,2,3,2,3,3,0,NA
+"1010",44,"F","United States","CA","No",0,0,NA,4,0,1,2,2,1,1,2,"Don't know",3,1,1,1,1,1,2,0,NA
+"1011",40,"male","United States","TN","No",0,0,NA,6,0,0,NA,3,3,3,3,"Don't know",2,1,1,3,1,1,2,0,NA
+"1012",33,"female","United States","TX","Yes",0,0,"Never",4,1,1,1,3,2,2,3,"Somewhat easy",2,1,1,2,1,1,3,0,NA
+"1013",24,"Female","United States","TN","No",1,0,"Sometimes",6,0,0,NA,3,1,2,2,"Somewhat difficult",3,2,2,2,1,1,1,1,NA
+"1014",38,"Female","United States","OR","No",1,0,"Sometimes",3,1,1,2,2,2,2,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"1015",31,"male","United States","SD","No",0,0,"Sometimes",6,0,1,NA,2,3,3,3,"Don't know",3,2,2,2,1,2,3,0,NA
+"1016",23,"Male","Israel",NA,"No",0,0,NA,4,0,1,2,2,1,1,3,"Very easy",2,1,2,3,2,3,2,0,NA
+"1017",26,"F","United States","NY","No",0,0,NA,4,0,1,2,2,1,1,2,"Somewhat easy",1,1,3,3,1,2,3,0,NA
+"1018",46,"Female (trans)","United States","CT","No",0,1,"Often",6,0,0,NA,3,3,3,2,"Don't know",3,1,2,2,1,1,1,1,NA
+"1019",30,"Male","United States","CA","No",1,1,"Sometimes",3,1,1,NA,1,1,1,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"1020",25,"Male","United States",NA,"No",0,0,"Rarely",3,1,1,2,1,1,1,2,"Somewhat easy",3,1,2,2,1,3,2,1,"My work is using my brain. I do it incredibly well.I make an effort to avoid diagnosis of anything mental health related because I am convinced it would only affect me negatively."
+"1021",19,"M","Canada",NA,"No",0,0,"Never",3,1,1,2,1,1,1,2,"Somewhat easy",1,1,2,2,1,2,1,0,NA
+"1022",30,"Female","United States","GA","No",1,1,"Sometimes",5,0,0,NA,3,3,3,3,"Somewhat easy",2,2,2,2,1,1,1,1,NA
+"1023",32,"m","United States","TN","No",0,0,"Never",4,0,1,NA,3,3,3,2,"Somewhat easy",1,1,3,3,1,2,3,0,NA
+"1024",32,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,1,1,1,1,2,"Don't know",2,2,1,1,1,2,2,0,NA
+"1025",37,"Male","United States","IN","No",1,0,"Sometimes",3,1,1,2,1,1,1,2,"Somewhat easy",2,1,2,2,1,2,1,0,"My employer is extremely easy to work with and e.g. I have enormous leeway with flex time so I could take care of myself under that umbrella but I don't know and don't have a history of bring up mental health at the workplace so I am cautious in that area."
+"1026",42,"M","United States","CA","No",1,1,"Sometimes",4,1,1,2,1,1,2,2,"Don't know",2,2,2,2,1,1,2,0,NA
+"1027",25,"female","United States","OR","No",0,0,"Never",6,0,1,NA,3,3,3,2,"Don't know",2,1,2,3,2,1,3,0,NA
+"1028",19,"Male","United States","IN","No",0,0,"Sometimes",4,0,1,2,2,1,1,2,"Don't know",1,1,2,3,2,2,2,0,NA
+"1029",40,"female","United States","GA","No",1,0,"Never",4,1,1,NA,3,3,1,2,"Don't know",3,3,1,1,1,1,2,0,NA
+"1030",34,"Male","United States","IN","No",0,0,NA,6,0,0,NA,2,3,2,2,"Don't know",2,2,2,3,1,1,2,0,NA
+"1031",26,"Male","United States","MN","No",1,0,NA,4,0,1,2,2,1,1,2,"Don't know",1,1,2,3,1,1,3,0,NA
+"1032",31,"Male","United States","MN","No",1,1,"Rarely",4,0,1,2,2,2,2,3,"Don't know",1,1,3,3,2,2,3,0,NA
+"1033",40,"Male","United States","NC","No",1,0,"Sometimes",6,1,0,NA,2,3,2,2,"Don't know",3,2,2,2,1,2,1,0,NA
+"1034",31,"Female","United States","FL","No",1,1,"Often",3,0,1,1,1,1,1,1,"Very difficult",3,1,1,1,1,3,1,1,NA
+"1035",36,"M","United States","MN","No",0,0,"Never",4,0,0,2,1,1,2,2,"Don't know",3,2,1,1,1,2,2,1,NA
+"1036",35,"Male","Canada",NA,"No",1,0,"Sometimes",4,1,1,1,3,1,1,2,"Don't know",2,1,1,2,1,1,2,0,NA
+"1037",26,"male","Australia",NA,"No",1,1,"Sometimes",3,1,1,1,1,1,1,3,"Don't know",1,1,3,3,1,2,3,0,"The questions related to employer-provided health benefits are largely irrelevant to where I live Australia so I'd discount them."
+"1038",44,"m","United States","MO","No",0,0,NA,6,1,0,2,1,2,2,3,"Don't know",3,1,2,1,1,1,1,0,NA
+"1039",34,"Female","United States","CA","No",0,0,"Sometimes",4,0,1,1,2,1,1,2,"Very easy",1,1,2,3,1,2,3,0,NA
+"1040",35,"Male","United States","OR","No",0,0,NA,4,1,1,1,1,1,1,2,"Don't know",1,1,1,1,1,1,2,0,NA
+"1041",28,"female","United States","OH","No",1,1,"Sometimes",3,1,1,2,1,1,1,2,"Somewhat easy",3,1,2,2,1,2,1,0,NA
+"1042",33,"Male","United States","NY","No",0,0,NA,4,1,1,NA,1,2,3,3,"Don't know",1,1,2,3,1,1,3,0,NA
+"1043",40,"M","United States","WI","No",1,1,"Sometimes",6,1,1,NA,3,1,3,2,"Don't know",3,1,1,1,1,2,2,0,NA
+"1044",26,"Male","United States","WA","No",0,1,"Sometimes",4,0,1,NA,3,1,1,3,"Don't know",2,1,2,1,1,2,2,0,NA
+"1045",29,"f","United Kingdom",NA,"No",0,1,"Often",6,0,0,NA,3,1,1,2,"Don't know",2,1,2,1,1,3,1,1,NA
+"1046",26,"Female","Canada",NA,"No",1,1,"Sometimes",4,0,1,NA,2,1,1,3,"Don't know",2,1,2,1,1,2,2,0,NA
+"1047",33,"Malr","Italy",NA,"No",1,1,"Sometimes",4,0,1,1,2,1,1,2,"Somewhat easy",1,1,2,3,1,1,2,0,"I suffered of panic attacks and agoraphobia for about 10 years."
+"1048",28,"Male","Brazil",NA,"No",1,0,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat easy",1,1,2,2,1,1,2,1,NA
+"1049",41,"Male","United States","IL","Yes",0,1,"Often",4,1,0,1,3,3,3,3,"Very difficult",1,1,2,2,1,1,3,1,NA
+"1050",39,"Male","United Kingdom",NA,"Yes",1,1,"Sometimes",4,1,1,1,3,3,3,3,"Somewhat difficult",1,1,3,3,1,2,3,1,"These result may be a tad confusing so a summary follows.* Currently self-employed so employer is me :)* Last place of employment was amazing when I first discovered I was bi-polar and helped me as long as I was there up to and including a mental health course for the whole team (although no mention why to others which was great).* I've never had a negative reaction yet but I know others who have.* I've been very lucky with company I keep which is why my experience is largely good."
+"1051",26,"female","United States","WA","No",1,1,"Sometimes",6,0,1,NA,3,1,1,2,"Don't know",1,1,2,3,1,2,1,1,"I should note one of the places my employer fails with regards to mental health is that the company-paid health insurance policy does not cover trans healthcare needs."
+"1052",23,"Female","United States","IL","No",1,0,"Sometimes",3,0,0,1,1,1,1,2,"Somewhat difficult",3,1,1,2,1,2,1,0,NA
+"1053",35,"Male","Switzerland",NA,"No",1,1,"Often",6,0,1,2,2,1,1,3,"Very easy",1,1,2,2,1,2,1,0,NA
+"1054",36,"Male","United States","FL","No",0,0,"Never",4,1,1,2,2,2,2,2,"Very easy",1,1,2,2,1,1,2,0,NA
+"1055",42,"M","United States","TN","No",0,0,"Rarely",6,0,0,2,1,1,2,2,"Don't know",2,1,2,1,1,2,1,0,NA
+"1056",39,"Male","United States","WA","No",1,1,"Sometimes",5,0,1,NA,3,1,2,3,"Very easy",1,1,2,3,1,1,3,0,NA
+"1057",27,"Male","United States","CA","No",0,0,"Never",4,0,1,2,1,1,2,2,"Don't know",2,1,2,3,2,2,2,0,NA
+"1058",33,"male","United States","FL","Yes",0,0,"Never",4,1,1,2,1,1,1,1,"Very easy",2,1,2,3,1,2,3,0,NA
+"1059",31,"Male","Canada",NA,"No",1,1,"Often",6,0,1,NA,2,2,2,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"1060",28,"Female","United States","OR","No",0,1,"Rarely",4,0,1,NA,3,2,3,3,"Very easy",1,1,2,2,1,3,2,0,NA
+"1061",29,"Female","United States","NJ","No",0,1,"Often",6,1,0,NA,1,1,1,2,"Somewhat easy",1,1,2,3,2,2,2,0,NA
+"1062",27,"Male","United States","CA","No",0,1,"Sometimes",4,0,1,2,2,1,1,3,"Very difficult",2,1,2,1,1,2,1,0,NA
+"1063",44,"M","United States","FL","Yes",0,0,"Never",4,1,1,2,1,1,1,3,"Somewhat difficult",1,1,1,1,1,1,2,0,NA
+"1064",25,"Male","United States","UT","No",0,1,"Often",4,1,1,2,1,1,1,2,"Somewhat easy",2,1,2,1,1,2,2,0,NA
+"1065",24,"male","Germany",NA,"No",1,1,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat easy",2,1,3,3,1,1,2,0,"Thank you this is very important."
+"1066",25,"Male","South Africa",NA,"No",1,1,"Often",4,0,0,2,1,1,1,3,"Don't know",1,1,2,3,1,2,1,1,NA
+"1067",34,"M","United States","NJ","No",0,0,"Never",4,1,1,NA,2,2,2,2,"Somewhat easy",2,2,1,2,1,2,2,0,NA
+"1068",26,"Male","United States","PA","No",0,0,"Never",6,0,0,NA,3,1,2,2,"Somewhat difficult",2,1,1,3,1,1,2,0,NA
+"1069",48,"Male","United States","IN","No",0,0,"Never",3,0,0,NA,3,3,3,3,"Don't know",2,1,2,3,1,2,2,0,NA
+"1070",34,"Male","Greece",NA,"No",0,0,NA,3,1,1,1,1,1,1,2,"Very difficult",3,2,2,1,1,2,1,0,NA
+"1071",39,"Female","United States","OH","No",0,1,"Sometimes",4,1,1,1,1,1,1,2,"Don't know",2,2,2,2,1,2,1,0,"I've never heard of a workplace that would actually allow you to call off for mental health reasons. So many places require a doctor's note for calling off sick. It's all set up to make you feel worse if you can't just suck it up. Thanks for working to change this!!!"
+"1072",43,"Male","United States","OH","No",0,0,"Sometimes",6,1,1,NA,2,1,3,2,"Don't know",2,1,1,1,1,1,2,0,NA
+"1073",41,"M","United States","IL","No",0,0,"Rarely",6,0,1,NA,3,3,3,2,"Don't know",2,2,2,1,1,1,3,1,NA
+"1074",25,"Male","United States","IN","No",0,0,"Never",6,0,0,2,1,1,1,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"1075",31,"m","United States","CA","No",0,1,"Sometimes",4,0,1,NA,3,1,1,2,"Somewhat easy",2,1,2,1,1,2,1,0,NA
+"1076",40,"Male","United States","WA","No",1,1,"Sometimes",6,0,1,NA,3,3,3,3,"Don't know",3,3,1,1,1,2,1,1,NA
+"1077",43,"Male","United States","VA","Yes",1,1,"Sometimes",4,1,1,NA,2,1,2,2,"Don't know",2,2,2,2,1,2,2,0,"This survey was tough as a self-employed individual. You may wish to discard responses from self employed people for much of your analysis."
+"1078",27,"Female","United States","WA","No",1,1,"Often",6,0,1,NA,3,3,3,3,"Very difficult",2,1,3,2,1,2,1,1,"I answered based on previous job at large technical company where I was pushed out of my role within 3 months of disclosing diagnosis.I had been struggling for 3 months prior to disclosure and was incredibly relieved when finally diagnosed. Growing up in a family open about mental health and also at the end of my rope I immediately shared with management what was going on. I requested a temporary reduced workload so I could reduce anxiety. (At time I didn't know it was anxiety as took me a year to accept that the (to me) deserved stress was anxiety caused by my core diagnosis.) When disclosing I didn't deeply understand details of the state of my mental health; I simply knew I was so stressed out by having been unable to get myself to do work in three months that I couldn't juggle all that was currently on my plate.It was at this point my direct manager and I began an almost daily struggle. After working on a single project and making progress (compared to 3 months before diagnosis when management didn't even know how bad I was doing) I requested increasing my workload. This was never granted; boss said I hadn't proved myself and implied I could not be trusted.Two huge issues stick out to me from that experience:1) Company assumes things would be better and back to 100% within months. They did not understand what one goes through when figuring out meds: things at times got worse. They did not understand how long it takes until meds are figured out: mine took two years. They most certainly would not truly understand why to this day four years later despite being stable I'm in counseling every other week in addition to being on meds. Rather than supporting that it would be seen as oh I'm sorry. I was a problem to my manager because he didn't see improvements each week.2) Accomodations.- There was no option for me to reduce work temporarily to part-time (too complicated). Instead they pushed me to take disability leave. I told them that wouldn't help; they told me to double-check with care providers. That required me to see a psychologist unnecessarily as psychologist said I didn't qualify for leave. (Expensive unnecessary appointment).- The assistance I needed the most at work was understanding: I was open but my manager told me to not tell my co-worker assigned to support me. That was disasterous for colleague's stress/frustration levels. He knew something was up but was barred from asking and I was implied it was better to keep my mouth shut.- Accommodations weren't understood by even Benefits as they're not trained in mental health nor do they have people come in to assess how they're doing in supporting those with mental health issues. Should be no different than people coming in to assess for physical accessibility of the workplace. When in a meeting with my manager supervised by HR I shouldn't feel like I'm asking too much of manager when requesting he put the negative critiques on the back burner and help me figure out whether I'm doing anything right. That this didn't stop him from coming into my office that same day and putting on my dick hat to yell at me for something that wasn't even my fault (he had brought in co-worker for this yelling and turned to finish yelling at this person): FUCKING UNACCEPTABLE.While I will never return to that company and as such took the severance package I will NEVER agree with their legal reason for being unable to do the job: me being medically disqualified from this role. I was too expensive in the short term for them; I'm not worth the cost."
+"1079",37,"female","United States","NJ","No",1,1,"Sometimes",3,1,1,NA,3,1,2,2,"Don't know",3,2,1,1,1,2,2,0,"If a man in tech is afraid of speaking up about these things it is even worse for women in tech who are already fearful of and fighting against the stigma of incompetence.  On the other hand if a female in tech does not commiserate with her male coworkers on mental health problems she will no longer be seen as a team player. It is really a catch-22 for women in STEM."
+"1080",32,"male","Netherlands",NA,"Yes",0,1,"Sometimes",4,0,1,1,1,1,1,3,"Very difficult",2,1,2,3,1,2,1,0,NA
+"1081",25,"Male","United States","UT","No",1,1,"Often",4,0,1,1,3,1,1,3,"Very easy",2,1,3,3,1,2,1,0,NA
+"1082",29,"Male","Netherlands",NA,"No",1,1,"Often",4,0,1,2,2,2,3,2,"Very difficult",1,2,3,3,2,1,3,0,"Autism is a bitch for those living with it and living it. For the past years I've really been working hard to get myself (known) in the community. The people in the community that know can be counted on one hand. In general I'm not telling anyway unless it really matters and it would be a gain in some way or the other. Not because I don't trust the community members close to me but because I don't want to be that guy. And IMHO it doesn't and shouldn't matter but sadly some people are funky about that. Yet sometimes I wan't to tell everyone what I've been through and share my lessons learned."
+"1083",30,"Female","United States","TN","No",1,1,"Often",6,0,0,NA,1,1,1,2,"Somewhat difficult",3,1,1,1,1,2,1,0,"This issue for me is very real at the moment. I have missed several days of work recently because of a bad reaction to a depression/anxiety drug and I hate not being able to discuss it with my boss without worrying that I will be labeled a liability."
+"1084",34,"female","Canada",NA,"No",1,1,"Often",3,0,0,2,1,3,2,2,"Somewhat easy",1,1,2,2,1,1,3,0,NA
+"1085",32,"male","United Kingdom",NA,"No",1,1,"Sometimes",4,0,0,NA,3,3,3,3,"Somewhat easy",2,2,2,2,1,2,1,0,NA
+"1086",37,"male","Germany",NA,"No",0,0,NA,4,0,1,2,1,1,1,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"1087",41,"male","Germany",NA,"No",0,1,"Sometimes",6,0,1,2,1,1,1,2,"Somewhat difficult",1,1,3,3,1,1,3,0,NA
+"1088",38,"male","United States","IN","No",1,0,"Never",6,0,0,NA,2,3,3,2,"Don't know",3,2,2,1,1,1,1,0,NA
+"1089",32,"Male","United States","IN","No",0,1,"Sometimes",3,0,1,NA,3,3,2,3,"Don't know",1,1,2,3,1,2,2,0,NA
+"1090",28,"Female","United States","CA","No",1,1,"Sometimes",4,0,1,NA,3,2,2,2,"Don't know",2,1,2,2,1,1,3,0,NA
+"1091",11,"male","United States","OH","Yes",0,0,"Never",4,1,1,1,3,1,1,3,"Very easy",1,1,2,2,1,2,3,0,NA
+"1092",43,"male","United States","TX","No",1,0,"Never",4,0,0,NA,3,1,2,2,"Somewhat easy",2,1,2,2,1,2,1,0,NA
+"1093",32,"Male","United States","TN","No",1,1,"Often",4,0,1,1,3,1,1,2,"Very difficult",3,1,3,3,1,3,1,0,NA
+"1094",25,"M","United States","WA","No",0,1,"Sometimes",6,0,1,NA,3,3,2,3,"Don't know",3,1,1,1,1,1,3,0,NA
+"1095",37,"Male","United States","UT","No",0,1,"Sometimes",4,0,1,NA,1,1,3,3,"Very easy",1,1,1,3,1,1,3,0,NA
+"1096",36,"male","United States","AL","Yes",0,1,"Sometimes",4,0,0,1,3,1,1,1,"Very difficult",1,1,1,1,1,1,1,1,NA
+"1097",24,"Male","United States","WI","No",1,1,"Rarely",4,1,1,2,1,1,1,2,"Very easy",1,1,3,3,2,3,3,0,NA
+"1098",40,"male","United States","WA","No",1,1,"Sometimes",6,0,1,NA,2,3,2,2,"Somewhat difficult",2,1,2,2,1,2,2,1,"Really manager dependent. I have had managers who work with my strengths and others who want my to work on my weaknesses which are directly tied to my mental issues."
+"1099",29,"Male","United States","WI","No",0,0,NA,6,0,0,2,2,3,2,3,"Somewhat easy",1,1,2,3,1,2,3,0,"Though it doesn't affect me (male) good job for making the Gender field a text input instead of a drop down of only two options."
+"1100",43,"Male","United States","NY","No",0,0,"Never",5,0,1,2,1,1,2,2,"Don't know",1,1,3,2,1,1,3,0,NA
+"1101",29,"Male","United States","NY","No",0,0,NA,4,1,1,NA,2,1,3,2,"Don't know",2,1,2,3,2,3,2,0,NA
+"1102",26,"Male","United States","OH","No",1,0,"Sometimes",4,0,1,2,2,1,1,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"1103",33,"Female","Canada",NA,"Yes",1,1,"Often",4,1,1,1,3,1,1,1,"Very difficult",3,3,1,1,1,2,1,1,NA
+"1104",35,"Female","United States","WA","No",1,0,"Sometimes",4,1,1,2,1,1,1,2,"Somewhat easy",1,1,3,2,1,1,3,0,NA
+"1105",45,"M","United States","CA","No",0,0,"Never",4,1,1,NA,1,1,1,2,"Don't know",3,2,2,1,1,2,2,0,NA
+"1106",25,"Male","United States","SC","No",0,1,"Rarely",4,1,1,1,3,1,2,2,"Somewhat easy",2,1,1,2,1,2,2,0,NA
+"1107",50,"male","France",NA,"Yes",0,1,"Sometimes",3,1,1,1,1,1,1,2,"Don't know",2,2,2,3,1,1,2,0,NA
+"1108",26,"male","Australia",NA,"No",1,1,"Rarely",3,0,1,1,1,2,2,2,"Very easy",1,1,3,3,2,3,3,0,NA
+"1109",33,"female","United States","CA","No",0,1,"Often",6,0,1,NA,3,2,2,2,"Don't know",3,1,1,1,1,2,2,0,NA
+"1110",30,"Male","India",NA,"No",0,0,"Often",4,0,1,1,1,1,1,1,"Very easy",2,2,2,2,2,2,2,0,NA
+"1111",33,"male","Croatia",NA,"No",1,1,"Sometimes",4,1,1,NA,3,1,2,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"1112",29,"M","France",NA,"No",0,1,"Often",4,0,1,NA,1,1,1,3,"Somewhat easy",2,2,3,2,1,3,1,0,NA
+"1113",37,"male","Germany",NA,"No",0,0,NA,4,1,1,1,2,1,1,2,"Don't know",2,1,2,1,2,3,2,0,NA
+"1114",25,"Male","United States","MN","No",1,1,"Sometimes",4,1,1,2,1,2,2,2,"Very easy",1,1,3,3,2,3,2,0,"I was (wrongly) diagnosed clinically depressed at 12 then bipolar I at 15 and medicated for a decade until decided myself to go drug free. Since then I've never been happier. Insomnia and my insatiablility for learning and programming have always had a symbiotic  relationship.It might also bear mentioning that I'm self-employed in addition to my more traditional day job."
+"1115",40,"m","United States","WA","No",0,0,NA,6,0,0,NA,2,2,2,2,"Somewhat easy",2,1,2,2,1,2,2,0,NA
+"1116",24,"Male","Canada",NA,"No",0,0,"Sometimes",3,0,1,NA,3,1,1,3,"Don't know",2,1,1,1,1,2,2,1,NA
+"1117",40,"Male","United Kingdom",NA,"No",0,1,"Never",4,0,1,2,2,1,2,2,"Very easy",2,1,3,2,1,2,2,0,NA
+"1118",46,"Male","United States","PA","No",1,1,"Sometimes",4,0,1,2,3,1,2,2,"Don't know",3,2,1,2,1,2,2,0,NA
+"1119",38,"Male","United States","NY","No",1,1,"Rarely",6,0,0,NA,3,3,3,3,"Somewhat easy",3,1,1,3,1,3,2,0,NA
+"1120",34,"Male","United States","VT","No",0,0,"Never",4,1,1,1,3,1,1,2,"Don't know",3,3,1,1,1,1,2,0,"My employer currently does not offer any health insurance I have to get that on my own.  However at past positions I have had health insurance but no one ever mentioned mental health issues nor would I wish to discuss those with my co-workers bosses etc for fear of negative reception."
+"1121",32,"Male","United Kingdom",NA,"Yes",0,1,"Rarely",4,0,1,1,3,3,3,3,"Very easy",1,1,2,3,1,3,1,1,NA
+"1122",44,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,0,0,1,1,1,3,2,"Don't know",2,1,2,2,1,1,1,0,NA
+"1123",33,"Female","United Kingdom",NA,"No",0,1,"Never",4,0,1,2,2,1,2,2,"Very easy",2,1,2,2,1,2,1,0,NA
+"1124",45,"female","United States","MI","No",0,1,"Rarely",3,0,0,2,1,2,2,2,"Don't know",1,1,2,2,1,2,2,0,NA
+"1125",35,"Male","United States","NY","No",0,0,NA,4,0,1,2,2,2,2,3,"Don't know",1,1,1,1,1,1,3,0,"Mental health at work is not an issue if you leave work problems at work that may be easier for those of us not in a support role."
+"1126",26,"Male","Germany",NA,"Yes",1,1,"Often",4,0,1,1,1,1,1,2,"Don't know",2,1,3,3,2,3,1,1,NA
+"1127",20,"female","United States","NY","No",0,1,"Sometimes",3,1,1,2,2,2,2,2,"Don't know",1,1,2,2,2,2,2,0,NA
+"1128",-1,"p","United States","AL","Yes",1,1,"Often",4,1,1,NA,3,3,3,3,"Very easy",3,3,3,3,3,3,3,1,"password: testered"
+"1129",37,"Male","Netherlands",NA,"No",1,0,"Sometimes",4,0,1,1,1,1,1,3,"Somewhat easy",2,1,2,3,1,2,3,0,NA
+"1130",28,"male","United States","MI","No",0,0,NA,6,0,0,NA,1,1,1,3,"Somewhat easy",2,1,1,1,1,3,1,0,NA
+"1131",42,"F","United States","WA","No",1,1,"Sometimes",3,0,0,NA,3,1,1,2,"Don't know",3,1,2,2,1,3,1,0,NA
+"1132",32,"male","United Kingdom",NA,"No",0,0,NA,3,0,1,1,1,1,1,2,"Don't know",2,1,1,1,1,1,2,1,NA
+"1133",36,"F","United States","TN","No",1,1,"Rarely",6,1,1,NA,3,1,1,3,"Somewhat easy",2,2,2,1,1,1,2,0,NA
+"1134",27,"M","New Zealand",NA,"No",0,0,"Rarely",3,0,1,1,3,1,3,1,"Somewhat difficult",3,1,1,1,1,2,1,1,NA
+"1135",27,"M","New Zealand",NA,"No",0,0,"Rarely",3,0,1,1,3,1,3,1,"Somewhat difficult",3,1,1,1,1,2,1,1,NA
+"1136",27,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,0,0,1,1,1,1,3,"Somewhat easy",2,1,3,3,2,2,1,0,"suffer from CR-PTSD so all answered based on that"
+"1137",25,"Male","United Kingdom",NA,"No",1,1,"Sometimes",3,1,1,1,1,1,1,3,"Very easy",1,1,2,3,1,2,3,0,"Since being advised by Occupational Health that the tempo and spontenaity of the office environment was likely to have a negative effect on my mental health (I'm schizoaffective) I've been moved to 100% remote (home) working. The company have furnished a home office for me and I am only required to attend the office once a month to keep in touch"
+"1138",41,"M","United Kingdom",NA,"No",1,0,NA,4,0,1,1,1,1,1,2,"Somewhat difficult",2,2,2,2,2,2,2,0,NA
+"1139",23,"Male","Germany",NA,"No",1,1,"Sometimes",4,0,1,2,2,1,1,2,"Somewhat easy",2,1,1,1,1,1,2,0,NA
+"1140",21,"Male","United Kingdom",NA,"No",0,1,"Sometimes",6,0,0,2,1,1,2,2,"Don't know",2,1,2,1,1,1,2,0,NA
+"1141",26,"Male","Moldova",NA,"No",0,1,"Often",3,0,1,1,3,1,1,3,"Very difficult",1,1,3,3,3,3,2,0,NA
+"1142",29,"Male","Sweden",NA,"No",0,0,"Rarely",6,0,1,2,2,2,2,2,"Don't know",2,2,1,1,1,3,2,1,NA
+"1143",28,"male","Belgium",NA,"No",0,0,"Sometimes",6,0,0,1,1,1,1,2,"Somewhat easy",3,2,1,1,1,1,2,1,NA
+"1144",27,"female","United Kingdom",NA,"No",1,0,NA,6,0,0,1,3,1,1,3,"Don't know",2,1,1,1,1,3,3,0,NA
+"1145",23,"Male","Israel",NA,"No",0,0,"Never",6,0,0,1,3,3,3,3,"Somewhat difficult",1,1,3,3,1,3,3,0,NA
+"1146",26,"F","United States","NY","No",1,0,"Sometimes",3,1,1,2,1,1,1,2,"Don't know",2,1,1,1,1,1,2,0,NA
+"1147",38,"Male","United Kingdom",NA,"No",1,1,"Sometimes",4,0,1,1,2,2,2,2,"Very easy",1,1,2,3,2,3,2,0,NA
+"1148",39,"M","United Kingdom",NA,"No",1,1,"Sometimes",6,0,0,1,1,1,1,3,"Very easy",2,2,2,3,2,2,3,0,"Despite the impression that several 'no' responses might give my employer has been very supportive. But then I work in health care."
+"1149",35,"M","United States","IN","No",1,1,"Often",6,0,0,NA,3,1,3,2,"Somewhat easy",3,1,1,2,1,3,2,0,NA
+"1150",32,"male","United States","NC","No",0,0,"Rarely",4,0,1,NA,2,1,2,2,"Don't know",2,1,1,2,1,2,2,0,NA
+"1151",32,"Male","United States","CA","No",0,1,"Sometimes",6,0,1,NA,3,3,3,3,"Somewhat difficult",2,2,2,2,1,1,2,1,NA
+"1152",26,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,1,1,1,1,2,"Don't know",3,2,2,1,1,2,2,0,NA
+"1153",38,"Male","Canada",NA,"No",1,1,"Rarely",4,0,1,2,2,1,2,2,"Don't know",1,1,3,3,1,2,1,0,NA
+"1154",34,"Female","United Kingdom",NA,"No",1,0,"Rarely",3,0,0,NA,3,3,3,3,"Very easy",1,1,2,3,2,2,3,0,NA
+"1155",39,"Male","United States","TN","No",1,1,"Often",3,0,0,2,2,1,1,2,"Somewhat easy",3,1,2,2,1,2,2,0,NA
+"1156",32,"male","Canada",NA,"Yes",0,0,"Never",4,1,1,2,2,1,1,2,"Very easy",1,1,3,3,2,2,3,0,NA
+"1157",37,"Male","Netherlands",NA,"Yes",0,0,"Never",4,1,1,2,2,2,2,2,"Very easy",3,3,2,2,1,1,2,0,NA
+"1158",31,"male","United Kingdom",NA,"No",1,1,"Never",4,0,1,2,2,1,2,2,"Somewhat easy",1,1,2,2,1,1,2,0,"When I've had a depression I was lucky to have an awesome manager who was very understanding and found a budget to pay for my therapy sessions."
+"1159",30,"m","United States","MN","No",1,1,"Rarely",4,0,1,1,3,1,1,2,"Don't know",1,1,1,1,1,1,2,0,"People have often felt uncomfortable with my story while most of it happened a decade ago. I used to be quite open about it and have since kept it quietly tucked away. While I sometimes have waves of depression I have learned to cope with the affects."
+"1160",51,"M","Singapore",NA,"No",0,0,"Never",6,1,1,2,1,1,2,2,"Don't know",3,1,1,1,1,1,1,0,NA
+"1161",29,"M","United States","NC","No",0,1,"Sometimes",3,0,1,NA,3,1,1,2,"Don't know",3,1,2,2,1,2,2,0,NA
+"1162",31,"Male","United Kingdom",NA,"No",0,0,"Never",4,0,1,NA,1,1,3,2,"Don't know",2,3,2,1,1,1,3,0,NA
+"1163",31,"Male","India",NA,"No",0,0,NA,3,0,1,2,2,1,1,2,"Don't know",3,3,1,1,1,1,2,0,NA
+"1164",26,"Male","United States","TX","No",1,1,"Sometimes",4,1,1,2,1,1,2,2,"Somewhat easy",2,1,2,2,2,2,2,0,NA
+"1165",46,"Female","United States","CA","No",0,1,"Often",4,1,0,NA,3,1,1,3,"Don't know",2,1,2,2,1,2,1,0,NA
+"1166",32,"Male","United States","CA","No",1,0,"Sometimes",6,0,1,NA,1,3,2,2,"Don't know",2,1,3,3,1,1,2,0,NA
+"1167",29,"Male","United States","IL","No",1,1,"Sometimes",3,0,0,NA,3,3,3,2,"Don't know",2,1,2,1,1,2,2,0,NA
+"1168",34,"male","Poland",NA,"No",0,0,"Never",6,1,1,2,2,1,1,2,"Don't know",2,1,2,2,1,3,2,0,NA
+"1169",26,"Male","Colombia",NA,"No",0,0,"Often",4,0,1,1,1,1,1,1,"Very difficult",3,1,1,1,1,2,3,0,NA
+"1170",32,"Female","United States","PA","No",0,1,"Sometimes",6,0,1,NA,3,1,2,2,"Don't know",2,1,2,1,1,1,1,0,NA
+"1171",29,"Male","United States","IL","No",0,0,NA,6,0,1,2,2,1,1,2,"Don't know",2,1,2,3,2,3,1,0,NA
+"1172",30,"Male","United States","IL","No",0,0,NA,6,0,0,NA,1,3,3,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"1173",40,"F","United States","MN","No",1,1,"Sometimes",3,0,1,NA,3,1,3,3,"Somewhat easy",1,1,3,3,1,2,3,1,NA
+"1174",23,"Male","United Kingdom",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Very difficult",2,1,3,3,3,3,1,1,"I burnt out this year. I worked too much had too much pressure on myself from being the sole developer on a delayed project that seemed to grow in size with each week it was delayed by and worried about money a lot.I became depressed and anxious and had trouble eating sleeping and generally being myself. As my depression worsened I was regularly late for work couldn't perform as well as I should and became irritable with my colleagues.My employers response after a while was to send me private messages complaining about my lateness which only worsened the situation. I was prescribed 3 weeks off work by my doctor which my employer agreed to only to come back after to find I had been on 'statutory pay' which was roughly half of what I was expecting and was not enough to cover my rent bills AND food. This made me worse and sent me into another depression until I eventually admitted defeat gave up working and left the company. It took me months to recover and I'm now left (over 6 months after this all started) recovering from the fallout I created leaving employment with hardly any money to my name.I had previously been told by my employer that I was too young to burn out and (stupidly) trusted them. I did not feel comfortable discussing my problems with my employer because each time I was met with an attitude that I had to get myself together and ultimately given the amount of employees before me who had left the company by being fired after an altercation with the employer left me with no option but to hide it from them so I too wouldn't be fired."
+"1175",20,"Male","Georgia",NA,"No",0,0,"Rarely",3,0,0,1,1,1,1,2,"Very difficult",3,3,2,1,1,2,1,0,NA
+"1176",38,"male","United States","NY","No",1,0,NA,4,0,1,2,1,1,1,2,"Somewhat difficult",1,1,2,3,1,1,2,1,NA
+"1177",26,"Female","United States","MI","No",1,1,"Rarely",4,0,1,NA,1,1,1,2,"Don't know",2,2,1,1,1,2,1,0,NA
+"1178",29,"Male","United States","OH","No",0,0,"Never",3,0,1,1,1,1,2,2,"Don't know",1,1,2,3,1,3,1,1,NA
+"1179",40,"m","China",NA,"Yes",0,0,"Sometimes",4,1,1,1,3,1,1,2,"Somewhat easy",1,1,2,2,2,2,2,0,NA
+"1180",25,"female","Bulgaria","UT","No",0,1,"Sometimes",3,1,1,1,1,1,1,2,"Don't know",2,2,3,2,2,1,1,0,NA
+"1181",32,"Woman","United States","NY","No",0,1,"Sometimes",3,0,1,NA,3,1,1,3,"Don't know",2,2,2,1,1,1,1,0,NA
+"1182",38,"male","United States","CA","No",1,1,"Sometimes",6,0,0,NA,3,3,3,3,"Don't know",2,1,2,1,1,2,1,1,NA
+"1183",72,"Female","United States","IN","No",1,1,"Never",5,1,0,NA,2,2,3,2,"Somewhat easy",2,2,2,3,1,1,2,1,NA
+"1184",35,"female","United States","IN","No",1,1,"Sometimes",4,1,1,1,1,1,1,3,"Don't know",2,2,2,2,1,1,3,0,NA
+"1185",28,"F","United States","VA","No",0,1,"Often",4,0,1,1,3,1,1,2,"Very difficult",3,2,2,2,1,1,2,0,NA
+"1186",27,"femail","United States","OK","No",0,0,"Never",4,0,0,2,2,2,2,2,"Don't know",1,1,2,3,1,1,3,0,NA
+"1187",56,"female","United States","OR","Yes",0,0,"Rarely",4,1,1,2,2,2,2,2,"Don't know",2,2,1,1,1,1,2,0,"I'm self-employed on contract with small start-up. Covered through spouse's insurance."
+"1188",38,"Male","United States","AL","No",1,1,"Sometimes",3,1,1,NA,1,1,1,2,"Don't know",2,1,2,2,1,1,2,0,NA
+"1189",31,"Female","Belgium",NA,"No",0,0,NA,3,0,1,2,2,1,1,3,"Very easy",2,1,2,2,1,1,2,0,NA
+"1190",40,"Male","United States","AL","No",1,1,"Sometimes",4,0,1,NA,3,1,1,3,"Don't know",2,1,2,1,1,1,3,0,NA
+"1191",44,"M","United States","OH","No",1,1,"Sometimes",4,0,1,NA,3,1,3,3,"Don't know",2,1,2,2,1,1,2,0,"My mental health issues were the direct result of the trauma from childhood abuse. Most (all?) of the Prompt-sponsored/related presentations I've seen have been about congenital mental health issues that are treatable with continued medication. For me medication only provided temporary assistance. I needed years of (continuing) therapy to deal with PTSD and related disorders (depression anxiety suicidal tendencies others). I haven't seen many in our community discussing trauma-related mental health issues but they are just as real and just as debilitating."
+"1192",34,"Male","Canada",NA,"No",1,0,"Sometimes",6,0,1,NA,2,3,3,3,"Don't know",2,1,1,1,1,2,2,0,NA
+"1193",37,"Male","United Kingdom",NA,"No",0,0,"Never",3,1,1,2,1,1,1,2,"Somewhat easy",1,1,2,3,1,3,2,0,NA
+"1194",38,"male","Italy",NA,"No",0,0,"Never",3,0,1,2,2,2,2,3,"Don't know",1,1,2,3,3,2,1,0,NA
+"1195",27,"male","Germany",NA,"No",0,0,NA,3,0,1,2,2,1,1,2,"Don't know",1,1,2,3,3,3,2,0,NA
+"1196",34,"female","Ireland",NA,"No",0,1,"Sometimes",5,0,0,NA,3,3,1,3,"Don't know",3,3,2,2,1,1,3,0,NA
+"1197",35,"Female","Ireland",NA,"No",0,0,"Rarely",4,0,1,2,1,1,1,1,"Don't know",2,1,2,1,1,2,1,0,NA
+"1198",34,"male","Ireland",NA,"No",0,1,"Often",4,0,1,1,1,1,1,2,"Somewhat difficult",3,2,2,3,1,2,1,0,NA
+"1199",32,"Male","United States","TX","No",0,1,"Often",3,1,1,NA,2,1,2,2,"Very difficult",3,2,2,1,1,1,2,0,NA
+"1200",25,"male","Ireland",NA,"No",0,0,NA,4,0,1,2,2,1,2,2,"Don't know",2,1,2,3,1,1,2,0,NA
+"1201",28,"Male","Australia",NA,"No",0,1,"Often",4,1,1,1,3,1,1,2,"Don't know",3,1,1,1,1,2,1,0,NA
+"1202",28,"Female","United States","TX","No",0,1,"Rarely",4,0,1,NA,1,1,1,2,"Somewhat easy",3,3,2,1,1,1,1,1,NA
+"1203",31,"Male","Brazil",NA,"Yes",0,1,NA,4,0,1,1,3,1,1,1,"Don't know",1,1,3,3,1,2,2,0,NA
+"1204",24,"Male","United Kingdom",NA,"No",0,0,NA,4,0,1,2,2,1,1,2,"Somewhat easy",2,2,2,3,1,2,2,0,NA
+"1205",34,"Male","Ireland",NA,"No",1,1,"Never",4,1,1,1,1,1,1,2,"Don't know",2,1,2,3,1,1,2,0,NA
+"1206",32,"male","Ireland",NA,"No",0,1,"Sometimes",4,0,1,1,1,1,1,2,"Somewhat easy",1,1,2,3,1,2,2,0,NA
+"1207",34,"Male","United Kingdom",NA,"No",1,0,"Often",3,1,0,2,2,1,1,2,"Somewhat easy",2,1,2,3,2,3,3,0,NA
+"1208",23,"Male","United States","TX","No",0,1,"Sometimes",4,0,1,1,3,1,1,1,"Very easy",2,2,2,3,1,1,1,0,NA
+"1209",33,"Male","Czech Republic",NA,"No",1,0,"Often",4,0,1,1,3,1,1,2,"Somewhat easy",1,1,2,3,2,2,2,1,NA
+"1210",29,"male","Singapore",NA,"No",1,1,"Sometimes",3,0,1,2,2,1,1,2,"Somewhat difficult",2,1,1,1,1,2,1,0,"it is my opinion that bad mental health is a red flag for employers and i would never bring it up."
+"1211",24,"male","Ireland",NA,"No",1,0,NA,4,0,1,1,1,1,1,2,"Don't know",2,2,1,1,1,1,2,0,NA
+"1212",45,"male","Ireland",NA,"No",0,0,"Never",6,1,1,2,2,1,1,2,"Don't know",3,1,3,2,1,1,1,1,NA
+"1213",34,"Female","United Kingdom",NA,"No",0,1,"Sometimes",6,0,0,1,3,1,3,3,"Somewhat difficult",2,2,2,3,1,2,1,1,NA
+"1214",31,"Male","Philippines",NA,"No",0,0,"Sometimes",6,0,1,2,1,1,1,2,"Very difficult",3,3,2,1,1,2,1,1,NA
+"1215",33,"Male","United States","FL","No",0,1,"Often",3,1,1,NA,3,1,1,3,"Don't know",2,1,2,1,1,2,2,0,NA
+"1216",28,"male","Netherlands",NA,"No",0,0,NA,4,0,1,1,2,1,1,2,"Somewhat easy",2,2,2,2,1,1,2,0,NA
+"1217",27,"Male","United Kingdom",NA,"No",0,0,"Rarely",6,1,0,2,2,1,3,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"1218",42,"male","Ireland",NA,"No",0,0,"Never",3,0,1,1,3,1,1,1,"Somewhat difficult",3,3,2,2,1,1,1,0,NA
+"1219",28,"male","Netherlands",NA,"No",0,0,NA,4,0,1,1,2,1,1,2,"Somewhat easy",2,2,2,2,1,1,2,0,NA
+"1220",38,"Male","United States","TX","No",0,1,"Sometimes",6,1,1,NA,1,3,3,3,"Very easy",1,1,3,3,1,1,2,0,"I openly discuss my mental health struggles. I have found that doing so encourages people who also struggle to seek treatment. I'm willing to risk losing the support of people who don't understand if it helps those who understand all too well."
+"1221",46,"Male","United States","CA","No",1,1,"Often",3,0,1,2,1,1,1,2,"Don't know",2,1,2,1,1,1,1,0,NA
+"1222",46,"male","United States","MD","No",1,1,"Sometimes",4,1,1,2,2,2,2,2,"Don't know",1,1,2,3,3,3,2,0,"Just starting a new job hence the numerous I don't know selections."
+"1223",41,"female","Netherlands",NA,"Yes",0,1,"Rarely",4,1,1,2,3,2,3,1,"Somewhat easy",1,1,3,3,3,3,3,0,"The data will be skewed for self-employed people as the questions contain some bias.Having said that: being self-employed I *choose* to work for companies which want to employ *me* not just my skills but including my opinions my life-experience etc. If a potential contract/job doesn't *feel* right I prefer to not take it (and be poor) than to compromise myself."
+"1224",23,"Male","United Kingdom",NA,"No",0,0,"Never",3,0,1,2,1,1,1,2,"Somewhat easy",2,1,2,2,1,2,3,1,"Although my employer does everything they can to accommodate employees with mental health problems when those individuals cannot carry out any work assigned to them (even over the course of months) they appear to have no alternative but to terminate their employment. However I believe this would be the same for a physical health problem."
+"1225",24,"male","Ireland",NA,"No",1,1,"Sometimes",6,0,1,NA,3,1,3,2,"Somewhat easy",2,1,2,1,1,2,3,1,NA
+"1226",23,"female","Ireland",NA,"No",0,1,"Rarely",3,0,1,1,3,3,1,2,"Don't know",1,1,3,2,1,2,2,0,NA
+"1227",39,"Male","Netherlands",NA,"No",0,0,NA,6,0,0,NA,2,3,2,2,"Somewhat easy",2,2,1,2,1,1,3,0,NA
+"1228",32,"Female","Ireland",NA,"No",1,0,"Never",6,0,1,NA,3,2,3,3,"Don't know",2,1,2,2,1,1,2,0,NA
+"1229",25,"Male","United States","MN","No",1,1,"Sometimes",3,0,1,2,3,1,1,2,"Somewhat easy",3,1,2,2,1,2,2,0,NA
+"1230",39,"Male","Greece",NA,"No",0,0,NA,4,1,1,1,1,1,1,3,"Don't know",3,1,1,1,1,1,2,0,NA
+"1231",23,"Female","United Kingdom",NA,"No",1,1,"Sometimes",4,0,1,1,3,1,3,3,"Very easy",1,1,3,3,2,2,3,0,NA
+"1232",24,"Cis Man","United Kingdom",NA,"Yes",0,1,"Sometimes",4,1,1,1,1,1,1,2,"Don't know",2,2,2,2,1,2,2,1,NA
+"1233",25,"Male","United Kingdom",NA,"No",1,1,"Sometimes",6,0,0,NA,3,3,3,3,"Very easy",1,1,3,3,3,3,3,0,"I work at a large university with a track record of health and wellbeing support"
+"1234",23,"Male","United Kingdom",NA,"No",0,1,"Rarely",4,0,1,1,3,1,1,2,"Don't know",1,1,3,3,1,2,2,0,NA
+"1235",24,"ostensibly male, unsure what that really means","United Kingdom",NA,"No",0,1,"Sometimes",4,0,0,2,1,1,2,2,"Don't know",3,2,1,1,1,2,2,0,"i'm in a country with social health care so my options are not dependant on my employer. this makes a few of the early questions less relevant than they would be for a resident of the US."
+"1236",23,"Male","Canada",NA,"No",0,1,"Often",3,0,1,NA,3,3,2,2,"Don't know",2,1,3,2,1,1,2,0,NA
+"1237",60,"Male","United States","CA","No",0,1,"Often",6,1,1,2,1,3,2,2,"Somewhat easy",2,2,2,1,1,2,2,0,NA
+"1238",28,"male","Ireland",NA,"No",0,0,"Sometimes",3,0,1,1,3,1,1,3,"Don't know",3,2,1,1,1,1,1,1,NA
+"1239",28,"Male","United States","TN","No",1,1,"Often",6,0,0,NA,3,3,3,3,"Somewhat easy",3,2,2,3,1,1,1,1,NA
+"1240",30,"male","Netherlands",NA,"No",0,0,"Sometimes",5,0,1,2,1,1,1,2,"Don't know",2,1,3,3,2,3,2,0,NA
+"1241",31,"male","Germany",NA,"No",1,1,"Sometimes",4,0,1,2,1,1,1,3,"Somewhat easy",1,1,2,1,1,1,2,0,NA
+"1242",31,"Male","Poland",NA,"Yes",0,1,"Often",4,1,1,1,1,1,1,2,"Somewhat easy",2,1,2,1,1,1,2,0,NA
+"1243",28,"Male","Ireland",NA,"No",0,1,"Rarely",3,0,1,2,1,1,2,2,"Don't know",2,1,1,1,1,2,2,0,NA
+"1244",43,"f","United States","FL","No",1,1,"Rarely",6,1,1,NA,3,1,3,2,"Don't know",1,1,2,3,1,1,2,0,NA
+"1245",32,"female","United Kingdom",NA,"No",0,0,NA,6,0,0,1,1,1,2,2,"Don't know",2,1,2,3,1,3,1,0,NA
+"1246",22,"Male","Australia",NA,"No",1,1,"Often",4,0,0,NA,3,3,3,3,"Don't know",2,2,1,3,1,2,2,1,"In australia all organisations of a certain size have to provide free access to a 'employee assistance program' to discuss work and personal issues.EAPs are an external provider totally confidential and anonymous (ring up andsay the name of who you work for - so they know to bill your work)  and they offer phone and face to face consults."
+"1247",32,"Male","United States","OR","No",0,0,"Never",4,0,1,NA,2,2,3,2,"Somewhat easy",1,1,1,2,2,3,2,0,NA
+"1248",36,"male","Finland",NA,"No",0,1,"Often",4,0,1,1,1,1,1,1,"Very difficult",3,1,2,1,1,2,2,1,NA
+"1249",41,"Female","United States","WA","No",1,1,"Sometimes",3,0,1,NA,1,1,2,2,"Don't know",3,2,1,1,1,1,2,0,NA
+"1250",30,"M","United States","CA","No",1,1,"Sometimes",3,0,1,NA,3,2,1,3,"Very easy",1,1,3,3,2,2,3,0,"Bipolar disorder"
+"1251",30,"Male","United States","CA","Yes",1,1,"Often",3,0,1,NA,2,3,3,2,"Don't know",1,1,2,3,2,2,3,0,NA
+"1252",36,"Male","South Africa",NA,"No",1,1,"Often",4,0,0,1,3,1,1,2,"Somewhat easy",1,1,2,3,1,3,3,0,NA
+"1253",29,"male","United States","NC","No",1,1,"Sometimes",4,1,1,NA,3,3,1,3,"Don't know",3,1,2,1,1,2,1,0,NA
+"1254",36,"Male","United States","UT","No",1,0,"Rarely",6,0,0,2,1,3,3,2,"Somewhat easy",2,2,2,2,1,1,2,0,NA
+"1255",26,"male","United Kingdom",NA,"No",0,1,NA,3,0,1,1,1,1,1,2,"Somewhat easy",1,1,2,2,1,1,2,0,NA
+"1256",32,"Male","United States","IL","No",1,1,"Often",3,1,1,NA,3,1,1,3,"Somewhat difficult",1,1,2,3,1,1,3,0,NA
+"1257",34,"male","United States","CA","No",1,1,"Sometimes",6,0,1,NA,3,1,1,2,"Somewhat difficult",3,3,1,1,1,1,1,0,NA
+"1258",46,"f","United States","NC","No",0,0,NA,4,1,1,1,3,1,1,2,"Don't know",3,1,1,1,1,1,1,0,NA
+"1259",25,"Male","United States","IL","No",1,1,"Sometimes",3,0,0,NA,3,1,1,3,"Don't know",2,1,2,1,1,1,2,0,NA
