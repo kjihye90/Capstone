@@ -1,0 +1,36 @@
+---
+title: "Capstone proposal"
+author: "Jihye Ko"
+date: "2018. 02. 17"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<em> What is the problem? </em>
+
+  These days, the importance of mental health is being raised. It is estimated that one in four or five of people will experience some mental health problems in lifetime. For that reason it is very important to recognize sings of mental health problems and provide help which people can easily access to. One of the reasons which cause mental issue is stress. People are stressed out in many different reasons, such as school, works, relationships and so on. In this project, I want to focus on mental health in workplace, especially in the tech. 
+
+<em> Why do clients care about this problem? </em>
+
+  In these days, many workers suffer from mental health in some way. Taking care of employees is one of responsibilities that the company should have. By solving this problem, the company can predict how effectively their mental health benefits are used by employees.
+  
+<em> What data am I using? </em>
+
+  The data that I am using is survey type. This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. 
+  This dataset contains 26 variables which are related to mental and physical health and their accessibility about health services in their company, especially in tech companies in this case. Since this dataset is based on survey, most of the data are characters, and are varied by answers. Therefore, choosing the right variables that I want to analyze and data cleaning step are important.
+  
+<em> Approaches </em>
+
+  1. Data cleaning: Make sure all the variables are understandable, and delete varialbes which do not seem to be informative. 
+  2. Data wrangling: Handle missing data (either delete, or replace them with mean/median), and if necessary change characters to numeric values. 
+  3. Statistics: Choose the proper varialbes for indendent variables, then see either correlation between them and dependent varialbe (size of the company) briefly
+  4. Machine learning: Using either regression/classification, look the relationship between dependent variable and independent variables
+  5. Report: Based on analysis, suggest a prediction to clients by answering the problem that I addressed
+
+<em> What are my deliverables? </em>
+
+  From this project, I would see whether the size of the company is correlated with other varialbes related to mental health issue. By analyzing the dataset, I can give a suggestion to the tech companies that , for example, your employees need more information about mental health care. 
+  
