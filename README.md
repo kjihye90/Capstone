@@ -9,4 +9,5 @@ Capstone project
     - MentalHealth_statistics.R
     - MentalHealth_statistics.csv
     - statistics.docx
-
+  3. Data story (Capstone project milestone report)
+    - capstone project milestone.docx
