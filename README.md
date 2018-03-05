@@ -11,3 +11,7 @@ Capstone project
     - statistics.docx
   3. Data story (Capstone project milestone report)
     - capstone project milestone.docx
+  4. Apply machine learning to my capstone project
+    - MentalHealth_machine_learning.R
+    - MentalHealth_machine_learning.csv
+    - machine learning.docx
