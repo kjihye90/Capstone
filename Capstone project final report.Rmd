@@ -1,0 +1,281 @@
+---
+title: "Capstone Project Final Report"
+author: "Jihye Ko"
+date: "2018. 03. 05"
+output:
+  word_document: default
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+**Importance**
+
+  These days, the importance of mental health is being raised. It is estimated that one in four or five of people would experience some mental health problems in lifetime. For this reason, it is very important to recognize signs of mental health problems and provide help which people can easily access to.
+  
+  One of the reasons which cause mental issue is stress. People are stressed out in many different reasons, such as school, works, relationships and so on. Especially, many workers in companies suffer from mental health in some way. Taking care of employees is one of responsibilities that the company should have. By solving this problem, the company can predict how effectively their mental health benefits are used by employees.
+  
+**Question**
+
+  Can we predict the employee's accessibility of seeking help of mental health problem in companies based on the size of the company, knowledge of wellness program and care options that the company supply, and protection of anonymity of employee's mental health issue?
+  
+# Description of Data
+
+**Dataset**
+
+  The dataset used for this project was retrieved from [kaggle.com](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
+
+**Description of Data**
+
+  The data that I am using is survey type. This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. This dataset contains 26 variables which are related to mental and physical health and their accessibility about health services in their company, especially in tech companies in this case.  
+  The varialbes as follows:
+  
+  > Description of variables
+  
+    Age
+    Gender
+    Country
+    State: If you live in the United States, which state or territory do you live in?
+    Self_employed: Are you self-employed?
+    Family_history: Do you have a family history of mental illness?
+    Treatment: Have you sought treatment for a mental health condition?
+    Work_interfere: If you have a mental health condition, do you feel that it interferes with your work?
+    No_employees: How many employees does your company or organization have?
+    Remote_work: Do you work remotely (outside of an office) at least 50% of the time?
+    Tech_company: Is your employer provide mental health benefits?
+    Benefits: Does your employer provide mental health benefits?
+    Care_options: Do you know the options for mental health care your employer provides?
+    Wellness_program: Has your employer ever discussed mental health as part of an employee wellness program?
+    Seek_help: Does your employer provide resources to learn more about mentlah health issue and how to seek help?
+    Anonymity: Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?
+    Leave: How easy is it for you to take medical leave for a mental health condition?
+    Mental_health_consequence: Do you think that discussing a mental health issue with your employer would have negative consequences?
+    Phys_health_consequence: Do you think that discussing a physical health issue with your employer would have negative consequences?
+    Coworkers: Would you be willing to discuss a mental health issue with your coworkers?
+    Supervisor: Would you be willing to discuss a mental health issue with your direct supervisor(s)?
+    Mental_health_interview: Would you bring up a mental health issue with a potential employer in an interview?
+    Phys_health_interview: Would you bring up a physical health issue with a potential employer in an interview?
+    Mental_vs_physical: Do you feel that your employer takes ental health as seriously as physical health?
+    Obs_consequence: Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
+  
+# Lists of libraries
+```{r include=FALSE}
+library(rattle)
+library(rpart.plot)
+library(RColorBrewer)
+library(rpart)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(plyr)
+library(corrplot)
+```
+
+
+* library(rattle)
+* library(rpart.plot)
+* library(RColorBrewer)
+* library(rpart)
+* library(tidyr)
+* library(dplyr)
+* library(ggplot2)
+* library(plyr)
+* library(corrplot)
+
+# Analysis and Cleaning of variables in the Dataset
+
+**Load the data from csv file**
+
+```{r message=FALSE}
+## Set this to your current path of datasets
+setwd("C:\\");
+## Loading data
+raw = read.csv(file='raw.csv',header=TRUE,sep=',')
+summary(raw)
+```
+
+**Dataset**
+
+  1259 observations and 26 variables
+
+**Data Wrangling**
+
+1. Variable with missing values
+
+  The variable which had missing value was *no_employees*, in other words, the size of the company. Since imputation was needed for dealing with missing values, the distribution of that varialbe was first analyzed. If it was normally distributed, then the mean can be used for missing values. If not, the median can be used for them. 
+  
+  Since the data of *no_employees* were not normally distributed, the missing values were replaced by median ("100-500"). Also, the data of *no_employees* were catagorized into two sizes: Medium or Large. 
+  
+```{r warning=TRUE}
+## Categorizing company into MEDIUM or LARGE (2 categories only)
+raw$no_employees = plyr::revalue(raw$no_employees, c("06¿ù 25ÀÏ"="MEDIUM", "100-500"="MEDIUM" , "26-100" = "MEDIUM" , "500-1000"="LARGE" , "More than 1000" = "LARGE"))
+## All unknown size companies default to MEDIUM
+raw$no_employees[raw$no_employees == ''] <- "MEDIUM"
+```
+  
+2. Variable with variety answers
+
+  One of the variables, *Country*, had about more than 100 answers which made the further analysis difficult. Therefore, countires were catagorized with continents (South America, North America, Africa, Oceania, Asia and Europe). 
+  
+```{r message=FALSE, warning=FALSE}
+## Categorizing countries into continents (6 categories)
+raw$Country = plyr::revalue(raw$Country, c("Mexico" = "North America", "Canada"="North America", "United States"="North America" , "United Kingdom" = "North America", "Costa Rica" = "North America", "Bahamas, The" = "North America"))
+raw$Country = plyr::revalue(raw$Country, c("Thailand" = "Asia", "Singapore" = "Asia", "Israel" = "Asia", "Japan"="Asia", "India" = "Asia", "China"="Asia", "Philippines" = "Asia"))
+raw$Country = plyr::revalue(raw$Country, c("Czech Republic" = "Europe", "Denmark" = "Europe", "Hungary" = "Europe", "Bosnia and Herzegovina"="Europe", "Greece" = "Europe", "France" = "Europe", "United Kingdom = Europe", "Portugal" = "Europe", "Switzerland" = "Europe", "Georgia" = "Europe", "Moldova" = "Europe", "Poland" = "Europe", "Austria" = "Europe", "Germany" = "Europe", "Slovenia" = "Europe", "Russia" = "Europe", "Ireland" = "Europe", "Italy" = "Europe", "Bulgaria" = "Europe", "Sweden" = "Europe", "Latvia" = "Europe", "Romania"="Europe", "Belgium" = "Europe", "Spain"="Europe", "Finland"="Europe", "Netherlands"="Europe", "Croatia" = "Europe", "Norway"="Europe"))
+raw$Country = plyr::revalue(raw$Country, c("Brazil"="South America", "Colombia" = "South America", "Uruguay"="South America"))
+raw$Country = plyr::revalue(raw$Country, c("Australia" = "Oceania", "New Zealand" = "Oceania"))
+raw$Country = plyr::revalue(raw$Country, c("Nigeria" = "Africa", "Zimbabwe"="Africa", "South Africa" = "Africa"))
+summary(raw$Country)
+
+```
+  
+
+  
+# Correlation among variables
+
+**Variables with two answers (Yes/No)**
+
+Some variables (i.e. family_history, treatment, tech_company, remote_work, obs_consequence) had either 'Yes' or 'No' answers. To observe the relationship among variables, corrPlot was used. By default, corrPlot needs numeric values not string. Therefore, changing string to numeric values was necessary steps. Then, correlations between variables were plotted with correlation coefficients. 
+```{r}
+## Changing string to numeric values
+raw$family_history = plyr::revalue(raw$family_history, c("Yes" = 1, "No" = 3))
+raw$treatment = plyr::revalue(raw$treatment, c("Yes" = 1, "No" = 3))
+raw$tech_company = plyr::revalue(raw$tech_company, c("Yes" = 1, "No" =3))
+raw$remote_work = plyr::revalue(raw$remote_work, c("Yes" = 1, "No" = 3))
+raw$obs_consequence = plyr::revalue(raw$obs_consequence, c("Yes" = 1, "No" = 3))
+
+raw$family_history <- as.numeric(as.character(raw$family_history))
+raw$treatment <- as.numeric(as.character(raw$treatment))
+raw$tech_company <- as.numeric(as.character(raw$tech_company))
+raw$remote_work <- as.numeric(as.character(raw$remote_work))
+raw$obs_consequence <- as.numeric(as.character(raw$obs_consequence))
+
+## corrPlot to examine the relationships among variables
+MentalHealth_Data_1 <- subset(raw, select = c(family_history, treatment, tech_company, remote_work, obs_consequence))
+N <- cor(MentalHealth_Data_1)
+corrplot(N, method = "number")
+```
+
+*Conclusion 1:*
+
+From this corrPlot, there was no strong correlation between variables which had two answers. 
+
+**Variables with three answers (Yes/Don't know/No)**
+
+Other variables (i.e. benefits, care_options, wellness_program, seek_hlep, anonymity, mental_health_consequence, phys_health_consequence, coworkers, supervisor, mental_health_interview, phys_health_interview, mental_vs_physical) had three answers as follows: 'Yes', 'Don't Know', and 'No'. Just like the above, strings were changed to numbers and correlations between variables were examined.
+```{r message=FALSE, warning=FALSE}
+## Changing string to numeric values
+raw$benefits = plyr::revalue(raw$benefits, c("Yes" = 1, "Don't know" = 2, "No" = 3))
+raw$care_options = plyr::revalue(raw$care_options, c("Yes" = 1, "Not sure" = 2, "No" = 3))
+raw$wellness_program = plyr::revalue(raw$wellness_program, c("Yes" = 1, "Don't know" = 2, "No" = 3))
+raw$seek_help = plyr::revalue(raw$seek_help, c("Yes" = 1, "Don't know" = 2, "No" =3))
+raw$anonymity = plyr::revalue(raw$anonymity, c("Yes" = 1, "Don't know" = 2, "No" = 3))
+raw$mental_health_consequence = plyr::revalue(raw$mental_health_consequence, c("Yes" = 1, "Maybe" = 3, "No" =3))
+raw$phys_health_consequence = plyr::revalue(raw$phys_health_consequence, c("Yes" = 1, "Maybe" = 2, "No" = 3))
+raw$coworkers = plyr::revalue(raw$coworkers, c("Yes" = 1, "Some of them" = 2, "No" =3))
+raw$supervisor = plyr::revalue(raw$supervisor, c("Yes" = 1, "Some of them" = 2, "No" = 3))
+raw$mental_health_interview = plyr::revalue(raw$mental_health_interview, c("Yes" = 1, "Maybe" = 2, "No" =3))
+raw$phys_health_interview = plyr::revalue(raw$phys_health_interview, c("Yes" = 1, "Maybe" = 2, "No" =3))
+raw$mental_vs_physical = plyr::revalue(raw$mental_vs_physical, c("Yes" = 1, "Don't know" = 2, "No" = 3))
+
+raw$benefits <- as.numeric(as.character(raw$benefits))
+raw$care_options <- as.numeric(as.character(raw$care_options))
+raw$wellness_program <- as.numeric(as.character(raw$wellness_program))
+raw$seek_help <- as.numeric(as.character(raw$seek_help))
+raw$anonymity <- as.numeric(as.character(raw$anonymity))
+raw$mental_health_consequence <- as.numeric(as.character(raw$mental_health_consequence))
+raw$phys_health_consequence <- as.numeric(as.character(raw$phys_health_consequence))
+raw$coworkers <- as.numeric(as.character(raw$coworkers))
+raw$supervisor <- as.numeric(as.character(raw$supervisor))
+raw$mental_health_interview <- as.numeric(as.character(raw$mental_health_interview))
+raw$phys_health_interview <- as.numeric(as.character(raw$phys_health_interview))
+raw$mental_vs_physical <- as.numeric(as.character(raw$mental_vs_physical))
+
+## corrPlot to examine the relationships among variables
+MentalHealth_Data_2 <- subset(raw, select = c(benefits, care_options, wellness_program, seek_help, anonymity, mental_health_consequence, phys_health_consequence, coworkers,supervisor, mental_health_interview, phys_health_interview, mental_vs_physical))
+M <- cor(MentalHealth_Data_2)
+corrplot(M, method = "number")
+```
+
+*Conclusion 2:*
+
+From this corrPlot, there was a quite strong relationship between *wellness_program* and *seek_help* whose correlation coefficient was 0.62. Since *seek_help* had a positive correlation (not significant) with other variables (i.e. *benefits*), this variable would be proper for a dependent variable. 
+
+# Prediction
+
+**Approach**
+
+1. Make prediction models using *library(rpart)*, and choose the most proper one based on *CP values* and *variable importance*. 
+2. Predict the accessibility of seeking help related to mental health in a company using *classification trees*. 
+3. Test the model on test data (*limitation*: in this case, there is no test data, so the original data was used and the accuracy of the model was determined).
+
+**Make prediction models**
+
+In this project, *seek_help* was used as a dependent variable, and other variables were used as independent variables. The complexity parameter (CP) is used to control the size of the decision tree and to select the optimal tree size. 
+
+
+Here are some models generated to find the most proper prediction model. 
+```{r}
+## Using the complete data to predict seek_help a categorical variable. Using method="class"
+fit <- rpart(seek_help ~ no_employees + wellness_program, method = "class", data = raw)
+fit1 <- rpart(seek_help ~ no_employees + wellness_program + mental_vs_physical, method = "class", data = raw)
+fit2 <- rpart(seek_help ~ no_employees + wellness_program + care_options + anonymity + mental_vs_physical, method = "class", data = raw)
+fit3 <- rpart(seek_help ~ no_employees + wellness_program + care_options + anonymity + mental_vs_physical + mental_health_consequence + mental_health_interview, method = "class", data = raw)
+fit4 <- rpart(seek_help ~ no_employees + wellness_program + care_options, method = "class", data = raw)
+fit5 <- rpart(seek_help ~ no_employees + wellness_program + Country, method = "class", data = raw)
+fit6 <- rpart(seek_help ~ no_employees + wellness_program + care_options + anonymity, method = "class", data = raw)
+```
+
+In this report, not all results of all models were reported. However, the interesting and common result was that only *wellness_program* was used in tree construction in all models generated. Therefore, *CP values* were also the same among models.  
+
+The only difference was the *variable importance*. By comparing the importance of each variable in each model, it was determined that **fit6** (dependent variable: *seek_help*, independent variables: *no_employees, wellness_program, care_options, anonymity*) is the most proper prediction model (with variable importance as descending orders: *wellness_program (77), care_options (9), no_employees (9), anonymity (6)*). Therefore, in this report, only the result of **fit6** is reported, and the  model tree was generated as below.
+
+```{r}
+## Tuning variable cp with best value of 0.01. 
+printcp(fit6)
+plotcp(fit6)
+## Understanding the summary of fit
+summary(fit6)
+## Plotting the model tree
+fancyRpartPlot(fit6)
+```
+
+**Prediction**
+
+Based on the prediction model, the test data should be predicted to see whether the prediction model is reliable or not. However, in this case, there is no test data, so the original data was reused to see the accuracy of the model. 
+
+```{r}
+## This is not the ideal way. We are using the same inputdata for testing accuracy.
+## Just for demonstration purpose. Ideally we should spit into training , testing and validation data sets
+
+## Calculating accuracy of the model
+t_pred = predict(fit6,raw,type="class")
+t = raw$seek_help
+accuracy = sum(t_pred == t)/length(t)
+print(accuracy)
+```
+
+Accuracy: 0.7117
+
+This means that the model has about 71% of accuracy in prediction.
+
+*Conclusion:*
+
+The question for this project was whether we can predict the employee's willingness of seeking help of mental health problem in companies based on the size of the company, knowledge of wellness program and care options that the company supply, and protection of anonymity of employee's mental health issue. Based on the *classification tree*, it was found out that there is a strong correlation between *seek_help (the employee's willingness of seeking help of mental health problem and the companies ability to provide resources)* and *wellness_program (the knowledge of wellness program and care options that the company supply)*. Even though other variables, such as *care_options, no_employees, anonymity* did not show a strong correlation to dependent variable, they still can be good predictors and improve prediction model. 
+
+# Further research
+
+* To build a better prediction model, it is necessary to have a test data (i.e. survey conducted in following year). 
+* For future survey, it would be better to lessen the number of questions. In other words, variables, like *benefits* and *care_options* can be combined as one question because both are asking whether employees know the company provides mental health benefits or not. By combinding variables which have similar questions, the better prediction model can be constructed. 
+
+# Recommendations
+
+* Since an employer who discusses mental health to employees provides more resources and chances to seek help for them who have mental health issue, it is necessary that the employer needs to know not only physical health care systems but also mental health care systems and programs. By doing so, employees can easily access to ask help about their mental health problems, and probably their work efficiency would increase. 
+* The case when an employer gives information about mental health program and approaches to employees gives more accessibility and awareness about the care options for them. So, it is recommended for the employer to approach to employees first about their mental health. 
+* The larger companies are more likely aware and provide resources to learn more about mental health issues and how to seek help. Therefore, it is necessary that small to medium sized companies should care and know more about mental health care programs for their employees. 
