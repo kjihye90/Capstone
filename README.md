@@ -14,3 +14,6 @@ Capstone project
   4. Apply machine learning to my capstone project
     - MentalHealth_machine_learning.R
     - machine learning.docx
+  5. Capstone final report
+    - Capstone project final report.Rmd
+    - Capstone_project_final_report.docx
